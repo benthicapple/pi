@@ -1,0 +1,3520 @@
+2025-12-09 10:49:30,401: root - ERROR - An error occurred during speak: [Errno 2] No such file or directory: '/home/admin/pi/piper/piper'
+2025-12-09 10:49:31,740: root - ERROR - AI model loading error: pszemraj/flan-t5-small-grammar-synthesis is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `hf auth login` or by passing `token=<your_token>`
+2025-12-09 10:49:31,740: root - ERROR - An error occurred during speak: [Errno 2] No such file or directory: '/home/admin/pi/piper/piper'
+2025-12-09 11:06:26,036: root - ERROR - An error occurred during speak: [Errno 2] No such file or directory: '/home/admin/pi/piper/piper'
+2025-12-09 11:06:29,833: root - ERROR - AI model loading error: pszemraj/flan-t5-small-grammar-synthesis is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `hf auth login` or by passing `token=<your_token>`
+2025-12-09 11:06:29,834: root - ERROR - An error occurred during speak: [Errno 2] No such file or directory: '/home/admin/pi/piper/piper'
+2025-12-09 11:15:18,716: root - ERROR - An error occurred during speak: [Errno 2] No such file or directory: '/home/admin/pi/piper/piper'
+2025-12-09 11:15:23,539: root - ERROR - AI model loading error: pszemraj/flan-t5-small-grammar-synthesis is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `hf auth login` or by passing `token=<your_token>`
+2025-12-09 11:15:23,540: root - ERROR - An error occurred during speak: [Errno 2] No such file or directory: '/home/admin/pi/piper/piper'
+2025-12-09 11:28:44,375: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:28:45,740: root - ERROR - AI model loading error: pszemraj/flan-t5-small-grammar-synthesis is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `hf auth login` or by passing `token=<your_token>`
+2025-12-09 11:28:45,741: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:29:50,820: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:29:51,931: root - ERROR - An error occurred during playTTS: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:29:52,431: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:30:09,695: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:30:10,262: root - ERROR - An error occurred during playTTS: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:30:10,763: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:30:21,295: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:30:21,843: root - ERROR - An error occurred during playTTS: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:30:22,344: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:30:28,860: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:30:29,462: root - ERROR - An error occurred during playTTS: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:30:29,962: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:32:21,708: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:32:22,242: root - ERROR - No text to read!
+2025-12-09 11:32:22,243: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:32:22,743: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:32:27,636: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:32:28,342: root - ERROR - An error occurred during playTTS: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:32:28,843: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:36:42,860: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:36:43,382: root - ERROR - An error occurred during playTTS: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:36:43,883: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:37:07,796: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:37:08,376: root - ERROR - An error occurred during playTTS: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:37:08,877: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:44:19,925: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:44:20,560: root - ERROR - An error occurred during playTTS: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 11:44:21,061: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 12:58:45,926: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 13:00:32,387: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 13:04:22,124: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 13:04:39,666: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 13:04:40,732: root - ERROR - No text to read!
+2025-12-09 13:04:40,732: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 13:04:41,233: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 13:06:44,048: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 13:06:52,565: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 13:06:53,392: root - ERROR - No text to read!
+2025-12-09 13:06:53,392: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 13:06:53,893: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 13:19:34,538: root - ERROR - An error occurred during speak: [Errno 13] Permission denied: '/home/admin/pi/piper/piper'
+2025-12-09 14:20:33,394 - ERROR - AI model loading error: pszemraj/flan-t5-small-grammar-synthesis is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `hf auth login` or by passing `token=<your_token>`
+2025-12-09 14:24:05,242 - ERROR - AI model loading error: pszemraj/flan-t5-small-grammar-synthesis is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `hf auth login` or by passing `token=<your_token>`
+2025-12-09 14:35:10,334 - ERROR - AI model loading error: pszemraj/flan-t5-small-grammar-synthesis is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `hf auth login` or by passing `token=<your_token>`
+2025-12-09 14:39:54,759 - ERROR - AI model loading error: pszemraj/flan-t5-small-grammar-synthesis is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `hf auth login` or by passing `token=<your_token>`
+2025-12-09 14:54:36,210 - ERROR - AI model loading error: pszemraj/flan-t5-small-grammar-synthesis is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `hf auth login` or by passing `token=<your_token>`
+2025-12-09 14:54:50,065 - ERROR - No text to read!
+2025-12-09 14:58:26,045 - ERROR - No text to read!
+2025-12-10 12:27:54,443 - ERROR - No text to read!
+2025-12-10 12:28:15,782 - ERROR - No text to read!
+2025-12-10 12:30:03,373 - ERROR - AI model loading error: pszemraj/flan-t5-small-grammar-synthesis is not a local folder and is not a valid model identifier listed on 'https://huggingface.co/models'
+If this is a private repository, make sure to pass a token having permission to this repo either by logging in with `hf auth login` or by passing `token=<your_token>`
+2025-12-10 12:47:10,838 - INFO - ============================================================
+2025-12-10 12:47:10,840 - INFO - Starting PiTextReader - Enhanced Version
+2025-12-10 12:47:10,840 - INFO - ============================================================
+2025-12-10 12:47:10,846 - INFO - volume(30)
+2025-12-10 12:47:10,888 - INFO - speak()
+2025-12-10 12:47:13,410 - INFO - led(1)
+2025-12-10 12:47:13,425 - INFO - Entering main loop - waiting for button press
+2025-12-10 12:47:35,896 - INFO - stopTTS() detected button press
+2025-12-10 12:47:35,997 - INFO - stopTTS() detected button press
+2025-12-10 12:47:36,002 - INFO - Button pressed - starting capture
+2025-12-10 12:47:36,003 - INFO - getData()
+2025-12-10 12:47:36,003 - INFO - led(0)
+2025-12-10 12:47:36,003 - INFO - Playing sound: /usr/bin/aplay -D plughw:CARD=UACDemoV10,DEV=0 -q /home/admin/pi/sounds/camera-shutter.wav
+2025-12-10 12:47:36,532 - INFO - Running camera command: rpicam-still --width 2304 --height 1296 --awb auto --rot 180 -t 1000 --sharpness 1.5 --contrast 1.2 -o /tmp/image.jpg
+2025-12-10 12:47:37,962 - INFO - Captured image size: 577769 bytes
+2025-12-10 12:47:37,978 - INFO - speak()
+2025-12-10 12:47:40,372 - INFO - enhanceImage()
+2025-12-10 12:47:40,566 - INFO - Image quality - Brightness: 119.2, Contrast: 61.6, Sharpness: 91.5
+2025-12-10 12:47:40,582 - WARNING - Image quality issues: blurry
+2025-12-10 12:47:40,825 - INFO - Image enhancement complete. Created 4 versions
+2025-12-10 12:47:40,841 - INFO - Running OCR: /usr/bin/tesseract /tmp/image_enhanced.jpg /tmp/text --psm 6 --oem 3
+2025-12-10 12:47:48,037 - INFO - cleanText()
+2025-12-10 12:47:48,083 - INFO - Original text (345 chars): | LS @ranator resource mug || Lucy) | 7
+ed? Clele D TAN ira
+
+7 Tf ewempognams || maursav |i [fp
+oe : Peg dhe 4 oA BpaeM UG itane ivahis e \ 7 mat . i ie -
+LIM | sacar || SeoTO |}. :
+\P\l| 1ARISAGRAE, || S80TO | '
+
+Bie eae 8 RRO Ser re as a erence on ae be
+Fah TEOTT ES 3 ORIN 07 XPLOSV Foot eget sa <
+2025-12-10 12:47:48,100 - INFO - Final cleaned text (346 chars): | LS at ranator resource mug || Lucy) | 7 ed? Clele D TAN ira 7 Tf ewempognams || maursav |i [fp oe : Peg dhe 4 oA BpaeM UG itane ivahis e \ 7 mat . i ie - LIM | sacar || SeoTO |}. : \P\l| 1ARISAGRAE, || S80TO | ' Bie eae 8 RRO Ser re as a erence on ae be Fah TEOTT ES 3 ORIN 07 XPLOSV Foot eget sa <
+2025-12-10 12:47:48,157 - INFO - playTTS()
+2025-12-10 12:47:48,172 - INFO - Reading 346 characters
+2025-12-10 12:47:48,189 - INFO - speak()
+2025-12-10 12:48:20,012 - INFO - led(1)
+2025-12-10 12:48:20,532 - INFO - speak()
+2025-12-10 12:50:32,377 - INFO - stopTTS() detected button press
+2025-12-10 12:50:32,453 - INFO - Button pressed - starting capture
+2025-12-10 12:50:32,453 - INFO - getData()
+2025-12-10 12:50:32,453 - INFO - led(0)
+2025-12-10 12:50:32,454 - INFO - Playing sound: /usr/bin/aplay -D plughw:CARD=UACDemoV10,DEV=0 -q /home/admin/pi/sounds/camera-shutter.wav
+2025-12-10 12:50:32,477 - INFO - stopTTS() detected button press
+2025-12-10 12:50:32,578 - INFO - stopTTS() detected button press
+2025-12-10 12:50:32,678 - INFO - stopTTS() detected button press
+2025-12-10 12:50:32,778 - INFO - stopTTS() detected button press
+2025-12-10 12:50:32,983 - INFO - Running camera command: rpicam-still --width 2304 --height 1296 --awb auto --rot 180 -t 1000 --sharpness 1.5 --contrast 1.2 -o /tmp/image.jpg
+2025-12-10 12:50:34,400 - INFO - Captured image size: 598522 bytes
+2025-12-10 12:50:34,416 - INFO - speak()
+2025-12-10 12:50:36,734 - INFO - enhanceImage()
+2025-12-10 12:50:36,910 - INFO - Image quality - Brightness: 124.1, Contrast: 62.6, Sharpness: 135.5
+2025-12-10 12:50:37,153 - INFO - Image enhancement complete. Created 4 versions
+2025-12-10 12:50:37,169 - INFO - Running OCR: /usr/bin/tesseract /tmp/image_enhanced.jpg /tmp/text --psm 6 --oem 3
+2025-12-10 12:50:44,652 - INFO - cleanText()
+2025-12-10 12:50:44,683 - INFO - Original text (404 chars): oT ee Pad AEE Te toyins/ a) PUNY EMS
+4 Sl iC ewewrpetas: || TAURSBAY | 1
+. i GaN i Widsets Ae iM ahh ee ae a Ses Re ees iy ire
+eee os <= Ss s Rae a Ee Ry Tae ENDS te Se lg eae Ug wy ean | ae pV j ann |
+ete enw aay ging = A ae SL NF ay RUPTAMRC NRC en Rae egy A See fhe) leas | Staeaer | Se ae vy ey
+i
+2025-12-10 12:50:44,699 - INFO - Final cleaned text (419 chars): oT ee Pad AEE Te toyins/ a) PUNY EMS 4 Sl iC ewewrpetas: || TAURSBAY | 1 . i GaN i Widsets Ae iM ahh ee ae a Ses Re ees iy ire eee os < equals Ss s Rae a Ee Ry Tae ENDS te Se lg eae Ug wy ean | ae pV j ann | ete enw aay ging equals A ae SL NF ay RUPTAMRC NRC en Rae egy A See fhe) leas | Staeaer | Se
+2025-12-10 12:50:44,752 - INFO - playTTS()
+2025-12-10 12:50:44,784 - INFO - Reading 419 characters
+2025-12-10 12:50:44,800 - INFO - speak()
+2025-12-10 12:51:09,824 - INFO - stopTTS() detected button press
+2025-12-10 12:51:09,924 - INFO - stopTTS() detected button press
+2025-12-10 12:51:10,025 - INFO - stopTTS() detected button press
+2025-12-10 12:51:10,125 - INFO - stopTTS() detected button press
+2025-12-10 12:51:12,058 - INFO - stopTTS() detected button press
+2025-12-10 12:51:12,158 - INFO - stopTTS() detected button press
+2025-12-10 12:51:12,259 - INFO - stopTTS() detected button press
+2025-12-10 12:51:12,359 - INFO - stopTTS() detected button press
+2025-12-10 12:51:12,459 - INFO - stopTTS() detected button press
+2025-12-10 12:51:27,806 - INFO - led(1)
+2025-12-10 12:51:28,332 - INFO - speak()
+2025-12-10 12:55:48,829 - INFO - ============================================================
+2025-12-10 12:55:48,834 - INFO - PiTextReader - SIMPLIFIED VERSION
+2025-12-10 12:55:48,834 - INFO - Minimal processing for maximum accuracy
+2025-12-10 12:55:48,834 - INFO - ============================================================
+2025-12-10 12:55:48,842 - INFO - volume(30)
+2025-12-10 12:55:48,873 - INFO - speak(): Ready
+2025-12-10 12:55:50,417 - INFO - led(1)
+2025-12-10 12:55:50,433 - INFO - Waiting for button press...
+2025-12-10 12:56:08,181 - INFO - stopTTS() detected button press
+2025-12-10 12:56:08,281 - INFO - stopTTS() detected button press
+2025-12-10 12:56:08,290 - INFO - 
+============================================================
+2025-12-10 12:56:08,290 - INFO - BUTTON PRESSED - STARTING CAPTURE
+2025-12-10 12:56:08,290 - INFO - ============================================================
+2025-12-10 12:56:08,290 - INFO - led(0)
+2025-12-10 12:56:08,291 - INFO - Playing sound: /usr/bin/aplay -D plughw:CARD=UACDemoV10,DEV=0 -q /home/admin/pi/sounds/camera-shutter.wav
+2025-12-10 12:56:08,381 - INFO - stopTTS() detected button press
+2025-12-10 12:56:08,482 - INFO - stopTTS() detected button press
+2025-12-10 12:56:08,811 - INFO - Camera: rpicam-still --width 1920 --height 1080 --awb auto --rot 180 -t 2000 -o /tmp/image.jpg
+2025-12-10 12:56:11,188 - INFO - Image captured: 476160 bytes
+2025-12-10 12:56:11,203 - INFO - speak(): Processing
+2025-12-10 12:56:13,269 - INFO - enhanceImage() - MINIMAL processing mode
+2025-12-10 12:56:14,808 - INFO - Created 4 image variants: gray, denoised, binary, inverted
+2025-12-10 12:56:14,819 - INFO - ============================================================
+2025-12-10 12:56:14,834 - INFO - STARTING OCR WITH ALL METHODS
+2025-12-10 12:56:14,850 - INFO - ============================================================
+2025-12-10 12:56:14,871 - INFO - Running: tesseract image.jpg --psm 3
+2025-12-10 12:56:15,182 - INFO - Running: tesseract image.jpg --psm 6
+2025-12-10 12:56:17,574 - INFO - Text quality - Alnum: 0.58, Single-char: 0.44, Reasonable: 0.56, Score: 30
+2025-12-10 12:56:17,574 - INFO - Result: original PSM=6 | Score=30 | Length=57 | Preview: os | See
+KARAOKE EC . i &
+
+“ARTS & CRAFT FB: |
+
+FOOD a 2a
+2025-12-10 12:56:17,574 - INFO - *** NEW BEST RESULT: original (PSM=6) Score=30
+2025-12-10 12:56:17,574 - INFO - Running: tesseract image.jpg --psm 4
+2025-12-10 12:56:18,111 - INFO - Text quality - Alnum: 0.30, Single-char: 0.80, Reasonable: 0.20, Score: 0
+2025-12-10 12:56:18,126 - INFO - Result: original PSM=4 | Score=0 | Length=10 | Preview: |
+Oy 4 ®
+|
+2025-12-10 12:56:18,142 - INFO - Running: tesseract image.jpg --psm 11
+2025-12-10 12:56:19,714 - INFO - Text quality - Alnum: 0.55, Single-char: 0.20, Reasonable: 0.80, Score: 70
+2025-12-10 12:56:19,730 - INFO - Result: original PSM=11 | Score=70 | Length=47 | Preview: be
+
+i,
+
+(anhene
+
+“ARTS & CRAFT
+
+FOOD
+
+°
+
+NA
+
+wi
+2025-12-10 12:56:19,746 - INFO - *** NEW BEST RESULT: original (PSM=11) Score=70
+2025-12-10 12:56:19,762 - INFO - Running: tesseract image.jpg --psm 13
+2025-12-10 12:56:21,513 - INFO - Text quality - Alnum: 0.71, Single-char: 0.50, Reasonable: 0.50, Score: 30
+2025-12-10 12:56:21,528 - INFO - Result: original PSM=13 | Score=30 | Length=7 | Preview: Eales |
+2025-12-10 12:56:21,550 - INFO - Running: tesseract image_gray.jpg --psm 3
+2025-12-10 12:56:22,852 - INFO - Text quality - Alnum: 0.76, Single-char: 0.18, Reasonable: 0.82, Score: 100
+2025-12-10 12:56:22,863 - INFO - Result: grayscale PSM=3 | Score=100 | Length=63 | Preview: KARAOKE
+ARTS & CRAFT
+FOOD
+
+\ GLADIATOR RESOURCE HUB,
+BLDG. 3800
+2025-12-10 12:56:22,879 - INFO - *** NEW BEST RESULT: grayscale (PSM=3) Score=100
+2025-12-10 12:56:22,894 - INFO - Running: tesseract image_gray.jpg --psm 6
+2025-12-10 12:56:25,342 - INFO - Text quality - Alnum: 0.59, Single-char: 0.38, Reasonable: 0.62, Score: 30
+2025-12-10 12:56:25,358 - INFO - Result: grayscale PSM=6 | Score=30 | Length=128 | Preview: | YL tHursDaY Ef ‘
+
+TH
+
+KARAOKE : pEC 11
+
+5:30 TO 1
+
+s & CRAFT
+
+- 7:30 1
+\ GLADI
+2025-12-10 12:56:25,373 - INFO - Running: tesseract image_gray.jpg --psm 4
+2025-12-10 12:56:26,740 - INFO - Text quality - Alnum: 0.76, Single-char: 0.18, Reasonable: 0.82, Score: 100
+2025-12-10 12:56:26,755 - INFO - Result: grayscale PSM=4 | Score=100 | Length=63 | Preview: KARAOKE
+ARTS & CRAFT
+FOOD
+
+\ GLADIATOR RESOURCE HUB,
+BLDG. 3800
+2025-12-10 12:56:26,771 - INFO - Running: tesseract image_gray.jpg --psm 11
+2025-12-10 12:56:29,260 - INFO - Text quality - Alnum: 0.65, Single-char: 0.16, Reasonable: 0.84, Score: 70
+2025-12-10 12:56:29,276 - INFO - Result: grayscale PSM=11 | Score=70 | Length=109 | Preview: THURSDAY
+
+DEC 41°"
+
+KARAOKE
+
+5:30 TO
+
+ARTS & CRAFT
+
+7:30
+
+FOOD
+
+ot
+
+“
+
+\
+
+GLADIA
+2025-12-10 12:56:29,286 - INFO - Running: tesseract image_gray.jpg --psm 13
+2025-12-10 12:56:30,325 - INFO - Text quality - Alnum: 0.71, Single-char: 0.50, Reasonable: 0.50, Score: 30
+2025-12-10 12:56:30,340 - INFO - Result: grayscale PSM=13 | Score=30 | Length=7 | Preview: Ealce |
+2025-12-10 12:56:30,356 - INFO - Running: tesseract image_denoised.jpg --psm 3
+2025-12-10 12:56:31,544 - INFO - Text quality - Alnum: 0.76, Single-char: 0.18, Reasonable: 0.82, Score: 100
+2025-12-10 12:56:31,559 - INFO - Result: denoised PSM=3 | Score=100 | Length=63 | Preview: KARAOKE
+ARTS & CRAFT
+FOOD
+
+\ GLADIATOR RESOURCE HUB,
+BLDG. 3800
+2025-12-10 12:56:31,569 - INFO - Running: tesseract image_denoised.jpg --psm 6
+2025-12-10 12:56:34,820 - INFO - Text quality - Alnum: 0.66, Single-char: 0.26, Reasonable: 0.74, Score: 70
+2025-12-10 12:56:34,835 - INFO - Result: denoised PSM=6 | Score=70 | Length=134 | Preview: ae |
+THURSDA >
+TH FF
+KARAOKE pEC 11
+5:30 TO 1
+Ss & CRAFT
+ee: 7:30 1
+FOOD AF
+Tee 
+2025-12-10 12:56:34,851 - INFO - Running: tesseract image_denoised.jpg --psm 4
+2025-12-10 12:56:36,176 - INFO - Text quality - Alnum: 0.76, Single-char: 0.18, Reasonable: 0.82, Score: 100
+2025-12-10 12:56:36,191 - INFO - Result: denoised PSM=4 | Score=100 | Length=63 | Preview: KARAOKE
+ARTS & CRAFT
+FOOD
+
+\ GLADIATOR RESOURCE HUB,
+BLDG. 3800
+2025-12-10 12:56:36,207 - INFO - Running: tesseract image_denoised.jpg --psm 11
+2025-12-10 12:56:38,359 - INFO - Text quality - Alnum: 0.67, Single-char: 0.11, Reasonable: 0.89, Score: 70
+2025-12-10 12:56:38,375 - INFO - Result: denoised PSM=11 | Score=70 | Length=107 | Preview: THURSDAY
+
+TH
+
+pec 11
+
+KARAOKE
+
+30 TO
+
+ARTS & CRAFT
+
+7:30
+
+FOOD
+
+ia
+
+ &
+
+GLADIATO
+2025-12-10 12:56:38,390 - INFO - Running: tesseract image_denoised.jpg --psm 13
+2025-12-10 12:56:39,082 - INFO - Text quality - Alnum: 0.71, Single-char: 0.50, Reasonable: 0.50, Score: 30
+2025-12-10 12:56:39,098 - INFO - Result: denoised PSM=13 | Score=30 | Length=7 | Preview: Eales |
+2025-12-10 12:56:39,119 - INFO - Running: tesseract image_binary.jpg --psm 3
+2025-12-10 12:56:40,502 - INFO - Text quality - Alnum: 0.76, Single-char: 0.18, Reasonable: 0.82, Score: 100
+2025-12-10 12:56:40,518 - INFO - Result: binary PSM=3 | Score=100 | Length=63 | Preview: KARAOKE
+ARTS & CRAFT
+FOOD
+
+\ GLADIATOR RESOURCE HUB,
+BLDG. 3800
+2025-12-10 12:56:40,534 - INFO - Running: tesseract image_binary.jpg --psm 6
+2025-12-10 12:56:43,314 - INFO - Text quality - Alnum: 0.62, Single-char: 0.33, Reasonable: 0.67, Score: 30
+2025-12-10 12:56:43,330 - INFO - Result: binary PSM=6 | Score=30 | Length=140 | Preview: 1 '
+7 ;yuRSDAY [i »
+THE
+KARAOKE } DEC 11 §
+1
+ARTS & CRAFT 5:30 TO
+7:30 1
+FOOD ay
+2025-12-10 12:56:43,340 - INFO - Running: tesseract image_binary.jpg --psm 4
+2025-12-10 12:56:44,832 - INFO - Text quality - Alnum: 0.76, Single-char: 0.18, Reasonable: 0.82, Score: 100
+2025-12-10 12:56:44,832 - INFO - Result: binary PSM=4 | Score=100 | Length=63 | Preview: KARAOKE
+ARTS & CRAFT
+FOOD
+
+\ GLADIATOR RESOURCE HUB,
+BLDG. 3800
+2025-12-10 12:56:44,832 - INFO - Running: tesseract image_binary.jpg --psm 11
+2025-12-10 12:56:47,032 - INFO - Text quality - Alnum: 0.66, Single-char: 0.05, Reasonable: 0.95, Score: 70
+2025-12-10 12:56:47,048 - INFO - Result: binary PSM=11 | Score=70 | Length=111 | Preview: THURSDAY
+
+DEC 41°"
+
+KARAOKE
+
+5:30 TO
+
+ARTS & CRAFT
+
+7:30
+
+FOOD
+
+Ne
+
+*“
+
+wy
+
+GLAD
+2025-12-10 12:56:47,063 - INFO - Running: tesseract image_binary.jpg --psm 13
+2025-12-10 12:56:47,643 - INFO - Text quality - Alnum: 0.71, Single-char: 0.50, Reasonable: 0.50, Score: 30
+2025-12-10 12:56:47,658 - INFO - Result: binary PSM=13 | Score=30 | Length=7 | Preview: Eales |
+2025-12-10 12:56:47,679 - INFO - Running: tesseract image_inverted.jpg --psm 3
+2025-12-10 12:56:48,758 - INFO - Text quality - Alnum: 0.76, Single-char: 0.18, Reasonable: 0.82, Score: 100
+2025-12-10 12:56:48,773 - INFO - Result: inverted PSM=3 | Score=100 | Length=63 | Preview: KARAOKE
+ARTS & CRAFT
+FOOD
+
+\ GLADIATOR RESOURCE HUB,
+BLDG. 3800
+2025-12-10 12:56:48,783 - INFO - Running: tesseract image_inverted.jpg --psm 6
+2025-12-10 12:56:50,989 - INFO - Text quality - Alnum: 0.62, Single-char: 0.42, Reasonable: 0.58, Score: 30
+2025-12-10 12:56:51,004 - INFO - Result: inverted PSM=6 | Score=30 | Length=136 | Preview: 1 '
+7 ;yuRSDAY [i »
+THE
+KARAOKE } DEC 11 §
+1
+ARTS & CRAFT 5:30 TO
+7:30 1
+FOOD we
+2025-12-10 12:56:51,022 - INFO - Running: tesseract image_inverted.jpg --psm 4
+2025-12-10 12:56:52,264 - INFO - Text quality - Alnum: 0.76, Single-char: 0.18, Reasonable: 0.82, Score: 100
+2025-12-10 12:56:52,280 - INFO - Result: inverted PSM=4 | Score=100 | Length=63 | Preview: KARAOKE
+ARTS & CRAFT
+FOOD
+
+\ GLADIATOR RESOURCE HUB,
+BLDG. 3800
+2025-12-10 12:56:52,296 - INFO - Running: tesseract image_inverted.jpg --psm 11
+2025-12-10 12:56:53,710 - INFO - Text quality - Alnum: 0.66, Single-char: 0.11, Reasonable: 0.89, Score: 70
+2025-12-10 12:56:53,721 - INFO - Result: inverted PSM=11 | Score=70 | Length=110 | Preview: THURSDAY
+
+DEC 41""
+
+KARAOKE
+
+5:30 TO
+
+ARTS & CRAFT
+
+7:30
+
+FOOD
+
+Ne
+
+*
+
+we
+
+GLADI
+2025-12-10 12:56:53,737 - INFO - Running: tesseract image_inverted.jpg --psm 13
+2025-12-10 12:56:54,232 - INFO - Text quality - Alnum: 0.71, Single-char: 0.50, Reasonable: 0.50, Score: 30
+2025-12-10 12:56:54,248 - INFO - Result: inverted PSM=13 | Score=30 | Length=7 | Preview: Eales |
+2025-12-10 12:56:54,264 - INFO - ============================================================
+2025-12-10 12:56:54,280 - INFO - BEST METHOD: grayscale (PSM=3)
+2025-12-10 12:56:54,296 - INFO - BEST SCORE: 100
+2025-12-10 12:56:54,312 - INFO - TEXT LENGTH: 63
+2025-12-10 12:56:54,327 - INFO - TEXT PREVIEW: KARAOKE
+ARTS & CRAFT
+FOOD
+
+\ GLADIATOR RESOURCE HUB,
+BLDG. 3800
+2025-12-10 12:56:54,343 - INFO - ============================================================
+2025-12-10 12:56:54,358 - INFO - 
+ALL RESULTS (sorted by score):
+2025-12-10 12:56:54,374 - INFO -   100 | grayscale    | PSM=3 | Len=  63 | KARAOKE
+ARTS & CRAFT
+FOOD
+
+\ GLADIATOR RESOURCE HUB,
+BLDG. 3
+2025-12-10 12:56:54,390 - INFO -   100 | grayscale    | PSM=4 | Len=  63 | KARAOKE
+ARTS & CRAFT
+FOOD
+
+\ GLADIATOR RESOURCE HUB,
+BLDG. 3
+2025-12-10 12:56:54,405 - INFO -   100 | denoised     | PSM=3 | Len=  63 | KARAOKE
+ARTS & CRAFT
+FOOD
+
+\ GLADIATOR RESOURCE HUB,
+BLDG. 3
+2025-12-10 12:56:54,421 - INFO -   100 | denoised     | PSM=4 | Len=  63 | KARAOKE
+ARTS & CRAFT
+FOOD
+
+\ GLADIATOR RESOURCE HUB,
+BLDG. 3
+2025-12-10 12:56:54,436 - INFO -   100 | binary       | PSM=3 | Len=  63 | KARAOKE
+ARTS & CRAFT
+FOOD
+
+\ GLADIATOR RESOURCE HUB,
+BLDG. 3
+2025-12-10 12:56:54,452 - INFO -   100 | binary       | PSM=4 | Len=  63 | KARAOKE
+ARTS & CRAFT
+FOOD
+
+\ GLADIATOR RESOURCE HUB,
+BLDG. 3
+2025-12-10 12:56:54,468 - INFO -   100 | inverted     | PSM=3 | Len=  63 | KARAOKE
+ARTS & CRAFT
+FOOD
+
+\ GLADIATOR RESOURCE HUB,
+BLDG. 3
+2025-12-10 12:56:54,483 - INFO -   100 | inverted     | PSM=4 | Len=  63 | KARAOKE
+ARTS & CRAFT
+FOOD
+
+\ GLADIATOR RESOURCE HUB,
+BLDG. 3
+2025-12-10 12:56:54,494 - INFO -    70 | original     | PSM=11 | Len=  47 | be
+
+i,
+
+(anhene
+
+“ARTS & CRAFT
+
+FOOD
+
+°
+
+NA
+
+wi
+2025-12-10 12:56:54,509 - INFO -    70 | grayscale    | PSM=11 | Len= 109 | THURSDAY
+
+DEC 41°"
+
+KARAOKE
+
+5:30 TO
+
+ARTS & CRAFT
+
+7:30
+
+FO
+2025-12-10 12:56:54,525 - INFO -    70 | denoised     | PSM=6 | Len= 134 | ae |
+THURSDA >
+TH FF
+KARAOKE pEC 11
+5:30 TO 1
+Ss & CRAFT
+ee:
+2025-12-10 12:56:54,540 - INFO -    70 | denoised     | PSM=11 | Len= 107 | THURSDAY
+
+TH
+
+pec 11
+
+KARAOKE
+
+30 TO
+
+ARTS & CRAFT
+
+7:30
+
+FO
+2025-12-10 12:56:54,551 - INFO -    70 | binary       | PSM=11 | Len= 111 | THURSDAY
+
+DEC 41°"
+
+KARAOKE
+
+5:30 TO
+
+ARTS & CRAFT
+
+7:30
+
+FO
+2025-12-10 12:56:54,566 - INFO -    70 | inverted     | PSM=11 | Len= 110 | THURSDAY
+
+DEC 41""
+
+KARAOKE
+
+5:30 TO
+
+ARTS & CRAFT
+
+7:30
+
+FO
+2025-12-10 12:56:54,582 - INFO -    30 | original     | PSM=6 | Len=  57 | os | See
+KARAOKE EC . i &
+
+“ARTS & CRAFT FB: |
+
+FOOD a 2a
+2025-12-10 12:56:54,597 - INFO -    30 | original     | PSM=13 | Len=   7 | Eales |
+2025-12-10 12:56:54,613 - INFO -    30 | grayscale    | PSM=6 | Len= 128 | | YL tHursDaY Ef ‘
+
+TH
+
+KARAOKE : pEC 11
+
+5:30 TO 1
+
+s & CRA
+2025-12-10 12:56:54,628 - INFO -    30 | grayscale    | PSM=13 | Len=   7 | Ealce |
+2025-12-10 12:56:54,644 - INFO -    30 | denoised     | PSM=13 | Len=   7 | Eales |
+2025-12-10 12:56:54,659 - INFO -    30 | binary       | PSM=6 | Len= 140 | 1 '
+7 ;yuRSDAY [i »
+THE
+KARAOKE } DEC 11 §
+1
+ARTS & CRAFT 5:
+2025-12-10 12:56:54,675 - INFO -    30 | binary       | PSM=13 | Len=   7 | Eales |
+2025-12-10 12:56:54,690 - INFO -    30 | inverted     | PSM=6 | Len= 136 | 1 '
+7 ;yuRSDAY [i »
+THE
+KARAOKE } DEC 11 §
+1
+ARTS & CRAFT 5:
+2025-12-10 12:56:54,706 - INFO -    30 | inverted     | PSM=13 | Len=   7 | Eales |
+2025-12-10 12:56:54,721 - INFO -     0 | original     | PSM=4 | Len=  10 | |
+Oy 4 ®
+|
+2025-12-10 12:56:54,737 - INFO - cleanText() - MINIMAL mode
+2025-12-10 12:56:54,747 - INFO - Original: KARAOKE
+ARTS & CRAFT
+FOOD
+
+\ GLADIATOR RESOURCE HUB,
+BLDG. 3800
+2025-12-10 12:56:54,763 - INFO - Cleaned: KARAOKE ARTS & CRAFT FOOD \ GLADIATOR RESOURCE HUB, BLDG. 3800
+2025-12-10 12:56:54,778 - INFO - Text quality - Alnum: 0.77, Single-char: 0.18, Reasonable: 0.82, Score: 100
+2025-12-10 12:56:54,794 - INFO - Final text quality score: 100 (alnum=0.77, singles=0.18)
+2025-12-10 12:56:54,830 - INFO - FINAL TEXT (62 chars):
+KARAOKE ARTS & CRAFT FOOD \ GLADIATOR RESOURCE HUB, BLDG. 3800
+
+2025-12-10 12:56:54,845 - INFO - playTTS()
+2025-12-10 12:56:54,881 - INFO - Reading 62 characters
+2025-12-10 12:56:54,897 - INFO - speak(): KARAOKE ARTS & CRAFT FOOD \ GLADIATOR RESOURCE HUB
+2025-12-10 12:57:03,998 - INFO - led(1)
+2025-12-10 12:57:04,518 - INFO - speak(): Ready
+2025-12-10 12:58:23,237 - INFO - stopTTS() detected button press
+2025-12-10 12:58:23,281 - INFO - 
+============================================================
+2025-12-10 12:58:23,282 - INFO - BUTTON PRESSED - STARTING CAPTURE
+2025-12-10 12:58:23,282 - INFO - ============================================================
+2025-12-10 12:58:23,282 - INFO - led(0)
+2025-12-10 12:58:23,282 - INFO - Playing sound: /usr/bin/aplay -D plughw:CARD=UACDemoV10,DEV=0 -q /home/admin/pi/sounds/camera-shutter.wav
+2025-12-10 12:58:23,803 - INFO - Camera: rpicam-still --width 1920 --height 1080 --awb auto --rot 180 -t 2000 -o /tmp/image.jpg
+2025-12-10 12:58:26,177 - INFO - Image captured: 468792 bytes
+2025-12-10 12:58:26,192 - INFO - speak(): Processing
+2025-12-10 12:58:28,267 - INFO - enhanceImage() - MINIMAL processing mode
+2025-12-10 12:58:29,795 - INFO - Created 4 image variants: gray, denoised, binary, inverted
+2025-12-10 12:58:29,805 - INFO - ============================================================
+2025-12-10 12:58:29,822 - INFO - STARTING OCR WITH ALL METHODS
+2025-12-10 12:58:29,838 - INFO - ============================================================
+2025-12-10 12:58:29,860 - INFO - Running: tesseract image.jpg --psm 3
+2025-12-10 12:58:30,848 - INFO - Text quality - Alnum: 0.76, Single-char: 0.25, Reasonable: 0.75, Score: 100
+2025-12-10 12:58:30,859 - INFO - Result: original PSM=3 | Score=100 | Length=21 | Preview: KARAOKE
+
+ARTS & CRAFT
+2025-12-10 12:58:30,870 - INFO - *** NEW BEST RESULT: original (PSM=3) Score=100
+2025-12-10 12:58:30,870 - INFO - Running: tesseract image.jpg --psm 6
+2025-12-10 12:58:33,950 - INFO - Text quality - Alnum: 0.57, Single-char: 0.48, Reasonable: 0.52, Score: 30
+2025-12-10 12:58:33,966 - INFO - Result: original PSM=6 | Score=30 | Length=103 | Preview: - CELEBRATION |
+!
+: 1
+
+a eVE = ARTS & CRAFT | s5:30T0 Ff
+
+. a. aN GLADIATOR RESO
+2025-12-10 12:58:33,982 - INFO - Running: tesseract image.jpg --psm 4
+2025-12-10 12:58:34,846 - INFO - Text quality - Alnum: 0.76, Single-char: 0.25, Reasonable: 0.75, Score: 100
+2025-12-10 12:58:34,861 - INFO - Result: original PSM=4 | Score=100 | Length=21 | Preview: KARAOKE
+
+ARTS & CRAFT
+2025-12-10 12:58:34,877 - INFO - Running: tesseract image.jpg --psm 11
+2025-12-10 12:58:37,465 - INFO - Text quality - Alnum: 0.57, Single-char: 0.35, Reasonable: 0.65, Score: 30
+2025-12-10 12:58:37,481 - INFO - Result: original PSM=11 | Score=30 | Length=97 | Preview: |
+
+4
+
+WINIEKR
+
+1
+
+CELEBRATION
+
+= fm
+
+KARAOKE
+
+ARTS & CRAFT
+
+we
+
+FOOD
+
+~
+
+u
+
+GL B
+2025-12-10 12:58:37,497 - INFO - Running: tesseract image.jpg --psm 13
+2025-12-10 12:58:39,059 - INFO - Text quality - Alnum: 0.60, Single-char: 0.50, Reasonable: 0.50, Score: 0
+2025-12-10 12:58:39,075 - INFO - Result: original PSM=13 | Score=0 | Length=5 | Preview: tet |
+2025-12-10 12:58:39,096 - INFO - Running: tesseract image_gray.jpg --psm 3
+2025-12-10 12:58:40,913 - INFO - Text quality - Alnum: 0.68, Single-char: 0.11, Reasonable: 0.89, Score: 70
+2025-12-10 12:58:40,924 - INFO - Result: grayscale PSM=3 | Score=70 | Length=93 | Preview: THURSDAY
+
+KARAOKE pec 11""
+
+ARTS & CRAFT 5:30 TO
+FORO
+
+a, ws. RESOURCE HUB,
+BLDG
+2025-12-10 12:58:40,924 - INFO - Running: tesseract image_gray.jpg --psm 6
+2025-12-10 12:58:44,007 - INFO - Text quality - Alnum: 0.56, Single-char: 0.54, Reasonable: 0.46, Score: 0
+2025-12-10 12:58:44,022 - INFO - Result: grayscale PSM=6 | Score=0 | Length=204 | Preview: AR TIN af i
+| 1 f
+I 1 /
+CELEBRATION \'@
+i] i]
+! ! '
+| i]
+| I
+| EVENT DETAILS THU
+2025-12-10 12:58:44,038 - INFO - Running: tesseract image_gray.jpg --psm 4
+2025-12-10 12:58:46,852 - INFO - Text quality - Alnum: 0.71, Single-char: 0.06, Reasonable: 0.94, Score: 100
+2025-12-10 12:58:46,867 - INFO - Result: grayscale PSM=4 | Score=100 | Length=93 | Preview: THURSDAY
+
+KARAOKE pec 11""
+
+ARTS & CRAFT 5:30 TO
+
+FOOD
+
+"> GLADIATOR RESOURCE HU
+2025-12-10 12:58:46,883 - INFO - Running: tesseract image_gray.jpg --psm 11
+2025-12-10 12:58:49,609 - INFO - Text quality - Alnum: 0.65, Single-char: 0.17, Reasonable: 0.83, Score: 70
+2025-12-10 12:58:49,614 - INFO - Result: grayscale PSM=11 | Score=70 | Length=139 | Preview: CELEBRATION
+
+THURSDAY
+
+i
+
+KARAOKE
+
+DEC 11""
+
+5:30 TO
+
+ARTS & CRAFT
+
+7:30
+
+1%
+
+FO
+2025-12-10 12:58:49,630 - INFO - Running: tesseract image_gray.jpg --psm 13
+2025-12-10 12:58:50,471 - INFO - Text quality - Alnum: 0.60, Single-char: 0.50, Reasonable: 0.50, Score: 0
+2025-12-10 12:58:50,486 - INFO - Result: grayscale PSM=13 | Score=0 | Length=5 | Preview: itt |
+2025-12-10 12:58:50,507 - INFO - Running: tesseract image_denoised.jpg --psm 3
+2025-12-10 12:58:53,092 - INFO - Text quality - Alnum: 0.66, Single-char: 0.10, Reasonable: 0.90, Score: 70
+2025-12-10 12:58:53,092 - INFO - Result: denoised PSM=3 | Score=70 | Length=85 | Preview: THURSDAY
+
+KARAOKE DEC 11"
+
+ARTS & CRAFT B20 10
+FOOD -
+
+om
+3,
+al
+oo oe ses em
+
+Sa
+2025-12-10 12:58:53,092 - INFO - Running: tesseract image_denoised.jpg --psm 6
+2025-12-10 12:58:56,883 - INFO - Text quality - Alnum: 0.54, Single-char: 0.49, Reasonable: 0.51, Score: 30
+2025-12-10 12:58:56,898 - INFO - Result: denoised PSM=6 | Score=30 | Length=240 | Preview: i]
+AR TLIN Lad
+| i]
+I i]
+I 1 ;
+' CELEBRATION |
+| i]
+i] I
+i] i]
+1 I
+I I
+: |
+| EVE
+2025-12-10 12:58:56,914 - INFO - Running: tesseract image_denoised.jpg --psm 4
+2025-12-10 12:58:58,354 - INFO - Text quality - Alnum: 0.72, Single-char: 0.09, Reasonable: 0.91, Score: 100
+2025-12-10 12:58:58,370 - INFO - Result: denoised PSM=4 | Score=100 | Length=60 | Preview: THURSDAY
+
+5:30 TO
+7:30
+
+iT DETAI
+
+KARAOKE
+
+ARTS & CRAFT
+FOOD
+2025-12-10 12:58:58,386 - INFO - Running: tesseract image_denoised.jpg --psm 11
+2025-12-10 12:59:00,886 - INFO - Text quality - Alnum: 0.61, Single-char: 0.18, Reasonable: 0.82, Score: 70
+2025-12-10 12:59:00,897 - INFO - Result: denoised PSM=11 | Score=70 | Length=101 | Preview: CELEBRATION
+
+J
+
+THURSDAY
+
+DEC 11"
+
+KARAOKE
+
+5:30 TO
+
+ARTS & CRAFT
+
+7:30
+
+FOOD
+
+=
+2025-12-10 12:59:00,897 - INFO - Running: tesseract image_denoised.jpg --psm 13
+2025-12-10 12:59:01,671 - INFO - Text quality - Alnum: 0.60, Single-char: 0.50, Reasonable: 0.50, Score: 0
+2025-12-10 12:59:01,686 - INFO - Result: denoised PSM=13 | Score=0 | Length=5 | Preview: tet |
+2025-12-10 12:59:01,706 - INFO - Running: tesseract image_binary.jpg --psm 3
+2025-12-10 12:59:04,269 - INFO - Text quality - Alnum: 0.73, Single-char: 0.06, Reasonable: 0.94, Score: 100
+2025-12-10 12:59:04,285 - INFO - Result: binary PSM=3 | Score=100 | Length=97 | Preview: THURSDAY
+
+KARAOKE DEC 11"
+
+ARTS & CRAFT 5:30 TO
+FOOD»
+
+iN GLADIATOR RESOURCE HUB
+2025-12-10 12:59:04,304 - INFO - Running: tesseract image_binary.jpg --psm 6
+2025-12-10 12:59:08,422 - INFO - Text quality - Alnum: 0.55, Single-char: 0.61, Reasonable: 0.39, Score: 0
+2025-12-10 12:59:08,437 - INFO - Result: binary PSM=6 | Score=0 | Length=174 | Preview: ASTIN sd > 7
+i] 1 '
+1 i} /
+CELEBRATION 9
+I \
+1 !
+1 i]
+1 I
+, 1 . i
+a i = KARAOKE 
+2025-12-10 12:59:08,453 - INFO - Running: tesseract image_binary.jpg --psm 4
+2025-12-10 12:59:10,160 - INFO - Text quality - Alnum: 0.73, Single-char: 0.06, Reasonable: 0.94, Score: 100
+2025-12-10 12:59:10,175 - INFO - Result: binary PSM=4 | Score=100 | Length=94 | Preview: THURSDAY
+
+DEC 11"
+
+5:30 TO
+
+KARAOKE
+
+ARTS & CRAFT
+FOOD
+
+oem GLADIATOR RESOURCE H
+2025-12-10 12:59:10,192 - INFO - Running: tesseract image_binary.jpg --psm 11
+2025-12-10 12:59:13,863 - INFO - Text quality - Alnum: 0.66, Single-char: 0.26, Reasonable: 0.74, Score: 70
+2025-12-10 12:59:13,879 - INFO - Result: binary PSM=11 | Score=70 | Length=144 | Preview: y
+
+CELEBRATION
+
+THURSDAY
+
+I
+
+KARAOKE
+
+DEC 11"
+
+5:30 TO
+
+ARTS & CRAFT
+
+7:30
+
+1
+
+F
+2025-12-10 12:59:13,894 - INFO - Running: tesseract image_binary.jpg --psm 13
+2025-12-10 12:59:14,552 - INFO - Text quality - Alnum: 0.67, Single-char: 0.50, Reasonable: 0.50, Score: 0
+2025-12-10 12:59:14,568 - INFO - Result: binary PSM=13 | Score=0 | Length=6 | Preview: Mesa |
+2025-12-10 12:59:14,589 - INFO - Running: tesseract image_inverted.jpg --psm 3
+2025-12-10 12:59:16,322 - INFO - Text quality - Alnum: 0.73, Single-char: 0.11, Reasonable: 0.89, Score: 100
+2025-12-10 12:59:16,338 - INFO - Result: inverted PSM=3 | Score=100 | Length=99 | Preview: THURSDAY
+
+KARAOKE DEC 11"
+
+ARTS & CRAFT 5:30 TO
+FOOD»
+
+ie N GLADIATOR RESOURCE H
+2025-12-10 12:59:16,355 - INFO - Running: tesseract image_inverted.jpg --psm 6
+2025-12-10 12:59:19,703 - INFO - Text quality - Alnum: 0.55, Single-char: 0.57, Reasonable: 0.43, Score: 0
+2025-12-10 12:59:19,718 - INFO - Result: inverted PSM=6 | Score=0 | Length=174 | Preview: ASTIN sd > -/
+i] 1 '
+1 i} /
+CELEBRATION 9
+I \
+1 !
+1 i]
+1 1
+, 1 . i
+oo i = KARAOK
+2025-12-10 12:59:19,734 - INFO - Running: tesseract image_inverted.jpg --psm 4
+2025-12-10 12:59:21,486 - INFO - Text quality - Alnum: 0.73, Single-char: 0.06, Reasonable: 0.94, Score: 100
+2025-12-10 12:59:21,502 - INFO - Result: inverted PSM=4 | Score=100 | Length=94 | Preview: THURSDAY
+
+DEC 11"
+
+5:30 TO
+
+KARAOKE
+
+ARTS & CRAFT
+FOOD
+
+oem GLADIATOR RESOURCE H
+2025-12-10 12:59:21,517 - INFO - Running: tesseract image_inverted.jpg --psm 11
+2025-12-10 12:59:24,417 - INFO - Text quality - Alnum: 0.66, Single-char: 0.26, Reasonable: 0.74, Score: 70
+2025-12-10 12:59:24,432 - INFO - Result: inverted PSM=11 | Score=70 | Length=143 | Preview: y
+
+CELEBRATION
+
+THURSDAY
+
+I
+
+KARAOKE
+
+DEC 11"
+
+5:30 TO
+
+ARTS & CRAFT
+
+7:30
+
+1
+
+F
+2025-12-10 12:59:24,449 - INFO - Running: tesseract image_inverted.jpg --psm 13
+2025-12-10 12:59:25,050 - INFO - Text quality - Alnum: 1.00, Single-char: 0.00, Reasonable: 1.00, Score: 100
+2025-12-10 12:59:25,066 - INFO - Result: inverted PSM=13 | Score=100 | Length=4 | Preview: Mesa
+2025-12-10 12:59:25,082 - INFO - ============================================================
+2025-12-10 12:59:25,098 - INFO - BEST METHOD: original (PSM=3)
+2025-12-10 12:59:25,114 - INFO - BEST SCORE: 100
+2025-12-10 12:59:25,131 - INFO - TEXT LENGTH: 21
+2025-12-10 12:59:25,147 - INFO - TEXT PREVIEW: KARAOKE
+
+ARTS & CRAFT
+2025-12-10 12:59:25,162 - INFO - ============================================================
+2025-12-10 12:59:25,178 - INFO - 
+ALL RESULTS (sorted by score):
+2025-12-10 12:59:25,194 - INFO -   100 | original     | PSM=3 | Len=  21 | KARAOKE
+
+ARTS & CRAFT
+2025-12-10 12:59:25,210 - INFO -   100 | original     | PSM=4 | Len=  21 | KARAOKE
+
+ARTS & CRAFT
+2025-12-10 12:59:25,226 - INFO -   100 | grayscale    | PSM=4 | Len=  93 | THURSDAY
+
+KARAOKE pec 11""
+
+ARTS & CRAFT 5:30 TO
+
+FOOD
+
+"> G
+2025-12-10 12:59:25,243 - INFO -   100 | denoised     | PSM=4 | Len=  60 | THURSDAY
+
+5:30 TO
+7:30
+
+iT DETAI
+
+KARAOKE
+
+ARTS & CRAFT
+FOOD
+2025-12-10 12:59:25,260 - INFO -   100 | binary       | PSM=3 | Len=  97 | THURSDAY
+
+KARAOKE DEC 11"
+
+ARTS & CRAFT 5:30 TO
+FOOD»
+
+iN GL
+2025-12-10 12:59:25,276 - INFO -   100 | binary       | PSM=4 | Len=  94 | THURSDAY
+
+DEC 11"
+
+5:30 TO
+
+KARAOKE
+
+ARTS & CRAFT
+FOOD
+
+oem 
+2025-12-10 12:59:25,292 - INFO -   100 | inverted     | PSM=3 | Len=  99 | THURSDAY
+
+KARAOKE DEC 11"
+
+ARTS & CRAFT 5:30 TO
+FOOD»
+
+ie N 
+2025-12-10 12:59:25,308 - INFO -   100 | inverted     | PSM=4 | Len=  94 | THURSDAY
+
+DEC 11"
+
+5:30 TO
+
+KARAOKE
+
+ARTS & CRAFT
+FOOD
+
+oem 
+2025-12-10 12:59:25,323 - INFO -   100 | inverted     | PSM=13 | Len=   4 | Mesa
+2025-12-10 12:59:25,343 - INFO -    70 | grayscale    | PSM=3 | Len=  93 | THURSDAY
+
+KARAOKE pec 11""
+
+ARTS & CRAFT 5:30 TO
+FORO
+
+a, ws
+2025-12-10 12:59:25,361 - INFO -    70 | grayscale    | PSM=11 | Len= 139 | CELEBRATION
+
+THURSDAY
+
+i
+
+KARAOKE
+
+DEC 11""
+
+5:30 TO
+
+ARTS &
+2025-12-10 12:59:25,377 - INFO -    70 | denoised     | PSM=3 | Len=  85 | THURSDAY
+
+KARAOKE DEC 11"
+
+ARTS & CRAFT B20 10
+FOOD -
+
+om
+3,
+2025-12-10 12:59:25,397 - INFO -    70 | denoised     | PSM=11 | Len= 101 | CELEBRATION
+
+J
+
+THURSDAY
+
+DEC 11"
+
+KARAOKE
+
+5:30 TO
+
+ARTS & 
+2025-12-10 12:59:25,415 - INFO -    70 | binary       | PSM=11 | Len= 144 | y
+
+CELEBRATION
+
+THURSDAY
+
+I
+
+KARAOKE
+
+DEC 11"
+
+5:30 TO
+
+ARTS
+2025-12-10 12:59:25,431 - INFO -    70 | inverted     | PSM=11 | Len= 143 | y
+
+CELEBRATION
+
+THURSDAY
+
+I
+
+KARAOKE
+
+DEC 11"
+
+5:30 TO
+
+ARTS
+2025-12-10 12:59:25,450 - INFO -    30 | original     | PSM=6 | Len= 103 | - CELEBRATION |
+!
+: 1
+
+a eVE = ARTS & CRAFT | s5:30T0 Ff
+
+. 
+2025-12-10 12:59:25,468 - INFO -    30 | original     | PSM=11 | Len=  97 | |
+
+4
+
+WINIEKR
+
+1
+
+CELEBRATION
+
+= fm
+
+KARAOKE
+
+ARTS & CRAFT
+
+
+2025-12-10 12:59:25,484 - INFO -    30 | denoised     | PSM=6 | Len= 240 | i]
+AR TLIN Lad
+| i]
+I i]
+I 1 ;
+' CELEBRATION |
+| i]
+i] I
+i] 
+2025-12-10 12:59:25,499 - INFO -     0 | original     | PSM=13 | Len=   5 | tet |
+2025-12-10 12:59:25,515 - INFO -     0 | grayscale    | PSM=6 | Len= 204 | AR TIN af i
+| 1 f
+I 1 /
+CELEBRATION \'@
+i] i]
+! ! '
+| i]
+| I
+2025-12-10 12:59:25,531 - INFO -     0 | grayscale    | PSM=13 | Len=   5 | itt |
+2025-12-10 12:59:25,547 - INFO -     0 | denoised     | PSM=13 | Len=   5 | tet |
+2025-12-10 12:59:25,563 - INFO -     0 | binary       | PSM=6 | Len= 174 | ASTIN sd > 7
+i] 1 '
+1 i} /
+CELEBRATION 9
+I \
+1 !
+1 i]
+1 I
+, 
+2025-12-10 12:59:25,579 - INFO -     0 | binary       | PSM=13 | Len=   6 | Mesa |
+2025-12-10 12:59:25,594 - INFO -     0 | inverted     | PSM=6 | Len= 174 | ASTIN sd > -/
+i] 1 '
+1 i} /
+CELEBRATION 9
+I \
+1 !
+1 i]
+1 1
+,
+2025-12-10 12:59:25,610 - INFO - cleanText() - MINIMAL mode
+2025-12-10 12:59:25,625 - INFO - Original: KARAOKE
+
+ARTS & CRAFT
+2025-12-10 12:59:25,641 - INFO - Cleaned: KARAOKE ARTS & CRAFT
+2025-12-10 12:59:25,657 - INFO - Text quality - Alnum: 0.80, Single-char: 0.25, Reasonable: 0.75, Score: 100
+2025-12-10 12:59:25,672 - INFO - Final text quality score: 100 (alnum=0.80, singles=0.25)
+2025-12-10 12:59:25,713 - INFO - FINAL TEXT (20 chars):
+KARAOKE ARTS & CRAFT
+
+2025-12-10 12:59:25,729 - INFO - playTTS()
+2025-12-10 12:59:25,765 - INFO - Reading 20 characters
+2025-12-10 12:59:25,781 - INFO - speak(): KARAOKE ARTS & CRAFT
+2025-12-10 12:59:28,996 - INFO - led(1)
+2025-12-10 12:59:29,516 - INFO - speak(): Ready
+2025-12-10 13:29:56,840 - INFO - ============================================================
+2025-12-10 13:29:56,843 - INFO - PiTextReader - AI Training Version
+2025-12-10 13:29:56,843 - INFO - ============================================================
+2025-12-10 13:29:56,843 - INFO - TRAINING_MODE: True
+2025-12-10 13:29:56,843 - INFO - FINE_TUNE_MODEL: False
+2025-12-10 13:29:56,843 - INFO - USE_AI_OCR: True
+2025-12-10 13:29:56,843 - INFO - ============================================================
+2025-12-10 13:29:56,850 - INFO - volume(30)
+2025-12-10 13:29:56,905 - INFO - speak(): Loading AI models. Please wait.
+2025-12-10 13:30:01,349 - INFO - Initializing AI OCR models...
+2025-12-10 13:30:01,359 - INFO - Using device: cpu
+2025-12-10 13:30:01,395 - INFO - Loading base model: microsoft/trocr-base-printed
+2025-12-10 13:30:01,411 - INFO - Loading TrOCR processor...
+2025-12-10 13:30:06,629 - INFO - stopTTS() detected button press
+2025-12-10 13:30:06,730 - INFO - stopTTS() detected button press
+2025-12-10 13:30:06,831 - INFO - stopTTS() detected button press
+2025-12-10 13:30:07,966 - INFO - stopTTS() detected button press
+2025-12-10 13:30:08,066 - INFO - stopTTS() detected button press
+2025-12-10 13:30:08,166 - INFO - stopTTS() detected button press
+2025-12-10 13:30:08,267 - INFO - stopTTS() detected button press
+2025-12-10 13:30:08,367 - INFO - stopTTS() detected button press
+2025-12-10 13:30:08,472 - INFO - stopTTS() detected button press
+2025-12-10 13:30:08,609 - INFO - stopTTS() detected button press
+2025-12-10 13:30:09,913 - INFO - Loading model from microsoft/trocr-base-printed...
+2025-12-10 13:32:15,315 - INFO - AI OCR models loaded successfully!
+2025-12-10 13:32:18,473 - INFO - speak(): Training mode. Ready to collect samples.
+2025-12-10 13:32:23,259 - INFO - led(1)
+2025-12-10 13:32:35,168 - INFO - stopTTS() detected button press
+2025-12-10 13:32:35,169 - INFO - ============================================================
+2025-12-10 13:32:35,169 - INFO - getData() - Button pressed
+2025-12-10 13:32:35,169 - INFO - ============================================================
+2025-12-10 13:32:35,169 - INFO - led(0)
+2025-12-10 13:32:35,268 - INFO - stopTTS() detected button press
+2025-12-10 13:32:35,369 - INFO - stopTTS() detected button press
+2025-12-10 13:32:35,469 - INFO - stopTTS() detected button press
+2025-12-10 13:32:35,693 - INFO - Running camera: rpicam-still --width 2304 --height 1296 --awb auto --rot 180 -t 500 -o /tmp/image.jpg
+2025-12-10 13:32:36,594 - INFO - speak(): processing image
+2025-12-10 13:32:39,004 - INFO - enhanceImage()
+2025-12-10 13:32:39,198 - INFO - Image enhancement complete
+2025-12-10 13:32:39,219 - INFO - Running AI OCR on /tmp/image_enhanced.jpg
+2025-12-10 13:34:17,001 - INFO - AI OCR result: ONLINE
+2025-12-10 13:34:17,033 - INFO - AI OCR succeeded: ONLINE
+2025-12-10 13:34:17,106 - INFO - ✓ Saved training sample: sample_1765402457
+2025-12-10 13:34:17,122 - INFO - speak(): Training sample saved
+2025-12-10 13:34:20,417 - INFO - speak(): ONLINE
+2025-12-10 13:34:22,358 - INFO - led(1)
+2025-12-10 13:34:22,879 - INFO - speak(): Sample saved. Ready for next.
+2025-12-10 13:34:39,825 - INFO - stopTTS() detected button press
+2025-12-10 13:34:39,896 - INFO - ============================================================
+2025-12-10 13:34:39,896 - INFO - getData() - Button pressed
+2025-12-10 13:34:39,896 - INFO - ============================================================
+2025-12-10 13:34:39,896 - INFO - led(0)
+2025-12-10 13:34:39,926 - INFO - stopTTS() detected button press
+2025-12-10 13:34:40,026 - INFO - stopTTS() detected button press
+2025-12-10 13:34:40,419 - INFO - Running camera: rpicam-still --width 2304 --height 1296 --awb auto --rot 180 -t 500 -o /tmp/image.jpg
+2025-12-10 13:34:41,375 - INFO - speak(): processing image
+2025-12-10 13:34:43,850 - INFO - enhanceImage()
+2025-12-10 13:34:44,036 - INFO - Image enhancement complete
+2025-12-10 13:34:44,057 - INFO - Running AI OCR on /tmp/image_enhanced.jpg
+2025-12-10 13:36:21,829 - INFO - ============================================================
+2025-12-10 13:36:21,832 - INFO - PiTextReader - AI Training Version
+2025-12-10 13:36:21,832 - INFO - ============================================================
+2025-12-10 13:36:21,832 - INFO - TRAINING_MODE: True
+2025-12-10 13:36:21,832 - INFO - FINE_TUNE_MODEL: False
+2025-12-10 13:36:21,833 - INFO - USE_AI_OCR: True
+2025-12-10 13:36:21,833 - INFO - ============================================================
+2025-12-10 13:36:21,839 - INFO - volume(30)
+2025-12-10 13:36:21,881 - INFO - speak(): Loading AI models. Please wait.
+2025-12-10 13:36:26,016 - INFO - Initializing AI OCR models...
+2025-12-10 13:36:26,031 - INFO - Using device: cpu
+2025-12-10 13:36:26,083 - INFO - Loading base model: microsoft/trocr-base-printed
+2025-12-10 13:36:26,098 - INFO - Loading TrOCR processor...
+2025-12-10 13:36:34,640 - INFO - Loading model from microsoft/trocr-base-printed...
+2025-12-10 13:37:02,577 - INFO - AI OCR models loaded successfully!
+2025-12-10 13:37:02,596 - INFO - speak(): Training mode. Ready to collect samples.
+2025-12-10 13:37:07,378 - INFO - led(1)
+2025-12-10 13:37:12,411 - INFO - stopTTS() detected button press
+2025-12-10 13:37:12,512 - INFO - stopTTS() detected button press
+2025-12-10 13:37:12,519 - INFO - ============================================================
+2025-12-10 13:37:12,519 - INFO - getData() - Button pressed
+2025-12-10 13:37:12,519 - INFO - ============================================================
+2025-12-10 13:37:12,519 - INFO - led(0)
+2025-12-10 13:37:12,612 - INFO - stopTTS() detected button press
+2025-12-10 13:37:12,712 - INFO - stopTTS() detected button press
+2025-12-10 13:37:13,035 - INFO - Running camera: rpicam-still --width 2304 --height 1296 --awb auto --rot 180 -t 500 -o /tmp/image.jpg
+2025-12-10 13:37:13,927 - INFO - speak(): processing image
+2025-12-10 13:37:16,442 - INFO - enhanceImage()
+2025-12-10 13:37:16,639 - INFO - Image enhancement complete
+2025-12-10 13:37:16,660 - INFO - Running AI OCR on /tmp/image_enhanced.jpg
+2025-12-10 13:38:52,326 - INFO - AI OCR result: DEA
+2025-12-10 13:38:52,358 - INFO - AI OCR succeeded: DEA
+2025-12-10 13:38:52,426 - INFO - ✓ Saved training sample: sample_1765402732
+2025-12-10 13:38:52,441 - INFO - speak(): Training sample saved
+2025-12-10 13:38:55,585 - INFO - speak(): DEA
+2025-12-10 13:38:57,117 - INFO - led(1)
+2025-12-10 13:38:57,638 - INFO - speak(): Sample saved. Ready for next.
+2025-12-10 13:39:07,127 - INFO - stopTTS() detected button press
+2025-12-10 13:39:07,228 - INFO - stopTTS() detected button press
+2025-12-10 13:39:07,299 - INFO - ============================================================
+2025-12-10 13:39:07,299 - INFO - getData() - Button pressed
+2025-12-10 13:39:07,299 - INFO - ============================================================
+2025-12-10 13:39:07,299 - INFO - led(0)
+2025-12-10 13:39:07,328 - INFO - stopTTS() detected button press
+2025-12-10 13:39:07,429 - INFO - stopTTS() detected button press
+2025-12-10 13:39:07,825 - INFO - Running camera: rpicam-still --width 2304 --height 1296 --awb auto --rot 180 -t 500 -o /tmp/image.jpg
+2025-12-10 13:39:08,728 - INFO - speak(): processing image
+2025-12-10 13:39:11,264 - INFO - enhanceImage()
+2025-12-10 13:39:11,444 - INFO - Image enhancement complete
+2025-12-10 13:39:11,464 - INFO - Running AI OCR on /tmp/image_enhanced.jpg
+2025-12-10 13:40:47,582 - INFO - AI OCR result: ITEM
+2025-12-10 13:40:47,598 - INFO - AI OCR succeeded: ITEM
+2025-12-10 13:40:47,680 - INFO - ✓ Saved training sample: sample_1765402847
+2025-12-10 13:40:47,695 - INFO - speak(): Training sample saved
+2025-12-10 13:40:50,734 - INFO - speak(): ITEM
+2025-12-10 13:40:52,411 - INFO - led(1)
+2025-12-10 13:40:52,932 - INFO - speak(): Sample saved. Ready for next.
+2025-12-10 13:41:15,792 - INFO - stopTTS() detected button press
+2025-12-10 13:41:15,893 - INFO - stopTTS() detected button press
+2025-12-10 13:41:32,764 - INFO - stopTTS() detected button press
+2025-12-10 13:41:32,787 - INFO - ============================================================
+2025-12-10 13:41:32,787 - INFO - getData() - Button pressed
+2025-12-10 13:41:32,787 - INFO - ============================================================
+2025-12-10 13:41:32,787 - INFO - led(0)
+2025-12-10 13:41:33,313 - INFO - Running camera: rpicam-still --width 2304 --height 1296 --awb auto --rot 180 -t 500 -o /tmp/image.jpg
+2025-12-10 13:41:34,193 - INFO - speak(): processing image
+2025-12-10 13:41:36,729 - INFO - enhanceImage()
+2025-12-10 13:41:36,904 - INFO - Image enhancement complete
+2025-12-10 13:41:36,924 - INFO - Running AI OCR on /tmp/image_enhanced.jpg
+2025-12-10 13:43:10,742 - INFO - AI OCR result: SR:
+2025-12-10 13:43:10,768 - INFO - AI OCR succeeded: SR:
+2025-12-10 13:43:10,834 - INFO - ✓ Saved training sample: sample_1765402990
+2025-12-10 13:43:10,850 - INFO - speak(): Training sample saved
+2025-12-10 13:43:13,918 - INFO - speak(): SR:
+2025-12-10 13:43:15,755 - INFO - led(1)
+2025-12-10 13:43:16,281 - INFO - speak(): Sample saved. Ready for next.
+2025-12-10 13:43:28,096 - INFO - stopTTS() detected button press
+2025-12-10 13:43:28,196 - INFO - stopTTS() detected button press
+2025-12-10 13:43:28,267 - INFO - ============================================================
+2025-12-10 13:43:28,267 - INFO - getData() - Button pressed
+2025-12-10 13:43:28,267 - INFO - ============================================================
+2025-12-10 13:43:28,267 - INFO - led(0)
+2025-12-10 13:43:28,297 - INFO - stopTTS() detected button press
+2025-12-10 13:43:28,397 - INFO - stopTTS() detected button press
+2025-12-10 13:43:28,784 - INFO - Running camera: rpicam-still --width 2304 --height 1296 --awb auto --rot 180 -t 500 -o /tmp/image.jpg
+2025-12-10 13:43:29,681 - INFO - speak(): processing image
+2025-12-10 13:43:32,136 - INFO - enhanceImage()
+2025-12-10 13:43:32,300 - INFO - Image enhancement complete
+2025-12-10 13:43:32,321 - INFO - Running AI OCR on /tmp/image_enhanced.jpg
+2025-12-10 13:45:09,142 - INFO - AI OCR result: ITEM
+2025-12-10 13:45:09,168 - INFO - AI OCR succeeded: ITEM
+2025-12-10 13:45:09,250 - INFO - ✓ Saved training sample: sample_1765403109
+2025-12-10 13:45:09,266 - INFO - speak(): Training sample saved
+2025-12-10 13:45:12,461 - INFO - speak(): ITEM
+2025-12-10 13:45:14,234 - INFO - led(1)
+2025-12-10 13:45:14,755 - INFO - speak(): Sample saved. Ready for next.
+2025-12-10 13:47:14,827 - INFO - stopTTS() detected button press
+2025-12-10 13:47:14,927 - INFO - stopTTS() detected button press
+2025-12-10 13:47:15,001 - INFO - ============================================================
+2025-12-10 13:47:15,001 - INFO - getData() - Button pressed
+2025-12-10 13:47:15,001 - INFO - ============================================================
+2025-12-10 13:47:15,001 - INFO - led(0)
+2025-12-10 13:47:15,028 - INFO - stopTTS() detected button press
+2025-12-10 13:47:15,128 - INFO - stopTTS() detected button press
+2025-12-10 13:47:15,516 - INFO - Running camera: rpicam-still --width 2304 --height 1296 --awb auto --rot 180 -t 500 -o /tmp/image.jpg
+2025-12-10 13:47:16,402 - INFO - speak(): processing image
+2025-12-10 13:47:18,708 - INFO - enhanceImage()
+2025-12-10 13:47:18,889 - INFO - Image enhancement complete
+2025-12-10 13:47:18,910 - INFO - Running AI OCR on /tmp/image_enhanced.jpg
+2025-12-10 13:48:50,592 - INFO - AI OCR result: ITEMS
+2025-12-10 13:48:50,619 - INFO - AI OCR succeeded: ITEMS
+2025-12-10 13:48:50,690 - INFO - ✓ Saved training sample: sample_1765403330
+2025-12-10 13:48:50,706 - INFO - speak(): Training sample saved
+2025-12-10 13:48:53,809 - INFO - speak(): ITEMS
+2025-12-10 13:48:55,495 - INFO - led(1)
+2025-12-10 13:48:56,015 - INFO - speak(): Sample saved. Ready for next.
+2025-12-10 13:49:22,713 - INFO - stopTTS() detected button press
+2025-12-10 13:49:22,760 - INFO - ============================================================
+2025-12-10 13:49:22,761 - INFO - getData() - Button pressed
+2025-12-10 13:49:22,761 - INFO - ============================================================
+2025-12-10 13:49:22,761 - INFO - led(0)
+2025-12-10 13:49:22,813 - INFO - stopTTS() detected button press
+2025-12-10 13:49:22,914 - INFO - stopTTS() detected button press
+2025-12-10 13:49:23,276 - INFO - Running camera: rpicam-still --width 2304 --height 1296 --awb auto --rot 180 -t 500 -o /tmp/image.jpg
+2025-12-10 13:49:24,158 - INFO - speak(): processing image
+2025-12-10 13:49:26,579 - INFO - enhanceImage()
+2025-12-10 13:49:26,751 - INFO - Image enhancement complete
+2025-12-10 13:49:26,772 - INFO - Running AI OCR on /tmp/image_enhanced.jpg
+2025-12-10 13:52:34,064 - INFO - AI OCR result: JEL 77.88 4.50
+2025-12-10 13:52:34,091 - INFO - AI OCR succeeded: JEL 77.88 4.50
+2025-12-10 13:52:34,178 - INFO - ✓ Saved training sample: sample_1765403554
+2025-12-10 13:52:34,193 - INFO - speak(): Training sample saved
+2025-12-10 13:52:35,207 - INFO - speak(): JEL 77.88 4.50
+2025-12-10 13:52:36,648 - INFO - led(1)
+2025-12-10 13:52:37,168 - INFO - speak(): Sample saved. Ready for next.
+2025-12-10 13:58:39,463 - INFO - stopTTS() detected button press
+2025-12-10 13:58:39,564 - INFO - stopTTS() detected button press
+2025-12-10 13:58:39,622 - INFO - ============================================================
+2025-12-10 13:58:39,622 - INFO - getData() - Button pressed
+2025-12-10 13:58:39,622 - INFO - ============================================================
+2025-12-10 13:58:39,623 - INFO - led(0)
+2025-12-10 13:58:39,624 - INFO - Running camera: rpicam-still --width 2304 --height 1296 --awb auto --rot 180 -t 500 -o /tmp/image.jpg
+2025-12-10 13:58:39,664 - INFO - stopTTS() detected button press
+2025-12-10 13:58:39,765 - INFO - stopTTS() detected button press
+2025-12-10 13:58:39,865 - INFO - stopTTS() detected button press
+2025-12-10 13:58:39,966 - INFO - stopTTS() detected button press
+2025-12-10 13:58:40,488 - INFO - speak(): processing image
+2025-12-10 13:58:41,360 - INFO - enhanceImage()
+2025-12-10 13:58:41,539 - INFO - Image enhancement complete
+2025-12-10 13:58:41,560 - INFO - Running AI OCR on /tmp/image_enhanced.jpg
+2025-12-10 14:00:12,856 - INFO - AI OCR result: LAM
+2025-12-10 14:00:12,883 - INFO - AI OCR succeeded: LAM
+2025-12-10 14:00:12,970 - INFO - ✓ Saved training sample: sample_1765404012
+2025-12-10 14:00:12,986 - INFO - speak(): Training sample saved
+2025-12-10 14:00:13,948 - INFO - speak(): LAM
+2025-12-10 14:00:14,653 - INFO - led(1)
+2025-12-10 14:00:15,174 - INFO - speak(): Sample saved. Ready for next.
+2025-12-10 14:11:12,095 - INFO - stopTTS() detected button press
+2025-12-10 14:11:12,159 - INFO - ============================================================
+2025-12-10 14:11:12,159 - INFO - getData() - Button pressed
+2025-12-10 14:11:12,159 - INFO - ============================================================
+2025-12-10 14:11:12,159 - INFO - led(0)
+2025-12-10 14:11:12,195 - INFO - stopTTS() detected button press
+2025-12-10 14:11:12,296 - INFO - stopTTS() detected button press
+2025-12-10 14:11:12,396 - INFO - stopTTS() detected button press
+2025-12-10 14:11:12,683 - INFO - Running camera: rpicam-still --width 2304 --height 1296 --awb auto --rot 180 -t 500 -o /tmp/image.jpg
+2025-12-10 14:11:13,571 - INFO - speak(): processing image
+2025-12-10 14:11:16,115 - INFO - enhanceImage()
+2025-12-10 14:11:16,269 - INFO - Image enhancement complete
+2025-12-10 14:11:16,290 - INFO - Running AI OCR on /tmp/image_enhanced.jpg
+2025-12-10 14:13:19,311 - INFO - AI OCR result: 7 REGISTER @
+2025-12-10 14:13:19,338 - INFO - AI OCR succeeded: 7 REGISTER @
+2025-12-10 14:13:19,420 - INFO - ✓ Saved training sample: sample_1765404799
+2025-12-10 14:13:19,436 - INFO - speak(): Training sample saved
+2025-12-10 14:13:22,449 - INFO - speak(): 7 REGISTER @
+2025-12-10 14:13:24,999 - INFO - led(1)
+2025-12-10 14:13:25,514 - INFO - speak(): Sample saved. Ready for next.
+2025-12-10 14:14:02,396 - INFO - stopTTS() detected button press
+2025-12-10 14:14:02,464 - INFO - ============================================================
+2025-12-10 14:14:02,464 - INFO - getData() - Button pressed
+2025-12-10 14:14:02,464 - INFO - ============================================================
+2025-12-10 14:14:02,464 - INFO - led(0)
+2025-12-10 14:14:02,496 - INFO - stopTTS() detected button press
+2025-12-10 14:14:02,597 - INFO - stopTTS() detected button press
+2025-12-10 14:14:02,988 - INFO - Running camera: rpicam-still --width 2304 --height 1296 --awb auto --rot 180 -t 500 -o /tmp/image.jpg
+2025-12-10 14:14:03,855 - INFO - speak(): processing image
+2025-12-10 14:14:06,396 - INFO - enhanceImage()
+2025-12-10 14:14:06,574 - INFO - Image enhancement complete
+2025-12-10 14:14:06,595 - INFO - Running AI OCR on /tmp/image_enhanced.jpg
+2025-12-10 14:15:23,581 - INFO - AI OCR result: ***
+2025-12-10 14:15:23,607 - INFO - AI OCR succeeded: ***
+2025-12-10 14:15:23,685 - INFO - ✓ Saved training sample: sample_1765404923
+2025-12-10 14:15:23,700 - INFO - speak(): Training sample saved
+2025-12-10 14:15:26,960 - INFO - speak(): ***
+2025-12-10 14:15:30,550 - INFO - led(1)
+2025-12-10 14:15:31,070 - INFO - speak(): Sample saved. Ready for next.
+2025-12-10 14:16:45,578 - INFO - stopTTS() detected button press
+2025-12-10 14:16:45,679 - INFO - stopTTS() detected button press
+2025-12-10 14:16:45,721 - INFO - ============================================================
+2025-12-10 14:16:45,721 - INFO - getData() - Button pressed
+2025-12-10 14:16:45,721 - INFO - ============================================================
+2025-12-10 14:16:45,721 - INFO - led(0)
+2025-12-10 14:16:45,779 - INFO - stopTTS() detected button press
+2025-12-10 14:16:45,880 - INFO - stopTTS() detected button press
+2025-12-10 14:16:45,980 - INFO - stopTTS() detected button press
+2025-12-10 14:16:46,245 - INFO - Running camera: rpicam-still --width 2304 --height 1296 --awb auto --rot 180 -t 500 -o /tmp/image.jpg
+2025-12-10 14:16:47,120 - INFO - speak(): processing image
+2025-12-10 14:16:49,661 - INFO - enhanceImage()
+2025-12-10 14:16:49,836 - INFO - Image enhancement complete
+2025-12-10 14:16:49,857 - INFO - Running AI OCR on /tmp/image_enhanced.jpg
+2025-12-10 14:18:21,561 - INFO - AI OCR result: AMOUNT
+2025-12-10 14:18:21,587 - INFO - AI OCR succeeded: AMOUNT
+2025-12-10 14:18:21,665 - INFO - ✓ Saved training sample: sample_1765405101
+2025-12-10 14:18:21,680 - INFO - speak(): Training sample saved
+2025-12-10 14:18:24,811 - INFO - speak(): AMOUNT
+2025-12-10 14:18:26,592 - INFO - led(1)
+2025-12-10 14:18:27,112 - INFO - speak(): Sample saved. Ready for next.
+2025-12-10 14:18:41,867 - INFO - stopTTS() detected button press
+2025-12-10 14:18:41,911 - INFO - ============================================================
+2025-12-10 14:18:41,911 - INFO - getData() - Button pressed
+2025-12-10 14:18:41,911 - INFO - ============================================================
+2025-12-10 14:18:41,911 - INFO - led(0)
+2025-12-10 14:18:41,967 - INFO - stopTTS() detected button press
+2025-12-10 14:18:42,068 - INFO - stopTTS() detected button press
+2025-12-10 14:18:42,436 - INFO - Running camera: rpicam-still --width 2304 --height 1296 --awb auto --rot 180 -t 500 -o /tmp/image.jpg
+2025-12-10 14:18:43,312 - INFO - speak(): processing image
+2025-12-10 14:18:45,724 - INFO - enhanceImage()
+2025-12-10 14:18:46,004 - INFO - Image enhancement complete
+2025-12-10 14:18:46,024 - INFO - Running AI OCR on /tmp/image_enhanced.jpg
+2025-12-10 14:20:04,756 - INFO - AI OCR result: ***
+2025-12-10 14:20:04,782 - INFO - AI OCR succeeded: ***
+2025-12-10 14:20:04,865 - INFO - ✓ Saved training sample: sample_1765405204
+2025-12-10 14:20:04,880 - INFO - speak(): Training sample saved
+2025-12-10 14:20:08,008 - INFO - speak(): ***
+2025-12-10 14:20:11,502 - INFO - led(1)
+2025-12-10 14:20:12,028 - INFO - speak(): Sample saved. Ready for next.
+2025-12-10 14:20:39,199 - INFO - stopTTS() detected button press
+2025-12-10 14:20:39,300 - INFO - stopTTS() detected button press
+2025-12-10 14:20:39,339 - INFO - ============================================================
+2025-12-10 14:20:39,339 - INFO - getData() - Button pressed
+2025-12-10 14:20:39,339 - INFO - ============================================================
+2025-12-10 14:20:39,339 - INFO - led(0)
+2025-12-10 14:20:39,400 - INFO - stopTTS() detected button press
+2025-12-10 14:20:39,500 - INFO - stopTTS() detected button press
+2025-12-10 14:20:39,601 - INFO - stopTTS() detected button press
+2025-12-10 14:20:39,867 - INFO - Running camera: rpicam-still --width 2304 --height 1296 --awb auto --rot 180 -t 500 -o /tmp/image.jpg
+2025-12-10 14:20:40,763 - INFO - speak(): processing image
+2025-12-10 14:20:43,162 - INFO - enhanceImage()
+2025-12-10 14:20:43,335 - INFO - Image enhancement complete
+2025-12-10 14:20:43,356 - INFO - Running AI OCR on /tmp/image_enhanced.jpg
+2025-12-10 14:22:03,703 - INFO - AI OCR result: IT
+2025-12-10 14:22:03,729 - INFO - AI OCR succeeded: IT
+2025-12-10 14:22:03,807 - INFO - ✓ Saved training sample: sample_1765405323
+2025-12-10 14:22:03,822 - INFO - speak(): Training sample saved
+2025-12-10 14:22:06,911 - INFO - speak(): IT
+2025-12-10 14:22:08,679 - INFO - led(1)
+2025-12-10 14:22:09,194 - INFO - speak(): Sample saved. Ready for next.
+2025-12-10 14:22:23,344 - INFO - stopTTS() detected button press
+2025-12-10 14:22:23,397 - INFO - ============================================================
+2025-12-10 14:22:23,397 - INFO - getData() - Button pressed
+2025-12-10 14:22:23,397 - INFO - ============================================================
+2025-12-10 14:22:23,397 - INFO - led(0)
+2025-12-10 14:22:23,444 - INFO - stopTTS() detected button press
+2025-12-10 14:22:23,545 - INFO - stopTTS() detected button press
+2025-12-10 14:22:23,645 - INFO - stopTTS() detected button press
+2025-12-10 14:22:23,913 - INFO - Running camera: rpicam-still --width 2304 --height 1296 --awb auto --rot 180 -t 500 -o /tmp/image.jpg
+2025-12-10 14:22:24,776 - INFO - speak(): processing image
+2025-12-10 14:22:27,241 - INFO - enhanceImage()
+2025-12-10 14:22:27,425 - INFO - Image enhancement complete
+2025-12-10 14:22:27,446 - INFO - Running AI OCR on /tmp/image_enhanced.jpg
+2025-12-10 14:23:50,095 - INFO - AI OCR result: ***
+2025-12-10 14:23:50,121 - INFO - AI OCR succeeded: ***
+2025-12-10 14:23:50,194 - INFO - ✓ Saved training sample: sample_1765405430
+2025-12-10 14:23:50,209 - INFO - speak(): Training sample saved
+2025-12-10 14:23:53,470 - INFO - speak(): ***
+2025-12-10 14:23:57,157 - INFO - led(1)
+2025-12-10 14:23:57,679 - INFO - speak(): Sample saved. Ready for next.
+2025-12-12 12:55:57,644 - INFO - ============================================================
+2025-12-12 12:55:57,647 - INFO - PiTextReader - Working Version + AI Training
+2025-12-12 12:55:57,648 - INFO - ============================================================
+2025-12-12 12:55:57,648 - INFO - TRAINING_MODE: False
+2025-12-12 12:55:57,648 - INFO - FINE_TUNE_MODEL: False
+2025-12-12 12:55:57,648 - INFO - USE_AI_OCR: False
+2025-12-12 12:55:57,648 - INFO - ============================================================
+2025-12-12 12:55:57,649 - INFO - volume(90)
+2025-12-12 12:55:57,664 - INFO - speak()
+2025-12-12 12:55:59,293 - INFO - led(1)
+2025-12-12 12:57:42,337 - INFO - getData()
+2025-12-12 12:57:42,338 - INFO - led(0)
+2025-12-12 12:57:42,338 - INFO - sound()
+2025-12-12 12:57:44,074 - INFO - speak()
+2025-12-12 12:57:50,757 - INFO - cleanText()
+2025-12-12 12:57:50,758 - INFO - Original text: BUY ONLINE &
+PICKUP IN STORE.
+VISIT HONEYBAKED.COM
+
+TO START YOUR ORDER.
+
+USE HOLIDAY ENTERTAINING COUPON ONLIN
+
+“ HONEY BAKED a
+
+$5 OFF ont
+
+FOR ONLINE REDEMPTION ¢
+
+gt) PURCHASE ONLINE —
+aie - WITH 
+2025-12-12 12:57:50,758 - INFO - Cleaned text: BUY ONLINE and PICKUP IN STORE. VISIT HONEYBAKED.COM TO START YOUR ORDER. USE HOLIDAY ENTERTAINING COUPON ONLIN “ HONEY BAKED a 5 dollars OFF ont FOR ONLINE REDEMPTION ¢ gt) PURCHASE ONLINE — aie - WI
+2025-12-12 12:57:50,759 - INFO - playTTS()
+2025-12-12 12:58:14,430 - INFO - led(1)
+2025-12-12 12:58:14,931 - INFO - speak()
+2025-12-12 12:58:25,442 - INFO - getData()
+2025-12-12 12:58:25,443 - INFO - led(0)
+2025-12-12 12:58:25,443 - INFO - sound()
+2025-12-12 12:58:26,980 - INFO - speak()
+2025-12-12 12:58:32,321 - INFO - cleanText()
+2025-12-12 12:58:32,322 - INFO - Original text: ‘At we
+sac, ie F , Se he
+» >?
+
+ — so gen he
+‘i is ms eee | ee
+
+
+2025-12-12 12:58:32,322 - INFO - Cleaned text: ‘At we sac, ie F , Se he » >? — so gen he ‘i is ms eee | ee
+2025-12-12 12:58:32,322 - INFO - playTTS()
+2025-12-12 12:58:38,608 - INFO - led(1)
+2025-12-12 12:58:39,108 - INFO - speak()
+2025-12-12 12:58:46,034 - INFO - getData()
+2025-12-12 12:58:46,034 - INFO - led(0)
+2025-12-12 12:58:46,034 - INFO - sound()
+2025-12-12 12:58:47,595 - INFO - speak()
+2025-12-12 12:58:53,459 - INFO - cleanText()
+2025-12-12 12:58:53,459 - INFO - Original text: “-UP IW STORE
+
+20+
+RCHASE
+
+ier [7 I, Pe bore OMLY “omagpanyy
+Wit me <untonect vith cotter often rep
+ey Rrra Peers: fee tern fut © ggeeecties: 2
+ee ger it! ne ausple: tos) Yar vole
+etree nertheses or o
+2025-12-12 12:58:53,459 - INFO - Cleaned text: “-UP IW STORE 20 plus RCHASE ier [7 I, Pe bore OMLY “omagpanyy Wit me <untonect vith cotter often rep ey Rrra Peers: fee tern fut © ggeeecties: 2 ee ger it! ne ausple: tos) Yar vole etree nertheses or
+2025-12-12 12:58:53,459 - INFO - playTTS()
+2025-12-12 12:59:34,290 - INFO - led(1)
+2025-12-12 12:59:34,791 - INFO - speak()
+2025-12-12 12:59:42,445 - INFO - getData()
+2025-12-12 12:59:42,445 - INFO - led(0)
+2025-12-12 12:59:42,445 - INFO - sound()
+2025-12-12 12:59:43,982 - INFO - speak()
+2025-12-12 12:59:49,164 - INFO - cleanText()
+2025-12-12 12:59:49,165 - INFO - Original text: 
+2025-12-12 12:59:49,165 - INFO - Cleaned text: 
+2025-12-12 12:59:49,165 - INFO - playTTS()
+2025-12-12 12:59:49,165 - INFO - speak()
+2025-12-12 12:59:51,843 - INFO - led(1)
+2025-12-12 12:59:52,343 - INFO - speak()
+2025-12-12 12:59:54,651 - INFO - getData()
+2025-12-12 12:59:54,652 - INFO - led(0)
+2025-12-12 12:59:54,652 - INFO - sound()
+2025-12-12 12:59:56,207 - INFO - speak()
+2025-12-12 13:00:01,338 - INFO - cleanText()
+2025-12-12 13:00:01,338 - INFO - Original text: 
+2025-12-12 13:00:01,338 - INFO - Cleaned text: 
+2025-12-12 13:00:01,338 - INFO - playTTS()
+2025-12-12 13:00:01,339 - INFO - speak()
+2025-12-12 13:00:04,020 - INFO - led(1)
+2025-12-12 13:00:04,520 - INFO - speak()
+2025-12-12 13:00:09,013 - INFO - getData()
+2025-12-12 13:00:09,013 - INFO - led(0)
+2025-12-12 13:00:09,014 - INFO - sound()
+2025-12-12 13:00:10,596 - INFO - speak()
+2025-12-12 13:00:16,543 - INFO - cleanText()
+2025-12-12 13:00:16,543 - INFO - Original text: © a
+
+Witt
+WOE’ B AKED
+CATERING
+
+( QEER WW-STORE OR ONLINE
+AKED.COM eX. ie
+
+\ At WONEYB
+
+
+2025-12-12 13:00:16,544 - INFO - Cleaned text: © a Witt WOE’ B AKED CATERING ( QEER WW-STORE OR ONLINE AKED.COM eX. ie \ At WONEYB
+2025-12-12 13:00:16,544 - INFO - playTTS()
+2025-12-12 13:00:26,053 - INFO - led(1)
+2025-12-12 13:00:26,553 - INFO - speak()
+2025-12-12 13:00:37,081 - INFO - getData()
+2025-12-12 13:00:37,081 - INFO - led(0)
+2025-12-12 13:00:37,082 - INFO - sound()
+2025-12-12 13:00:38,631 - INFO - speak()
+2025-12-12 13:00:43,868 - INFO - cleanText()
+2025-12-12 13:00:43,868 - INFO - Original text: 
+2025-12-12 13:00:43,869 - INFO - Cleaned text: 
+2025-12-12 13:00:43,869 - INFO - playTTS()
+2025-12-12 13:00:43,869 - INFO - speak()
+2025-12-12 13:00:46,534 - INFO - led(1)
+2025-12-12 13:00:47,034 - INFO - speak()
+2025-12-12 13:00:49,526 - INFO - getData()
+2025-12-12 13:00:49,528 - INFO - led(0)
+2025-12-12 13:00:49,528 - INFO - sound()
+2025-12-12 13:00:51,068 - INFO - speak()
+2025-12-12 13:00:56,331 - INFO - cleanText()
+2025-12-12 13:00:56,331 - INFO - Original text: 
+2025-12-12 13:00:56,331 - INFO - Cleaned text: 
+2025-12-12 13:00:56,331 - INFO - playTTS()
+2025-12-12 13:00:56,331 - INFO - speak()
+2025-12-12 13:00:58,983 - INFO - led(1)
+2025-12-12 13:00:59,483 - INFO - speak()
+2025-12-12 13:01:32,919 - INFO - getData()
+2025-12-12 13:01:32,919 - INFO - led(0)
+2025-12-12 13:01:32,919 - INFO - sound()
+2025-12-12 13:01:34,461 - INFO - speak()
+2025-12-12 13:01:39,758 - INFO - cleanText()
+2025-12-12 13:01:39,759 - INFO - Original text: Pah
+
+2025-12-12 13:01:39,759 - INFO - Cleaned text: Pah
+2025-12-12 13:01:39,759 - INFO - playTTS()
+2025-12-12 13:01:41,177 - INFO - led(1)
+2025-12-12 13:01:41,677 - INFO - speak()
+2025-12-12 13:01:48,571 - INFO - getData()
+2025-12-12 13:01:48,571 - INFO - led(0)
+2025-12-12 13:01:48,572 - INFO - sound()
+2025-12-12 13:01:50,122 - INFO - speak()
+2025-12-12 13:01:55,284 - INFO - cleanText()
+2025-12-12 13:01:55,285 - INFO - Original text: 
+2025-12-12 13:01:55,285 - INFO - Cleaned text: 
+2025-12-12 13:01:55,285 - INFO - playTTS()
+2025-12-12 13:01:55,286 - INFO - speak()
+2025-12-12 13:01:57,962 - INFO - led(1)
+2025-12-12 13:01:58,462 - INFO - speak()
+2025-12-12 13:02:03,083 - INFO - getData()
+2025-12-12 13:02:03,083 - INFO - led(0)
+2025-12-12 13:02:03,084 - INFO - sound()
+2025-12-12 13:02:04,627 - INFO - speak()
+2025-12-12 13:02:09,811 - INFO - cleanText()
+2025-12-12 13:02:09,811 - INFO - Original text: 
+2025-12-12 13:02:09,811 - INFO - Cleaned text: 
+2025-12-12 13:02:09,811 - INFO - playTTS()
+2025-12-12 13:02:09,811 - INFO - speak()
+2025-12-12 13:02:12,330 - INFO - led(1)
+2025-12-12 13:02:12,831 - INFO - speak()
+2025-12-12 13:02:16,339 - INFO - getData()
+2025-12-12 13:02:16,340 - INFO - led(0)
+2025-12-12 13:02:16,340 - INFO - sound()
+2025-12-12 13:02:17,871 - INFO - speak()
+2025-12-12 13:02:22,979 - INFO - cleanText()
+2025-12-12 13:02:22,979 - INFO - Original text: 
+2025-12-12 13:02:22,979 - INFO - Cleaned text: 
+2025-12-12 13:02:22,979 - INFO - playTTS()
+2025-12-12 13:02:22,979 - INFO - speak()
+2025-12-12 13:02:25,627 - INFO - led(1)
+2025-12-12 13:02:26,127 - INFO - speak()
+2025-12-12 13:02:55,048 - INFO - getData()
+2025-12-12 13:02:55,048 - INFO - led(0)
+2025-12-12 13:02:55,049 - INFO - sound()
+2025-12-12 13:02:56,596 - INFO - speak()
+2025-12-12 13:03:01,844 - INFO - cleanText()
+2025-12-12 13:03:01,844 - INFO - Original text: 
+2025-12-12 13:03:01,844 - INFO - Cleaned text: 
+2025-12-12 13:03:01,844 - INFO - playTTS()
+2025-12-12 13:03:01,845 - INFO - speak()
+2025-12-12 13:03:04,525 - INFO - led(1)
+2025-12-12 13:03:05,025 - INFO - speak()
+2025-12-12 13:03:08,133 - INFO - getData()
+2025-12-12 13:03:08,134 - INFO - led(0)
+2025-12-12 13:03:08,134 - INFO - sound()
+2025-12-12 13:03:09,685 - INFO - speak()
+2025-12-12 13:03:14,876 - INFO - cleanText()
+2025-12-12 13:03:14,876 - INFO - Original text: 
+2025-12-12 13:03:14,876 - INFO - Cleaned text: 
+2025-12-12 13:03:14,876 - INFO - playTTS()
+2025-12-12 13:03:14,876 - INFO - speak()
+2025-12-12 13:03:17,550 - INFO - led(1)
+2025-12-12 13:03:18,050 - INFO - speak()
+2025-12-12 13:03:22,775 - INFO - getData()
+2025-12-12 13:03:22,777 - INFO - led(0)
+2025-12-12 13:03:22,777 - INFO - sound()
+2025-12-12 13:03:24,323 - INFO - speak()
+2025-12-12 13:03:29,545 - INFO - cleanText()
+2025-12-12 13:03:29,546 - INFO - Original text: 
+2025-12-12 13:03:29,546 - INFO - Cleaned text: 
+2025-12-12 13:03:29,546 - INFO - playTTS()
+2025-12-12 13:03:29,546 - INFO - speak()
+2025-12-12 13:03:32,222 - INFO - led(1)
+2025-12-12 13:03:32,723 - INFO - speak()
+2025-12-12 13:03:41,761 - INFO - getData()
+2025-12-12 13:03:41,762 - INFO - led(0)
+2025-12-12 13:03:41,762 - INFO - sound()
+2025-12-12 13:03:43,308 - INFO - speak()
+2025-12-12 13:03:48,867 - INFO - cleanText()
+2025-12-12 13:03:48,867 - INFO - Original text: cs 5 unlimited cash back that won't expire for the life of your account
+
+4 J Mehta
+
+1.5” unlimited 0” intro APR
+cash back sO annual fee on all purchases until
+September 2026
+
+on every purchase
+
+
+2025-12-12 13:03:48,867 - INFO - Cleaned text: cs 5 unlimited cash back that won't expire for the life of your account 4 J Mehta 1.5” unlimited 0” intro APR cash back sO annual fee on all purchases until September 2026 on every purchase
+2025-12-12 13:03:48,867 - INFO - playTTS()
+2025-12-12 13:04:06,880 - INFO - led(1)
+2025-12-12 13:04:07,381 - INFO - speak()
+2025-12-12 13:04:27,896 - INFO - getData()
+2025-12-12 13:04:27,896 - INFO - led(0)
+2025-12-12 13:04:27,896 - INFO - sound()
+2025-12-12 13:04:29,460 - INFO - speak()
+2025-12-12 13:04:35,527 - INFO - cleanText()
+2025-12-12 13:04:35,527 - INFO - Original text: Greg Heffley is not a fan of
+surprises—especially when it
+comes to his birthday. But he
+never could have guessed the
+
+shocking surprise his family
+has in store for him this year.
+
+When Greg's epic par
+2025-12-12 13:04:35,527 - INFO - Cleaned text: Greg Heffley is not a fan of surprises—especially when it comes to his birthday. But he never could have guessed the shocking surprise his family has in store for him this year. When Greg's epic party
+2025-12-12 13:04:35,528 - INFO - playTTS()
+2025-12-12 13:05:11,395 - INFO - led(1)
+2025-12-12 13:05:11,896 - INFO - speak()
+2025-12-12 13:05:23,207 - INFO - getData()
+2025-12-12 13:05:23,207 - INFO - led(0)
+2025-12-12 13:05:23,208 - INFO - sound()
+2025-12-12 13:05:24,776 - INFO - speak()
+2025-12-12 13:05:30,703 - INFO - cleanText()
+2025-12-12 13:05:30,703 - INFO - Original text: ry
+
+, is not a fan of
+es pecially when it
+to his birthday. But he
+
+- could have guessed the
+surprise his family
+has in store for him this year.
+
+When Greg’s epic party plans
+unravel, he holds out
+
+tha
+2025-12-12 13:05:30,704 - INFO - Cleaned text: ry , is not a fan of es pecially when it to his birthday. But he - could have guessed the surprise his family has in store for him this year. When Greg’s epic party plans unravel, he holds out that he
+2025-12-12 13:05:30,704 - INFO - playTTS()
+2025-12-12 13:05:53,094 - INFO - led(1)
+2025-12-12 13:05:53,594 - INFO - speak()
+2025-12-12 13:07:53,553 - INFO - getData()
+2025-12-12 13:07:53,553 - INFO - led(0)
+2025-12-12 13:07:53,553 - INFO - sound()
+2025-12-12 13:07:55,107 - INFO - speak()
+2025-12-12 13:08:00,635 - INFO - cleanText()
+2025-12-12 13:08:00,636 - INFO - Original text: 45th Anniversary Edition
+
+Bill Martin Jr / Eric Carle
+
+Brown Bear,
+Brown Bear,
+What Do You See?
+
+EDITION
+
+
+2025-12-12 13:08:00,636 - INFO - Cleaned text: 45th Anniversary Edition Bill Martin Jr / Eric Carle Brown Bear, Brown Bear, What Do You See? EDITION
+2025-12-12 13:08:00,636 - INFO - playTTS()
+2025-12-12 13:08:10,285 - INFO - led(1)
+2025-12-12 13:08:10,785 - INFO - speak()
+2025-12-12 13:08:20,111 - INFO - getData()
+2025-12-12 13:08:20,112 - INFO - led(0)
+2025-12-12 13:08:20,112 - INFO - sound()
+2025-12-12 13:08:21,662 - INFO - speak()
+2025-12-12 13:08:27,179 - INFO - cleanText()
+2025-12-12 13:08:27,180 - INFO - Original text: KOHUS (Oy = Thank you for supporting Kohl's Uares”
+
+( ares. 100% of the net profit from the sale of this item will be donated to support
+Committed to Kids’ Heath anc Echucation kids’ health and educat
+2025-12-12 13:08:27,180 - INFO - Cleaned text: KOHUS (Oy equals Thank you for supporting Kohl's Uares” ( ares. 100 percent of the net profit from the sale of this item will be donated to support Committed to Kids’ Heath anc Echucation kids’ health
+2025-12-12 13:08:27,180 - INFO - playTTS()
+2025-12-12 13:08:50,463 - INFO - led(1)
+2025-12-12 13:08:50,963 - INFO - speak()
+2025-12-12 13:08:57,488 - INFO - getData()
+2025-12-12 13:08:57,489 - INFO - led(0)
+2025-12-12 13:08:57,489 - INFO - sound()
+2025-12-12 13:08:59,034 - INFO - speak()
+2025-12-12 13:09:04,292 - INFO - cleanText()
+2025-12-12 13:09:04,293 - INFO - Original text: 
+2025-12-12 13:09:04,293 - INFO - Cleaned text: 
+2025-12-12 13:09:04,293 - INFO - playTTS()
+2025-12-12 13:09:04,293 - INFO - speak()
+2025-12-12 13:09:06,959 - INFO - led(1)
+2025-12-12 13:09:07,460 - INFO - speak()
+2025-12-12 13:09:10,184 - INFO - getData()
+2025-12-12 13:09:10,184 - INFO - led(0)
+2025-12-12 13:09:10,184 - INFO - sound()
+2025-12-12 13:09:11,723 - INFO - speak()
+2025-12-12 13:09:17,301 - INFO - cleanText()
+2025-12-12 13:09:17,301 - INFO - Original text: 
+2025-12-12 13:09:17,301 - INFO - Cleaned text: 
+2025-12-12 13:09:17,302 - INFO - playTTS()
+2025-12-12 13:09:17,302 - INFO - speak()
+2025-12-12 13:09:19,840 - INFO - led(1)
+2025-12-12 13:09:20,340 - INFO - speak()
+2025-12-12 13:09:22,960 - INFO - getData()
+2025-12-12 13:09:22,961 - INFO - led(0)
+2025-12-12 13:09:22,961 - INFO - sound()
+2025-12-12 13:09:24,509 - INFO - speak()
+2025-12-12 13:09:30,398 - INFO - cleanText()
+2025-12-12 13:09:30,398 - INFO - Original text: Swim along with the pout-pout fish as he discovers
+that being glum and spreading “dreary-wearies” isn’t
+really his destiny. Bright ocean colors and playful
+rhyme come together in this fun fish story t
+2025-12-12 13:09:30,399 - INFO - Cleaned text: Swim along with the pout-pout fish as he discovers that being glum and spreading “dreary-wearies” isn’t really his destiny. Bright ocean colors and playful rhyme come together in this fun fish story t
+2025-12-12 13:09:30,399 - INFO - playTTS()
+2025-12-12 13:10:08,675 - INFO - led(1)
+2025-12-12 13:10:09,175 - INFO - speak()
+2025-12-12 13:10:25,032 - INFO - getData()
+2025-12-12 13:10:25,033 - INFO - led(0)
+2025-12-12 13:10:25,033 - INFO - sound()
+2025-12-12 13:10:26,576 - INFO - speak()
+2025-12-12 13:10:32,197 - INFO - cleanText()
+2025-12-12 13:10:32,197 - INFO - Original text: is
+to hl
+sae the would 2
+|G; ho!
+Along comes a squid, a raat any © "| se
+Quite a slender squiggly sight. But ! k and y
+She is squirmy, she is squelchy, a
+
+She is slightly impolite.
+
+“Hey, Mr. Fish,
+Yo
+2025-12-12 13:10:32,198 - INFO - Cleaned text: is to hl sae the would 2 |G; ho! Along comes a squid, a raat any © "| se Quite a slender squiggly sight. But ! k and y She is squirmy, she is squelchy, a She is slightly impolite. “Hey, Mr. Fish, You 
+2025-12-12 13:10:32,198 - INFO - playTTS()
+2025-12-12 13:10:56,085 - INFO - led(1)
+2025-12-12 13:10:56,586 - INFO - speak()
+2025-12-12 13:11:23,720 - INFO - getData()
+2025-12-12 13:11:23,720 - INFO - led(0)
+2025-12-12 13:11:23,721 - INFO - sound()
+2025-12-12 13:11:25,341 - INFO - speak()
+2025-12-12 13:11:30,681 - INFO - cleanText()
+2025-12-12 13:11:30,682 - INFO - Original text: : — eee
+
+Says the fish to his friend,
+“Mr. Eight, my chum,
+
+With a mouth like mine
+
+| am destined to be glum.
+
+
+2025-12-12 13:11:30,682 - INFO - Cleaned text: : — eee Says the fish to his friend, “Mr. Eight, my chum, With a mouth like mine | am destined to be glum.
+2025-12-12 13:11:30,682 - INFO - playTTS()
+2025-12-12 13:11:40,088 - INFO - led(1)
+2025-12-12 13:11:40,589 - INFO - speak()
+2025-12-12 13:11:56,350 - INFO - getData()
+2025-12-12 13:11:56,351 - INFO - led(0)
+2025-12-12 13:11:56,351 - INFO - sound()
+2025-12-12 13:11:57,895 - INFO - speak()
+2025-12-12 13:12:03,974 - INFO - cleanText()
+2025-12-12 13:12:03,975 - INFO - Original text: The New York Times Bestseller
+
+ve Pout-
+IFA i
+
+i \
+as
+
+
+2025-12-12 13:12:03,975 - INFO - Cleaned text: The New York Times Bestseller ve Pout- IFA i i \ as
+2025-12-12 13:12:03,975 - INFO - playTTS()
+2025-12-12 13:12:09,897 - INFO - led(1)
+2025-12-12 13:12:10,398 - INFO - speak()
+2025-12-12 13:12:16,739 - INFO - getData()
+2025-12-12 13:12:16,740 - INFO - led(0)
+2025-12-12 13:12:16,740 - INFO - sound()
+2025-12-12 13:12:18,290 - INFO - speak()
+2025-12-12 13:12:23,606 - INFO - cleanText()
+2025-12-12 13:12:23,606 - INFO - Original text: 
+2025-12-12 13:12:23,606 - INFO - Cleaned text: 
+2025-12-12 13:12:23,606 - INFO - playTTS()
+2025-12-12 13:12:23,606 - INFO - speak()
+2025-12-12 13:12:26,138 - INFO - led(1)
+2025-12-12 13:12:26,639 - INFO - speak()
+2025-12-12 13:12:55,487 - INFO - getData()
+2025-12-12 13:12:55,487 - INFO - led(0)
+2025-12-12 13:12:55,488 - INFO - sound()
+2025-12-12 13:12:57,032 - INFO - speak()
+2025-12-12 13:13:02,236 - INFO - cleanText()
+2025-12-12 13:13:02,236 - INFO - Original text: 
+2025-12-12 13:13:02,236 - INFO - Cleaned text: 
+2025-12-12 13:13:02,237 - INFO - playTTS()
+2025-12-12 13:13:02,237 - INFO - speak()
+2025-12-12 13:13:04,909 - INFO - led(1)
+2025-12-12 13:13:05,409 - INFO - speak()
+2025-12-12 13:13:08,261 - INFO - getData()
+2025-12-12 13:13:08,261 - INFO - led(0)
+2025-12-12 13:13:08,262 - INFO - sound()
+2025-12-12 13:13:09,815 - INFO - speak()
+2025-12-12 13:13:14,937 - INFO - cleanText()
+2025-12-12 13:13:14,938 - INFO - Original text: 
+2025-12-12 13:13:14,938 - INFO - Cleaned text: 
+2025-12-12 13:13:14,938 - INFO - playTTS()
+2025-12-12 13:13:14,938 - INFO - speak()
+2025-12-12 13:13:17,469 - INFO - led(1)
+2025-12-12 13:13:17,970 - INFO - speak()
+2025-12-12 13:13:23,079 - INFO - getData()
+2025-12-12 13:13:23,079 - INFO - led(0)
+2025-12-12 13:13:23,080 - INFO - sound()
+2025-12-12 13:13:24,637 - INFO - speak()
+2025-12-12 13:13:29,850 - INFO - cleanText()
+2025-12-12 13:13:29,850 - INFO - Original text: 
+2025-12-12 13:13:29,850 - INFO - Cleaned text: 
+2025-12-12 13:13:29,850 - INFO - playTTS()
+2025-12-12 13:13:29,851 - INFO - speak()
+2025-12-12 13:13:32,526 - INFO - led(1)
+2025-12-12 13:13:33,026 - INFO - speak()
+2025-12-12 13:13:36,135 - INFO - getData()
+2025-12-12 13:13:36,135 - INFO - led(0)
+2025-12-12 13:13:36,135 - INFO - sound()
+2025-12-12 13:13:37,668 - INFO - speak()
+2025-12-12 13:13:44,203 - INFO - cleanText()
+2025-12-12 13:13:44,204 - INFO - Original text: rate
+
+The Ene Carie Museum of Picture Book Art was buill fo ce
+the art that we are first exposed to as chadren. Located in Amherst
+Massachusetts, the 40.000-square-foot museum is [he first m thes
+coun
+2025-12-12 13:13:44,204 - INFO - Cleaned text: rate The Ene Carie Museum of Picture Book Art was buill fo ce the art that we are first exposed to as chadren. Located in Amherst Massachusetts, the 40.000-square-foot museum is [he first m thes count
+2025-12-12 13:13:44,205 - INFO - playTTS()
+2025-12-12 13:16:21,303 - INFO - led(1)
+2025-12-12 13:16:21,804 - INFO - speak()
+2025-12-12 13:16:37,366 - INFO - getData()
+2025-12-12 13:16:37,366 - INFO - led(0)
+2025-12-12 13:16:37,367 - INFO - sound()
+2025-12-12 13:16:38,908 - INFO - speak()
+2025-12-12 13:16:44,335 - INFO - cleanText()
+2025-12-12 13:16:44,335 - INFO - Original text: looking at me-
+
+Brown Bear,
+Brown Bear,
+What do you see?
+
+
+2025-12-12 13:16:44,335 - INFO - Cleaned text: looking at me- Brown Bear, Brown Bear, What do you see?
+2025-12-12 13:16:44,336 - INFO - playTTS()
+2025-12-12 13:16:49,305 - INFO - led(1)
+2025-12-12 13:16:49,805 - INFO - speak()
+2025-12-12 13:17:04,647 - INFO - getData()
+2025-12-12 13:17:04,647 - INFO - led(0)
+2025-12-12 13:17:04,647 - INFO - sound()
+2025-12-12 13:17:06,210 - INFO - speak()
+2025-12-12 13:17:11,471 - INFO - cleanText()
+2025-12-12 13:17:11,471 - INFO - Original text: 
+2025-12-12 13:17:11,472 - INFO - Cleaned text: 
+2025-12-12 13:17:11,472 - INFO - playTTS()
+2025-12-12 13:17:11,472 - INFO - speak()
+2025-12-12 13:17:14,138 - INFO - led(1)
+2025-12-12 13:17:14,639 - INFO - speak()
+2025-12-12 13:17:22,061 - INFO - getData()
+2025-12-12 13:17:22,061 - INFO - led(0)
+2025-12-12 13:17:22,061 - INFO - sound()
+2025-12-12 13:17:23,616 - INFO - speak()
+2025-12-12 13:17:28,883 - INFO - cleanText()
+2025-12-12 13:17:28,883 - INFO - Original text: mene 2 Dhye Ort
+
+nomena at me
+
+
+2025-12-12 13:17:28,884 - INFO - Cleaned text: mene 2 Dhye Ort nomena at me
+2025-12-12 13:17:28,884 - INFO - playTTS()
+2025-12-12 13:17:32,539 - INFO - led(1)
+2025-12-12 13:17:33,040 - INFO - speak()
+2025-12-12 13:17:38,197 - INFO - getData()
+2025-12-12 13:17:38,197 - INFO - led(0)
+2025-12-12 13:17:38,197 - INFO - sound()
+2025-12-12 13:17:39,741 - INFO - speak()
+2025-12-12 13:17:45,162 - INFO - cleanText()
+2025-12-12 13:17:45,163 - INFO - Original text: Yellow Duck, ~~
+Yellow Duck, >
+What do you see? SS
+
+
+2025-12-12 13:17:45,163 - INFO - Cleaned text: Yellow Duck, ~~ Yellow Duck, > What do you see? SS
+2025-12-12 13:17:45,163 - INFO - playTTS()
+2025-12-12 13:17:50,828 - INFO - led(1)
+2025-12-12 13:17:51,333 - INFO - speak()
+2025-12-12 13:18:02,056 - INFO - getData()
+2025-12-12 13:18:02,056 - INFO - led(0)
+2025-12-12 13:18:02,057 - INFO - sound()
+2025-12-12 13:18:03,600 - INFO - speak()
+2025-12-12 13:18:08,955 - INFO - cleanText()
+2025-12-12 13:18:08,955 - INFO - Original text: Blue Horse,
+Blue Horse,
+What do you see?
+
+sl
+ie
+
+aa
+
+
+2025-12-12 13:18:08,956 - INFO - Cleaned text: Blue Horse, Blue Horse, What do you see? sl ie aa
+2025-12-12 13:18:08,956 - INFO - playTTS()
+2025-12-12 13:18:14,574 - INFO - led(1)
+2025-12-12 13:18:15,083 - INFO - speak()
+2025-12-12 13:18:32,148 - INFO - getData()
+2025-12-12 13:18:32,149 - INFO - led(0)
+2025-12-12 13:18:32,149 - INFO - sound()
+2025-12-12 13:18:33,699 - INFO - speak()
+2025-12-12 13:18:39,231 - INFO - cleanText()
+2025-12-12 13:18:39,231 - INFO - Original text: 1 surprises—especially when it
+has in store for him this year.
+
+
+2025-12-12 13:18:39,231 - INFO - Cleaned text: 1 surprises—especially when it has in store for him this year.
+2025-12-12 13:18:39,232 - INFO - playTTS()
+2025-12-12 13:18:44,607 - INFO - led(1)
+2025-12-12 13:18:45,108 - INFO - speak()
+2025-12-12 13:18:50,649 - INFO - getData()
+2025-12-12 13:18:50,649 - INFO - led(0)
+2025-12-12 13:18:50,650 - INFO - sound()
+2025-12-12 13:18:52,226 - INFO - speak()
+2025-12-12 13:18:57,990 - INFO - cleanText()
+2025-12-12 13:18:57,990 - INFO - Original text: surprises—especially when it
+never could have guessed th
+shocking surprise his family
+
+start to unravel, he ho!
+hope that he'll get
+
+Will Greg's birthday dreams
+
+
+2025-12-12 13:18:57,991 - INFO - Cleaned text: surprises—especially when it never could have guessed th shocking surprise his family start to unravel, he ho! hope that he'll get Will Greg's birthday dreams
+2025-12-12 13:18:57,991 - INFO - playTTS()
+2025-12-12 13:19:09,328 - INFO - led(1)
+2025-12-12 13:19:09,829 - INFO - speak()
+2025-12-12 13:19:17,739 - INFO - getData()
+2025-12-12 13:19:17,739 - INFO - led(0)
+2025-12-12 13:19:17,739 - INFO - sound()
+2025-12-12 13:19:19,320 - INFO - speak()
+2025-12-12 13:19:25,008 - INFO - cleanText()
+2025-12-12 13:19:25,008 - INFO - Original text: ot a fan of
+when it
+But he
+guessed the
+his family
+
+rnaim this year.
+
+epic party plans
+he holds out
+
+t his one
+
+are trading
+
+orth a fortune.
+, everyone else
+
+and there's no
+
+ll snag it first.
+
+birthday
+2025-12-12 13:19:25,009 - INFO - Cleaned text: ot a fan of when it But he guessed the his family rnaim this year. epic party plans he holds out t his one are trading orth a fortune. , everyone else and there's no ll snag it first. birthday dreams 
+2025-12-12 13:19:25,009 - INFO - playTTS()
+2025-12-12 13:19:40,466 - INFO - led(1)
+2025-12-12 13:19:40,967 - INFO - speak()
+2025-12-12 13:19:44,075 - INFO - getData()
+2025-12-12 13:19:44,075 - INFO - led(0)
+2025-12-12 13:19:44,075 - INFO - sound()
+2025-12-12 13:19:45,599 - INFO - speak()
+2025-12-12 13:19:51,714 - INFO - cleanText()
+2025-12-12 13:19:51,715 - INFO - Original text: Greg Heffley Is not a fan of
+surprisesespecially when it . |
+comes to his birthday. But he |
+never could have guessed the ,
+shocking surprise his family
+has In store for him this ay)
+
+-— ss
+
+© When Gr
+2025-12-12 13:19:51,715 - INFO - Cleaned text: Greg Heffley Is not a fan of surprisesespecially when it . | comes to his birthday. But he | never could have guessed the , shocking surprise his family has In store for him this ay) -— ss © When Greg
+2025-12-12 13:19:51,715 - INFO - playTTS()
+2025-12-12 13:20:28,437 - INFO - led(1)
+2025-12-12 13:20:28,937 - INFO - speak()
+2025-12-12 13:20:42,650 - INFO - getData()
+2025-12-12 13:20:42,650 - INFO - led(0)
+2025-12-12 13:20:42,650 - INFO - sound()
+2025-12-12 13:20:44,182 - INFO - speak()
+2025-12-12 13:20:49,216 - INFO - cleanText()
+2025-12-12 13:20:49,218 - INFO - Original text: 
+2025-12-12 13:20:49,218 - INFO - Cleaned text: 
+2025-12-12 13:20:49,218 - INFO - playTTS()
+2025-12-12 13:20:49,218 - INFO - speak()
+2025-12-12 13:20:51,782 - INFO - led(1)
+2025-12-12 13:20:52,282 - INFO - speak()
+2025-12-12 13:20:56,191 - INFO - getData()
+2025-12-12 13:20:56,191 - INFO - led(0)
+2025-12-12 13:20:56,191 - INFO - sound()
+2025-12-12 13:20:57,708 - INFO - speak()
+2025-12-12 13:21:03,024 - INFO - cleanText()
+2025-12-12 13:21:03,025 - INFO - Original text: 
+2025-12-12 13:21:03,025 - INFO - Cleaned text: 
+2025-12-12 13:21:03,025 - INFO - playTTS()
+2025-12-12 13:21:03,025 - INFO - speak()
+2025-12-12 13:21:05,687 - INFO - led(1)
+2025-12-12 13:21:06,187 - INFO - speak()
+2025-12-12 13:21:27,288 - INFO - getData()
+2025-12-12 13:21:27,288 - INFO - led(0)
+2025-12-12 13:21:27,288 - INFO - sound()
+2025-12-12 13:21:28,866 - INFO - speak()
+2025-12-12 13:21:35,214 - INFO - cleanText()
+2025-12-12 13:21:35,214 - INFO - Original text: V} /
+
+4:21 were
+
+< oe ™
+HY1 (20476) Fall 2025 Gia
+
+% Engineering 11 Sec HY1 (0 1212PM eyo
+
+tome v
+
+@everyone Hi all, now that the semester is
+almost over, | made a form called Love Letters to
+ENGR11 t
+2025-12-12 13:21:35,214 - INFO - Cleaned text: V} / 4:21 were < oe ™ HY1 (20476) Fall 2025 Gia percent Engineering 11 Sec HY1 (0 1212PM eyo tome v at everyone Hi all, now that the semester is almost over, | made a form called Love Letters to ENGR1
+2025-12-12 13:21:35,215 - INFO - playTTS()
+                                                                                 2025-12-12 14:41:32,548 - INFO - ============================================================
+2025-12-12 14:41:32,551 - INFO - PiTextReader - Working Version + AI Training
+2025-12-12 14:41:32,551 - INFO - ============================================================
+2025-12-12 14:41:32,551 - INFO - TRAINING_MODE: True
+2025-12-12 14:41:32,551 - INFO - FINE_TUNE_MODEL: False
+2025-12-12 14:41:32,551 - INFO - USE_AI_OCR: False
+2025-12-12 14:41:32,551 - INFO - ============================================================
+2025-12-12 14:41:32,552 - INFO - volume(90)
+2025-12-12 14:41:32,565 - INFO - speak()
+2025-12-12 14:41:34,274 - INFO - led(1)
+2025-12-12 14:41:42,078 - INFO - getData()
+2025-12-12 14:41:42,078 - INFO - led(0)
+2025-12-12 14:41:42,078 - INFO - sound()
+2025-12-12 14:41:43,309 - INFO - speak()
+2025-12-12 14:41:45,304 - INFO - Saved training sample: sample_1765579305
+2025-12-12 14:41:45,305 - INFO - speak()
+2025-12-12 14:41:46,079 - INFO - cleanText()
+2025-12-12 14:41:46,079 - INFO - Original text: 
+2025-12-12 14:41:46,080 - INFO - Cleaned text: 
+2025-12-12 14:41:46,080 - INFO - playTTS()
+2025-12-12 14:41:46,080 - INFO - speak()
+2025-12-12 14:41:46,819 - INFO - led(1)
+2025-12-12 14:41:47,319 - INFO - speak()
+2025-12-12 14:41:57,151 - INFO - getData()
+2025-12-12 14:41:57,151 - INFO - led(0)
+2025-12-12 14:41:57,151 - INFO - sound()
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    2025-12-12 14:44:49,086 - INFO - ============================================================
+2025-12-12 14:44:49,089 - INFO - PiTextReader - Working Version + AI Training
+2025-12-12 14:44:49,089 - INFO - ============================================================
+2025-12-12 14:44:49,089 - INFO - TRAINING_MODE: True
+2025-12-12 14:44:49,090 - INFO - FINE_TUNE_MODEL: False
+2025-12-12 14:44:49,090 - INFO - USE_AI_OCR: False
+2025-12-12 14:44:49,090 - INFO - ============================================================
+2025-12-12 14:44:49,091 - INFO - volume(90)
+2025-12-12 14:44:49,130 - INFO - speak()
+2025-12-12 14:44:52,560 - INFO - led(1)
+2025-12-12 14:45:02,765 - INFO - getData()
+2025-12-12 14:45:02,766 - INFO - led(0)
+2025-12-12 14:45:02,766 - INFO - sound()
+2025-12-12 14:45:04,590 - INFO - speak()
+2025-12-12 14:45:09,986 - INFO - Saved training sample: sample_1765579509
+2025-12-12 14:45:09,987 - INFO - speak()
+2025-12-12 14:45:12,794 - INFO - cleanText()
+2025-12-12 14:45:12,794 - INFO - Original text: <—"w
+
+
+2025-12-12 14:45:12,795 - INFO - Cleaned text: <—"w
+2025-12-12 14:45:12,795 - INFO - playTTS()
+2025-12-12 14:45:14,458 - INFO - led(1)
+2025-12-12 14:45:14,958 - INFO - speak()
+2025-12-12 14:45:37,093 - INFO - getData()
+2025-12-12 14:45:37,094 - INFO - led(0)
+2025-12-12 14:45:37,094 - INFO - sound()
+2025-12-12 14:45:38,641 - INFO - speak()
+2025-12-12 14:45:43,836 - INFO - Saved training sample: sample_1765579543
+2025-12-12 14:45:43,837 - INFO - speak()
+2025-12-12 14:45:46,644 - INFO - cleanText()
+2025-12-12 14:45:46,645 - INFO - Original text: 
+2025-12-12 14:45:46,645 - INFO - Cleaned text: 
+2025-12-12 14:45:46,645 - INFO - playTTS()
+2025-12-12 14:45:46,645 - INFO - speak()
+2025-12-12 14:45:49,300 - INFO - led(1)
+2025-12-12 14:45:49,801 - INFO - speak()
+2025-12-12 14:45:59,631 - INFO - getData()
+2025-12-12 14:45:59,631 - INFO - led(0)
+2025-12-12 14:45:59,632 - INFO - sound()
+2025-12-12 14:46:01,145 - INFO - speak()
+2025-12-12 14:46:06,478 - INFO - Saved training sample: sample_1765579566
+2025-12-12 14:46:06,478 - INFO - speak()
+2025-12-12 14:46:09,285 - INFO - cleanText()
+2025-12-12 14:46:09,286 - INFO - Original text: 
+2025-12-12 14:46:09,286 - INFO - Cleaned text: 
+2025-12-12 14:46:09,286 - INFO - playTTS()
+2025-12-12 14:46:09,286 - INFO - speak()
+2025-12-12 14:46:11,942 - INFO - led(1)
+2025-12-12 14:46:12,442 - INFO - speak()
+2025-12-12 14:46:16,942 - INFO - getData()
+2025-12-12 14:46:16,944 - INFO - led(0)
+2025-12-12 14:46:16,945 - INFO - sound()
+2025-12-12 14:46:18,473 - INFO - speak()
+2025-12-12 14:46:23,596 - INFO - Saved training sample: sample_1765579583
+2025-12-12 14:46:23,596 - INFO - speak()
+2025-12-12 14:46:26,399 - INFO - cleanText()
+2025-12-12 14:46:26,399 - INFO - Original text: 
+2025-12-12 14:46:26,399 - INFO - Cleaned text: 
+2025-12-12 14:46:26,399 - INFO - playTTS()
+2025-12-12 14:46:26,399 - INFO - speak()
+2025-12-12 14:46:29,071 - INFO - led(1)
+2025-12-12 14:46:29,576 - INFO - speak()
+2025-12-12 14:46:46,028 - INFO - getData()
+2025-12-12 14:46:46,028 - INFO - led(0)
+2025-12-12 14:46:46,028 - INFO - sound()
+2025-12-12 14:46:47,565 - INFO - speak()
+2025-12-12 14:46:52,858 - INFO - Saved training sample: sample_1765579612
+2025-12-12 14:46:52,859 - INFO - speak()
+2025-12-12 14:46:55,680 - INFO - cleanText()
+2025-12-12 14:46:55,681 - INFO - Original text: 
+2025-12-12 14:46:55,681 - INFO - Cleaned text: 
+2025-12-12 14:46:55,681 - INFO - playTTS()
+2025-12-12 14:46:55,681 - INFO - speak()
+2025-12-12 14:46:58,329 - INFO - led(1)
+2025-12-12 14:46:58,829 - INFO - speak()
+2025-12-12 14:47:03,257 - INFO - getData()
+2025-12-12 14:47:03,257 - INFO - led(0)
+2025-12-12 14:47:03,257 - INFO - sound()
+2025-12-12 14:47:04,797 - INFO - speak()
+2025-12-12 14:47:10,184 - INFO - Saved training sample: sample_1765579630
+2025-12-12 14:47:10,185 - INFO - speak()
+2025-12-12 14:47:13,017 - INFO - cleanText()
+2025-12-12 14:47:13,018 - INFO - Original text: DIARY &
+“
+
+ae ratte Fene '
+one WAY We
+oi” east
+4 ’
+’
+
+2025-12-12 14:47:13,018 - INFO - Cleaned text: DIARY and “ ae ratte Fene ' one WAY We oi” east 4 ’ ’
+2025-12-12 14:47:13,018 - INFO - playTTS()
+2025-12-12 14:47:18,802 - INFO - led(1)
+2025-12-12 14:47:19,302 - INFO - speak()
+2025-12-12 14:47:28,148 - INFO - getData()
+2025-12-12 14:47:28,149 - INFO - led(0)
+2025-12-12 14:47:28,149 - INFO - sound()
+2025-12-12 14:47:29,679 - INFO - speak()
+2025-12-12 14:47:34,948 - INFO - Saved training sample: sample_1765579654
+2025-12-12 14:47:34,948 - INFO - speak()
+2025-12-12 14:47:37,755 - INFO - cleanText()
+2025-12-12 14:47:37,755 - INFO - Original text: 
+2025-12-12 14:47:37,755 - INFO - Cleaned text: 
+2025-12-12 14:47:37,755 - INFO - playTTS()
+2025-12-12 14:47:37,755 - INFO - speak()
+2025-12-12 14:47:40,411 - INFO - led(1)
+2025-12-12 14:47:40,914 - INFO - speak()
+2025-12-12 14:47:50,822 - INFO - getData()
+2025-12-12 14:47:50,822 - INFO - led(0)
+2025-12-12 14:47:50,822 - INFO - sound()
+2025-12-12 14:47:52,340 - INFO - speak()
+2025-12-12 14:47:57,513 - INFO - Saved training sample: sample_1765579677
+2025-12-12 14:47:57,513 - INFO - speak()
+2025-12-12 14:48:00,316 - INFO - cleanText()
+2025-12-12 14:48:00,316 - INFO - Original text: 
+2025-12-12 14:48:00,317 - INFO - Cleaned text: 
+2025-12-12 14:48:00,317 - INFO - playTTS()
+2025-12-12 14:48:00,317 - INFO - speak()
+2025-12-12 14:48:02,852 - INFO - led(1)
+2025-12-12 14:48:03,353 - INFO - speak()
+2025-12-12 14:48:10,862 - INFO - getData()
+2025-12-12 14:48:10,863 - INFO - led(0)
+2025-12-12 14:48:10,863 - INFO - sound()
+2025-12-12 14:48:12,381 - INFO - speak()
+2025-12-12 14:48:17,628 - INFO - Saved training sample: sample_1765579697
+2025-12-12 14:48:17,629 - INFO - speak()
+2025-12-12 14:48:20,446 - INFO - cleanText()
+2025-12-12 14:48:20,446 - INFO - Original text: DIARY
+de
+
+
+2025-12-12 14:48:20,446 - INFO - Cleaned text: DIARY de
+2025-12-12 14:48:20,446 - INFO - playTTS()
+2025-12-12 14:48:22,254 - INFO - led(1)
+2025-12-12 14:48:22,754 - INFO - speak()
+2025-12-12 14:48:47,606 - INFO - getData()
+2025-12-12 14:48:47,606 - INFO - led(0)
+2025-12-12 14:48:47,607 - INFO - sound()
+2025-12-12 14:48:49,125 - INFO - speak()
+2025-12-12 14:48:54,365 - INFO - Saved training sample: sample_1765579734
+2025-12-12 14:48:54,365 - INFO - speak()
+2025-12-12 14:48:57,176 - INFO - cleanText()
+2025-12-12 14:48:57,177 - INFO - Original text: 
+2025-12-12 14:48:57,177 - INFO - Cleaned text: 
+2025-12-12 14:48:57,177 - INFO - playTTS()
+2025-12-12 14:48:57,177 - INFO - speak()
+2025-12-12 14:48:59,840 - INFO - led(1)
+2025-12-12 14:49:00,341 - INFO - speak()
+2025-12-12 14:49:08,851 - INFO - getData()
+2025-12-12 14:49:08,851 - INFO - led(0)
+2025-12-12 14:49:08,851 - INFO - sound()
+2025-12-12 14:49:10,372 - INFO - speak()
+2025-12-12 14:49:15,678 - INFO - Saved training sample: sample_1765579755
+2025-12-12 14:49:15,679 - INFO - speak()
+2025-12-12 14:49:18,513 - INFO - cleanText()
+2025-12-12 14:49:18,514 - INFO - Original text: 
+2025-12-12 14:49:18,514 - INFO - Cleaned text: 
+2025-12-12 14:49:18,514 - INFO - playTTS()
+2025-12-12 14:49:18,514 - INFO - speak()
+2025-12-12 14:49:21,178 - INFO - led(1)
+2025-12-12 14:49:21,678 - INFO - speak()
+2025-12-12 14:49:47,939 - INFO - getData()
+2025-12-12 14:49:47,940 - INFO - led(0)
+2025-12-12 14:49:47,940 - INFO - sound()
+2025-12-12 14:49:49,445 - INFO - speak()
+2025-12-12 14:49:54,798 - INFO - Saved training sample: sample_1765579794
+2025-12-12 14:49:54,798 - INFO - speak()
+2025-12-12 14:49:57,620 - INFO - cleanText()
+2025-12-12 14:49:57,620 - INFO - Original text: - aD
+TODAY COL
+College
+
+
+2025-12-12 14:49:57,620 - INFO - Cleaned text: - aD TODAY COL College
+2025-12-12 14:49:57,620 - INFO - playTTS()
+2025-12-12 14:50:00,436 - INFO - led(1)
+2025-12-12 14:50:00,941 - INFO - speak()
+2025-12-12 14:50:10,375 - INFO - getData()
+2025-12-12 14:50:10,375 - INFO - led(0)
+2025-12-12 14:50:10,375 - INFO - sound()
+2025-12-12 14:50:11,903 - INFO - speak()
+2025-12-12 14:50:17,798 - INFO - Saved training sample: sample_1765579817
+2025-12-12 14:50:17,799 - INFO - speak()
+2025-12-12 14:50:20,605 - INFO - cleanText()
+2025-12-12 14:50:20,605 - INFO - Original text: TODA
+6 ollege® entt al.com
+
+——— . —_
+Y COLLEGE, TOMORROW aa LF;
+Chabot = =
+
+»
+
+(habo ma ell C
+
+¥,
+~ P 1 ; 4 ' : = |
+hes 6 p aerial 8 Dy
+° q ithe ‘
+7 |
+JSS i ie ™
+!
+a
+7 | ———“
+ute (>) |
+| ae ay veoene 
+2025-12-12 14:50:20,606 - INFO - Cleaned text: TODA 6 ollege® entt al.com ——— . —_ Y COLLEGE, TOMORROW aa LF; Chabot equals equals » (habo ma ell C ¥, ~ P 1 ; 4 ' : equals | hes 6 p aerial 8 Dy degrees q ithe ‘ 7 | JSS i ie ™ ! a 7 | ———“ ute (>) 
+2025-12-12 14:50:20,606 - INFO - playTTS()
+2025-12-12 14:50:47,559 - INFO - led(1)
+2025-12-12 14:50:48,059 - INFO - speak()
+2025-12-12 14:51:02,924 - INFO - getData()
+2025-12-12 14:51:02,924 - INFO - led(0)
+2025-12-12 14:51:02,925 - INFO - sound()
+2025-12-12 14:51:04,428 - INFO - speak()
+2025-12-12 14:51:09,466 - INFO - Saved training sample: sample_1765579869
+2025-12-12 14:51:09,467 - INFO - speak()
+2025-12-12 14:51:12,272 - INFO - cleanText()
+2025-12-12 14:51:12,273 - INFO - Original text: 
+2025-12-12 14:51:12,273 - INFO - Cleaned text: 
+2025-12-12 14:51:12,273 - INFO - playTTS()
+2025-12-12 14:51:12,273 - INFO - speak()
+2025-12-12 14:51:14,801 - INFO - led(1)
+2025-12-12 14:51:15,301 - INFO - speak()
+2025-12-12 14:51:51,962 - INFO - getData()
+2025-12-12 14:51:51,962 - INFO - led(0)
+2025-12-12 14:51:51,962 - INFO - sound()
+2025-12-12 14:51:53,463 - INFO - speak()
+2025-12-12 14:51:58,965 - INFO - Saved training sample: sample_1765579918
+2025-12-12 14:51:58,967 - INFO - speak()
+2025-12-12 14:52:01,771 - INFO - cleanText()
+2025-12-12 14:52:01,772 - INFO - Original text: mS & ie
+
+Brown Bear,
+Brown Bear,
+What Do You See?
+
+Pictures by Eric Carl
+
+Henry Holt and Company = Nev
+
+
+2025-12-12 14:52:01,772 - INFO - Cleaned text: mS and ie Brown Bear, Brown Bear, What Do You See? Pictures by Eric Carl Henry Holt and Company equals Nev
+2025-12-12 14:52:01,772 - INFO - playTTS()
+2025-12-12 14:52:11,260 - INFO - led(1)
+2025-12-12 14:52:11,761 - INFO - speak()
+2025-12-12 14:52:21,575 - INFO - getData()
+2025-12-12 14:52:21,575 - INFO - led(0)
+2025-12-12 14:52:21,575 - INFO - sound()
+2025-12-12 14:52:23,098 - INFO - speak()
+2025-12-12 14:52:28,438 - INFO - Saved training sample: sample_1765579948
+2025-12-12 14:52:28,438 - INFO - speak()
+2025-12-12 14:52:31,237 - INFO - cleanText()
+2025-12-12 14:52:31,237 - INFO - Original text: 
+2025-12-12 14:52:31,238 - INFO - Cleaned text: 
+2025-12-12 14:52:31,238 - INFO - playTTS()
+2025-12-12 14:52:31,238 - INFO - speak()
+2025-12-12 14:52:33,901 - INFO - led(1)
+2025-12-12 14:52:34,402 - INFO - speak()
+2025-12-12 14:52:39,230 - INFO - getData()
+2025-12-12 14:52:39,230 - INFO - led(0)
+2025-12-12 14:52:39,231 - INFO - sound()
+2025-12-12 14:52:40,762 - INFO - speak()
+2025-12-12 14:52:47,397 - INFO - Saved training sample: sample_1765579967
+2025-12-12 14:52:47,397 - INFO - speak()
+2025-12-12 14:52:50,206 - INFO - cleanText()
+2025-12-12 14:52:50,206 - INFO - Original text: { Picture Book Art was built to celebrate
+
+hoe E
+ine art t + exposed to as children, Located in Amherst
+ihe é r
+ti ceachusets, the 40,000-square-foot museum IS the first in this
+tr ted to national and
+2025-12-12 14:52:50,207 - INFO - Cleaned text: { Picture Book Art was built to celebrate hoe E ine art t plus exposed to as children, Located in Amherst ihe é r ti ceachusets, the 40,000-square-foot museum IS the first in this tr ted to national a
+2025-12-12 14:52:50,207 - INFO - playTTS()
+2025-12-12 14:55:25,864 - INFO - led(1)
+2025-12-12 14:55:26,365 - INFO - speak()
+2025-12-12 14:55:39,884 - INFO - getData()
+2025-12-12 14:55:39,885 - INFO - led(0)
+2025-12-12 14:55:39,885 - INFO - sound()
+2025-12-12 14:55:41,401 - INFO - speak()
+2025-12-12 14:55:46,841 - INFO - Saved training sample: sample_1765580146
+2025-12-12 14:55:46,842 - INFO - speak()
+2025-12-12 14:55:49,689 - INFO - cleanText()
+2025-12-12 14:55:49,689 - INFO - Original text: fi iin ill
+
+
+2025-12-12 14:55:49,689 - INFO - Cleaned text: fi iin ill
+2025-12-12 14:55:49,690 - INFO - playTTS()
+2025-12-12 14:55:51,649 - INFO - led(1)
+2025-12-12 14:55:52,150 - INFO - speak()
+2025-12-12 14:56:05,814 - INFO - getData()
+2025-12-12 14:56:05,814 - INFO - led(0)
+2025-12-12 14:56:05,815 - INFO - sound()
+2025-12-12 14:56:07,337 - INFO - speak()
+2025-12-12 14:56:12,776 - INFO - Saved training sample: sample_1765580172
+2025-12-12 14:56:12,777 - INFO - speak()
+2025-12-12 14:56:15,594 - INFO - cleanText()
+2025-12-12 14:56:15,595 - INFO - Original text: —
+
+2025-12-12 14:56:15,595 - INFO - Cleaned text: —
+2025-12-12 14:56:15,595 - INFO - playTTS()
+2025-12-12 14:56:16,283 - INFO - led(1)
+2025-12-12 14:56:16,783 - INFO - speak()
+2025-12-12 14:56:34,825 - INFO - getData()
+2025-12-12 14:56:34,826 - INFO - led(0)
+2025-12-12 14:56:34,826 - INFO - sound()
+2025-12-12 14:56:36,346 - INFO - speak()
+2025-12-12 14:56:41,708 - INFO - Saved training sample: sample_1765580201
+2025-12-12 14:56:41,709 - INFO - speak()
+2025-12-12 14:56:44,516 - INFO - cleanText()
+2025-12-12 14:56:44,517 - INFO - Original text: 
+2025-12-12 14:56:44,517 - INFO - Cleaned text: 
+2025-12-12 14:56:44,517 - INFO - playTTS()
+2025-12-12 14:56:44,517 - INFO - speak()
+2025-12-12 14:56:47,165 - INFO - led(1)
+2025-12-12 14:56:47,667 - INFO - speak()
+2025-12-12 14:57:16,790 - INFO - getData()
+2025-12-12 14:57:16,791 - INFO - led(0)
+2025-12-12 14:57:16,791 - INFO - sound()
+2025-12-12 14:57:18,286 - INFO - speak()
+2025-12-12 14:57:23,890 - INFO - Saved training sample: sample_1765580243
+2025-12-12 14:57:23,890 - INFO - speak()
+2025-12-12 14:57:26,687 - INFO - cleanText()
+2025-12-12 14:57:26,687 - INFO - Original text: coLLese, *
+
+’
+si.cor'
+
+TODAY
+
+colegecenn
+
+7
+
+
+2025-12-12 14:57:26,687 - INFO - Cleaned text: coLLese, times ’ si.cor' TODAY colegecenn 7
+2025-12-12 14:57:26,688 - INFO - playTTS()
+2025-12-12 14:57:31,935 - INFO - led(1)
+2025-12-12 14:57:32,436 - INFO - speak()
+2025-12-12 14:57:53,078 - INFO - getData()
+2025-12-12 14:57:53,078 - INFO - led(0)
+2025-12-12 14:57:53,079 - INFO - sound()
+2025-12-12 14:57:54,610 - INFO - speak()
+2025-12-12 14:58:00,012 - INFO - Saved training sample: sample_1765580280
+2025-12-12 14:58:00,013 - INFO - speak()
+2025-12-12 14:58:02,817 - INFO - cleanText()
+2025-12-12 14:58:02,817 - INFO - Original text: wimpykid.com
+
+
+2025-12-12 14:58:02,818 - INFO - Cleaned text: wimpykid.com
+2025-12-12 14:58:02,818 - INFO - playTTS()
+2025-12-12 14:58:05,345 - INFO - led(1)
+2025-12-12 14:58:05,848 - INFO - speak()
+2025-12-12 15:03:21,611 - INFO - ============================================================
+2025-12-12 15:03:21,613 - INFO - PiTextReader - Working Version + AI Training
+2025-12-12 15:03:21,614 - INFO - ============================================================
+2025-12-12 15:03:21,614 - INFO - TRAINING_MODE: True
+2025-12-12 15:03:21,614 - INFO - FINE_TUNE_MODEL: False
+2025-12-12 15:03:21,614 - INFO - USE_AI_OCR: False
+2025-12-12 15:03:21,614 - INFO - ============================================================
+2025-12-12 15:03:21,615 - INFO - volume(90)
+2025-12-12 15:03:21,627 - INFO - speak()
+2025-12-12 15:03:24,012 - INFO - led(1)
+2025-12-12 15:03:26,414 - INFO - getData()
+2025-12-12 15:03:26,414 - INFO - led(0)
+2025-12-12 15:03:26,414 - INFO - sound()
+2025-12-12 15:03:27,950 - INFO - speak()
+2025-12-12 15:03:33,305 - INFO - Saved training sample: sample_1765580613
+2025-12-12 15:03:33,306 - INFO - speak()
+2025-12-12 15:03:36,125 - INFO - cleanText()
+2025-12-12 15:03:36,125 - INFO - Original text: ¢ .
+
+An imprint of ABRAMS
+
+abramsbook
+
+s.com
+
+2025-12-12 15:03:36,126 - INFO - Cleaned text: ¢ . An imprint of ABRAMS abramsbook s.com
+2025-12-12 15:03:36,126 - INFO - playTTS()
+2025-12-12 15:03:41,070 - INFO - led(1)
+2025-12-12 15:03:41,570 - INFO - speak()
+2025-12-12 15:05:26,319 - INFO - getData()
+2025-12-12 15:05:26,321 - INFO - led(0)
+2025-12-12 15:05:26,321 - INFO - sound()
+2025-12-12 15:05:27,848 - INFO - speak()
+2025-12-12 15:05:32,998 - INFO - Saved training sample: sample_1765580732
+2025-12-12 15:05:32,998 - INFO - speak()
+2025-12-12 15:05:35,820 - INFO - cleanText()
+2025-12-12 15:05:35,821 - INFO - Original text: 
+2025-12-12 15:05:35,821 - INFO - Cleaned text: 
+2025-12-12 15:05:35,821 - INFO - playTTS()
+2025-12-12 15:05:35,821 - INFO - speak()
+2025-12-12 15:05:38,485 - INFO - led(1)
+2025-12-12 15:05:38,985 - INFO - speak()
+2025-12-12 15:05:44,694 - INFO - getData()
+2025-12-12 15:05:44,694 - INFO - led(0)
+2025-12-12 15:05:44,694 - INFO - sound()
+2025-12-12 15:05:46,232 - INFO - speak()
+2025-12-12 15:05:51,603 - INFO - Saved training sample: sample_1765580751
+2025-12-12 15:05:51,603 - INFO - speak()
+2025-12-12 15:05:54,405 - INFO - cleanText()
+2025-12-12 15:05:54,406 - INFO - Original text: ey
+-. ‘ a
+wimpykid.com
+awimpykid
+
+U8, 60,00
+100M O7@-).4107-a0)8-4 = OL
+= - %o
+
+
+2025-12-12 15:05:54,406 - INFO - Cleaned text: ey -. ‘ a wimpykid.com awimpykid U8, 60,00 100M 07 at -).4107-a0)8-4 equals OL equals - percent o
+2025-12-12 15:05:54,406 - INFO - playTTS()
+2025-12-12 15:06:08,326 - INFO - led(1)
+2025-12-12 15:06:08,827 - INFO - speak()
+2025-12-12 15:06:27,277 - INFO - getData()
+2025-12-12 15:06:27,278 - INFO - led(0)
+2025-12-12 15:06:27,278 - INFO - sound()
+2025-12-12 15:06:28,788 - INFO - speak()
+2025-12-12 15:06:34,082 - INFO - Saved training sample: sample_1765580794
+2025-12-12 15:06:34,083 - INFO - speak()
+2025-12-12 15:06:36,912 - INFO - cleanText()
+2025-12-12 15:06:36,912 - INFO - Original text: Ue
+
+
+2025-12-12 15:06:36,913 - INFO - Cleaned text: Ue
+2025-12-12 15:06:36,913 - INFO - playTTS()
+2025-12-12 15:06:38,152 - INFO - led(1)
+2025-12-12 15:06:38,652 - INFO - speak()
+2025-12-12 15:06:47,290 - INFO - getData()
+2025-12-12 15:06:47,291 - INFO - led(0)
+2025-12-12 15:06:47,291 - INFO - sound()
+2025-12-12 15:06:48,836 - INFO - speak()
+2025-12-12 15:06:54,167 - INFO - Saved training sample: sample_1765580814
+2025-12-12 15:06:54,167 - INFO - speak()
+2025-12-12 15:06:57,113 - INFO - cleanText()
+2025-12-12 15:06:57,113 - INFO - Original text: 
+2025-12-12 15:06:57,114 - INFO - Cleaned text: 
+2025-12-12 15:06:57,114 - INFO - playTTS()
+2025-12-12 15:06:57,114 - INFO - speak()
+2025-12-12 15:06:59,778 - INFO - led(1)
+2025-12-12 15:07:00,278 - INFO - speak()
+2025-12-12 15:07:06,115 - INFO - getData()
+2025-12-12 15:07:06,115 - INFO - led(0)
+2025-12-12 15:07:06,115 - INFO - sound()
+2025-12-12 15:07:07,637 - INFO - speak()
+2025-12-12 15:07:13,251 - INFO - Saved training sample: sample_1765580833
+2025-12-12 15:07:13,252 - INFO - speak()
+2025-12-12 15:07:16,066 - INFO - cleanText()
+2025-12-12 15:07:16,067 - INFO - Original text: ie
+
+a
+
+wimpykid.com
+wimpykid
+
+U.S. $9.99
+
+101 i
+
+9 7614) 788154
+
+>
+
+LI
+
+2025-12-12 15:07:16,067 - INFO - Cleaned text: ie a wimpykid.com wimpykid U.S. 9.99 dollars 101 i 9 7614) 788154 > LI
+2025-12-12 15:07:16,067 - INFO - playTTS()
+2025-12-12 15:07:29,539 - INFO - led(1)
+2025-12-12 15:07:30,040 - INFO - speak()
+2025-12-12 15:07:46,489 - INFO - getData()
+2025-12-12 15:07:46,490 - INFO - led(0)
+2025-12-12 15:07:46,490 - INFO - sound()
+2025-12-12 15:07:48,017 - INFO - speak()
+2025-12-12 15:07:53,413 - INFO - Saved training sample: sample_1765580873
+2025-12-12 15:07:53,413 - INFO - speak()
+2025-12-12 15:07:56,205 - INFO - cleanText()
+2025-12-12 15:07:56,205 - INFO - Original text: DIARY
+
+a FOR
+—_
+
+wimpykid.com
+awimpykid
+
+U.S. $9.99
+ISBN 978-1-4197-8815-4
+
+
+2025-12-12 15:07:56,205 - INFO - Cleaned text: DIARY a FOR —_ wimpykid.com awimpykid U.S. 9.99 dollars ISBN 978-1-4197-8815-4
+2025-12-12 15:07:56,205 - INFO - playTTS()
+2025-12-12 15:08:11,534 - INFO - led(1)
+2025-12-12 15:08:12,034 - INFO - speak()
+2025-12-12 15:10:29,327 - INFO - getData()
+2025-12-12 15:10:29,328 - INFO - led(0)
+2025-12-12 15:10:29,328 - INFO - sound()
+2025-12-12 15:10:30,860 - INFO - speak()
+2025-12-12 15:10:36,606 - INFO - Saved training sample: sample_1765581036
+2025-12-12 15:10:36,606 - INFO - speak()
+2025-12-12 15:10:39,559 - INFO - cleanText()
+2025-12-12 15:10:39,559 - INFO - Original text: Bas ee
+
+Te
+te 7
+ef a lie
+wimpykid.com
+i @wimpykid
+
+U.S. $9.99
+ISBN 978-1-4197-8815-4
+
+NOON OM iit Ie -
+
+a a
+
+>.
+
+
+2025-12-12 15:10:39,559 - INFO - Cleaned text: Bas ee Te te 7 ef a lie wimpykid.com i at wimpykid U.S. 9.99 dollars ISBN 978-1-4197-8815-4 NOON OM iit Ie - a a >.
+2025-12-12 15:10:39,559 - INFO - playTTS()
+2025-12-12 15:10:58,200 - INFO - led(1)
+2025-12-12 15:10:58,700 - INFO - speak()
+2025-12-12 15:11:22,178 - INFO - getData()
+2025-12-12 15:11:22,179 - INFO - led(0)
+2025-12-12 15:11:22,179 - INFO - sound()
+2025-12-12 15:11:23,714 - INFO - speak()
+2025-12-12 15:11:29,246 - INFO - Saved training sample: sample_1765581089
+2025-12-12 15:11:29,246 - INFO - speak()
+2025-12-12 15:11:31,922 - INFO - cleanText()
+2025-12-12 15:11:31,922 - INFO - Original text: DIARY
+
+wimpykid.com
+@wimpykid
+
+U.S. $9.99
+ISBN 978-1-4197-8815-4
+
+- I Im WN
+
+aes 788154
+
+
+2025-12-12 15:11:31,922 - INFO - Cleaned text: DIARY wimpykid.com at wimpykid U.S. 9.99 dollars ISBN 978-1-4197-8815-4 - I Im WN aes 788154
+2025-12-12 15:11:31,923 - INFO - playTTS()
+2025-12-12 15:11:51,331 - INFO - led(1)
+2025-12-12 15:11:51,832 - INFO - speak()
+2025-12-12 15:11:59,669 - INFO - getData()
+2025-12-12 15:11:59,669 - INFO - led(0)
+2025-12-12 15:11:59,670 - INFO - sound()
+2025-12-12 15:12:01,191 - INFO - speak()
+2025-12-12 15:12:06,752 - INFO - Saved training sample: sample_1765581126
+2025-12-12 15:12:06,752 - INFO - speak()
+2025-12-12 15:12:09,428 - INFO - cleanText()
+2025-12-12 15:12:09,428 - INFO - Original text: come true? Or wi
+ish for?
+
+\ be careful what you w
+
+o wimpykid
+
+
+2025-12-12 15:12:09,429 - INFO - Cleaned text: come true? Or wi ish for? \ be careful what you w o wimpykid
+2025-12-12 15:12:09,429 - INFO - playTTS()
+2025-12-12 15:12:16,357 - INFO - led(1)
+2025-12-12 15:12:16,857 - INFO - speak()
+2025-12-12 15:12:45,703 - INFO - getData()
+2025-12-12 15:12:45,704 - INFO - led(0)
+2025-12-12 15:12:45,704 - INFO - sound()
+2025-12-12 15:12:47,240 - INFO - speak()
+2025-12-12 15:12:53,047 - INFO - Saved training sample: sample_1765581173
+2025-12-12 15:12:53,047 - INFO - speak()
+2025-12-12 15:12:55,999 - INFO - cleanText()
+2025-12-12 15:12:55,999 - INFO - Original text: > A
+
+=,
+
+exary svore & few a —
+rm § awitwet a. because anet's how om a that "
+aust )- wes at gerry: "
+(a 4 jecided the bes* ay —— so
+
++o wake the invite tor ©
+
+4 ay wert *
+
+Mos wasn * worry to heer th
+2025-12-12 15:12:56,000 - INFO - Cleaned text: > A equals , exary svore and few a — rm § awitwet a. because anet's how om a that " aust )- wes at gerry: " (a 4 jecided the bes times ay —— so plus o wake the invite tor © 4 ay wert times Mos wasn ti
+2025-12-12 15:12:56,000 - INFO - playTTS()
+2025-12-12 15:13:25,993 - INFO - led(1)
+2025-12-12 15:13:26,493 - INFO - speak()
+2025-12-12 15:13:53,548 - INFO - getData()
+2025-12-12 15:13:53,548 - INFO - led(0)
+2025-12-12 15:13:53,548 - INFO - sound()
+2025-12-12 15:13:55,065 - INFO - speak()
+2025-12-12 15:14:00,502 - INFO - Saved training sample: sample_1765581240
+2025-12-12 15:14:00,502 - INFO - speak()
+2025-12-12 15:14:03,315 - INFO - cleanText()
+2025-12-12 15:14:03,315 - INFO - Original text: Brown bed,
+
+Brown Bear,
+
+What do you see?
+
+
+2025-12-12 15:14:03,315 - INFO - Cleaned text: Brown bed, Brown Bear, What do you see?
+2025-12-12 15:14:03,316 - INFO - playTTS()
+2025-12-12 15:14:07,563 - INFO - led(1)
+2025-12-12 15:14:08,064 - INFO - speak()
+2025-12-12 15:14:15,381 - INFO - getData()
+2025-12-12 15:14:15,381 - INFO - led(0)
+2025-12-12 15:14:15,382 - INFO - sound()
+2025-12-12 15:14:16,984 - INFO - speak()
+2025-12-12 15:14:22,572 - INFO - Saved training sample: sample_1765581262
+2025-12-12 15:14:22,573 - INFO - speak()
+2025-12-12 15:14:25,388 - INFO - cleanText()
+2025-12-12 15:14:25,389 - INFO - Original text: 
+2025-12-12 15:14:25,389 - INFO - Cleaned text: 
+2025-12-12 15:14:25,389 - INFO - playTTS()
+2025-12-12 15:14:25,389 - INFO - speak()
+2025-12-12 15:14:28,045 - INFO - led(1)
+2025-12-12 15:14:28,546 - INFO - speak()
+2025-12-12 15:14:38,592 - INFO - getData()
+2025-12-12 15:14:38,593 - INFO - led(0)
+2025-12-12 15:14:38,593 - INFO - sound()
+2025-12-12 15:14:40,125 - INFO - speak()
+2025-12-12 15:14:45,385 - INFO - Saved training sample: sample_1765581285
+2025-12-12 15:14:45,386 - INFO - speak()
+2025-12-12 15:14:48,198 - INFO - cleanText()
+2025-12-12 15:14:48,198 - INFO - Original text: 
+2025-12-12 15:14:48,198 - INFO - Cleaned text: 
+2025-12-12 15:14:48,198 - INFO - playTTS()
+2025-12-12 15:14:48,198 - INFO - speak()
+2025-12-12 15:14:50,718 - INFO - led(1)
+2025-12-12 15:14:51,218 - INFO - speak()
+2025-12-12 15:15:28,092 - INFO - getData()
+2025-12-12 15:15:28,092 - INFO - led(0)
+2025-12-12 15:15:28,092 - INFO - sound()
+2025-12-12 15:15:29,620 - INFO - speak()
+2025-12-12 15:15:34,844 - INFO - Saved training sample: sample_1765581334
+2025-12-12 15:15:34,845 - INFO - speak()
+2025-12-12 15:15:37,665 - INFO - cleanText()
+2025-12-12 15:15:37,665 - INFO - Original text: 
+2025-12-12 15:15:37,665 - INFO - Cleaned text: 
+2025-12-12 15:15:37,665 - INFO - playTTS()
+2025-12-12 15:15:37,665 - INFO - speak()
+2025-12-12 15:15:40,313 - INFO - led(1)
+2025-12-12 15:15:40,815 - INFO - speak()
+2025-12-12 15:15:51,252 - INFO - getData()
+2025-12-12 15:15:51,252 - INFO - led(0)
+2025-12-12 15:15:51,253 - INFO - sound()
+2025-12-12 15:15:52,783 - INFO - speak()
+2025-12-12 15:15:57,963 - INFO - Saved training sample: sample_1765581357
+2025-12-12 15:15:57,963 - INFO - speak()
+2025-12-12 15:16:00,786 - INFO - cleanText()
+2025-12-12 15:16:00,786 - INFO - Original text: KORLS Us $5.00
+Keohls.com 30-10-11,
+Style 9-8050-9536-5
+
+
+2025-12-12 15:16:00,786 - INFO - Cleaned text: KORLS Us 5.00 dollars Keohls.com 30-10-11, Style 9-8050-9536-5
+2025-12-12 15:16:00,787 - INFO - playTTS()
+2025-12-12 15:16:14,179 - INFO - led(1)
+2025-12-12 15:16:14,679 - INFO - speak()
+2025-12-12 15:16:18,555 - INFO - getData()
+2025-12-12 15:16:18,555 - INFO - led(0)
+2025-12-12 15:16:18,556 - INFO - sound()
+2025-12-12 15:16:20,089 - INFO - speak()
+2025-12-12 15:16:25,511 - INFO - Saved training sample: sample_1765581385
+2025-12-12 15:16:25,511 - INFO - speak()
+2025-12-12 15:16:28,340 - INFO - cleanText()
+2025-12-12 15:16:28,340 - INFO - Original text: orting Kohl’s Cares”
+e donated to support
+
+Thank you for supp
+
+100% of the net profit from the s
+initiatives in comm
+
+kids’ health and education |
+
+ale of this item will b
+unities nationwide.
+
+Kohls.c
+2025-12-12 15:16:28,340 - INFO - Cleaned text: orting Kohl’s Cares” e donated to support Thank you for supp 100 percent of the net profit from the s initiatives in comm kids’ health and education | ale of this item will b unities nationwide. Kohls
+2025-12-12 15:16:28,340 - INFO - playTTS()
+2025-12-12 15:16:49,637 - INFO - led(1)
+2025-12-12 15:16:50,138 - INFO - speak()
+2025-12-12 15:22:24,312 - INFO - getData()
+2025-12-12 15:22:24,313 - INFO - led(0)
+2025-12-12 15:22:24,313 - INFO - sound()
+2025-12-12 15:22:25,834 - INFO - speak()
+2025-12-12 15:22:31,194 - INFO - Saved training sample: sample_1765581751
+2025-12-12 15:22:31,194 - INFO - speak()
+2025-12-12 15:22:34,019 - INFO - cleanText()
+2025-12-12 15:22:34,020 - INFO - Original text: 
+2025-12-12 15:22:34,020 - INFO - Cleaned text: 
+2025-12-12 15:22:34,020 - INFO - playTTS()
+2025-12-12 15:22:34,020 - INFO - speak()
+2025-12-12 15:22:36,700 - INFO - led(1)
+2025-12-12 15:22:37,200 - INFO - speak()
+2025-12-12 15:22:47,438 - INFO - getData()
+2025-12-12 15:22:47,439 - INFO - led(0)
+2025-12-12 15:22:47,439 - INFO - sound()
+2025-12-12 15:22:48,980 - INFO - speak()
+2025-12-12 15:22:54,405 - INFO - Saved training sample: sample_1765581774
+2025-12-12 15:22:54,405 - INFO - speak()
+2025-12-12 15:22:57,220 - INFO - cleanText()
+2025-12-12 15:22:57,221 - INFO - Original text: 
+2025-12-12 15:22:57,221 - INFO - Cleaned text: 
+2025-12-12 15:22:57,221 - INFO - playTTS()
+2025-12-12 15:22:57,221 - INFO - speak()
+2025-12-12 15:22:59,877 - INFO - led(1)
+2025-12-12 15:23:00,377 - INFO - speak()
+2025-12-12 15:23:07,086 - INFO - getData()
+2025-12-12 15:23:07,086 - INFO - led(0)
+2025-12-12 15:23:07,086 - INFO - sound()
+2025-12-12 15:23:08,632 - INFO - speak()
+2025-12-12 15:23:14,472 - INFO - Saved training sample: sample_1765581794
+2025-12-12 15:23:14,473 - INFO - speak()
+2025-12-12 15:23:17,285 - INFO - cleanText()
+2025-12-12 15:23:17,286 - INFO - Original text: e
+e
+
+Greg Heffley Is not a fan of
+surprises—especially when tt
+comes to his birthday. But he
+never could have guessed the
+shocking surprise his family
+has In store for him this year.
+
+When Greg's epic
+2025-12-12 15:23:17,286 - INFO - Cleaned text: e e Greg Heffley Is not a fan of surprises—especially when tt comes to his birthday. But he never could have guessed the shocking surprise his family has In store for him this year. When Greg's epic p
+2025-12-12 15:23:17,286 - INFO - playTTS()
+2025-12-12 15:23:56,543 - INFO - led(1)
+2025-12-12 15:23:57,044 - INFO - speak()
+2025-12-12 15:24:07,474 - INFO - getData()
+2025-12-12 15:24:07,475 - INFO - led(0)
+2025-12-12 15:24:07,475 - INFO - sound()
+2025-12-12 15:24:09,009 - INFO - speak()
+2025-12-12 15:24:14,813 - INFO - Saved training sample: sample_1765581854
+2025-12-12 15:24:14,814 - INFO - speak()
+2025-12-12 15:24:17,632 - INFO - cleanText()
+2025-12-12 15:24:17,632 - INFO - Original text: Greg Heffley is not a fan of
+qurprises—especially when it
+comes to his birthday. But he
+never could have guessed the
+shocking surprise his family
+has in store for him this year
+
+When Greg's epic party
+2025-12-12 15:24:17,633 - INFO - Cleaned text: Greg Heffley is not a fan of qurprises—especially when it comes to his birthday. But he never could have guessed the shocking surprise his family has in store for him this year When Greg's epic party 
+2025-12-12 15:24:17,633 - INFO - playTTS()
+2025-12-12 15:24:55,250 - INFO - led(1)
+2025-12-12 15:24:55,750 - INFO - speak()
+2025-12-12 15:25:01,875 - INFO - getData()
+2025-12-12 15:25:01,876 - INFO - led(0)
+2025-12-12 15:25:01,876 - INFO - sound()
+2025-12-12 15:25:03,414 - INFO - speak()
+2025-12-12 15:25:08,575 - INFO - Saved training sample: sample_1765581908
+2025-12-12 15:25:08,576 - INFO - speak()
+2025-12-12 15:25:11,539 - INFO - cleanText()
+2025-12-12 15:25:11,539 - INFO - Original text: 
+2025-12-12 15:25:11,539 - INFO - Cleaned text: 
+2025-12-12 15:25:11,539 - INFO - playTTS()
+2025-12-12 15:25:11,539 - INFO - speak()
+2025-12-12 15:25:14,203 - INFO - led(1)
+2025-12-12 15:25:14,703 - INFO - speak()
+2025-12-12 15:54:22,229 - INFO - ============================================================
+2025-12-12 15:54:22,232 - INFO - PiTextReader - Working Version + AI Training
+2025-12-12 15:54:22,232 - INFO - ============================================================
+2025-12-12 15:54:22,232 - INFO - TRAINING_MODE: False
+2025-12-12 15:54:22,232 - INFO - FINE_TUNE_MODEL: True
+2025-12-12 15:54:22,233 - INFO - USE_AI_OCR: False
+2025-12-12 15:54:22,233 - INFO - ============================================================
+2025-12-12 15:54:22,234 - INFO - volume(90)
+2025-12-12 15:54:22,245 - INFO - speak()
+2025-12-12 15:54:33,278 - INFO - Initializing AI models...
+2025-12-12 15:54:33,278 - INFO - Using device: cpu
+2025-12-12 15:54:33,280 - INFO - Loading base model: microsoft/trocr-base-printed
+2025-12-12 15:54:36,413 - INFO - AI models loaded!
+2025-12-12 15:54:36,413 - INFO - ============================================================
+2025-12-12 15:54:36,413 - INFO - STARTING MODEL TRAINING
+2025-12-12 15:54:36,414 - INFO - ============================================================
+2025-12-12 15:54:36,414 - INFO - speak()
+2025-12-12 15:54:37,015 - ERROR - Training failed: cannot import name 'AdamW' from 'transformers' (/home/admin/.local/lib/python3.13/site-packages/transformers/__init__.py)
+2025-12-12 15:54:37,015 - ERROR - Full error:
+Traceback (most recent call last):
+  File "/home/admin/pi/pp4.py", line 205, in fine_tune_model
+    from transformers import AdamW
+ImportError: cannot import name 'AdamW' from 'transformers' (/home/admin/.local/lib/python3.13/site-packages/transformers/__init__.py)
+2025-12-12 15:54:37,321 - INFO - speak()
+2025-12-12 15:54:37,913 - INFO - speak()
+2025-12-12 15:57:04,552 - INFO - ============================================================
+2025-12-12 15:57:04,554 - INFO - PiTextReader - Working Version + AI Training
+2025-12-12 15:57:04,554 - INFO - ============================================================
+2025-12-12 15:57:04,555 - INFO - TRAINING_MODE: True
+2025-12-12 15:57:04,555 - INFO - FINE_TUNE_MODEL: False
+2025-12-12 15:57:04,555 - INFO - USE_AI_OCR: False
+2025-12-12 15:57:04,555 - INFO - ============================================================
+2025-12-12 15:57:04,556 - INFO - volume(90)
+2025-12-12 15:57:04,567 - INFO - speak()
+2025-12-12 15:57:05,182 - INFO - led(1)
+2025-12-12 15:57:10,785 - INFO - getData()
+2025-12-12 15:57:10,785 - INFO - led(0)
+2025-12-12 15:57:10,785 - INFO - sound()
+2025-12-12 15:57:11,810 - INFO - speak()
+2025-12-12 15:57:13,795 - INFO - Saved training sample: sample_1765583833
+2025-12-12 15:57:13,795 - INFO - speak()
+2025-12-12 15:57:14,476 - INFO - cleanText()
+2025-12-12 15:57:14,477 - INFO - Original text: Along comes a clam
+With a wide winning grin
+And a pearl of advice
+For her pal to take in:
+
+“Hey, Mr. Fish,
+
+With your crosstown frown,
+
+Don't you think it’s time to
+Turn it upside down?”
+
+Says the fis
+2025-12-12 15:57:14,477 - INFO - Cleaned text: Along comes a clam With a wide winning grin And a pearl of advice For her pal to take in: “Hey, Mr. Fish, With your crosstown frown, Don't you think it’s time to Turn it upside down?” Says the fish to
+2025-12-12 15:57:14,478 - INFO - playTTS()
+2025-12-12 15:57:15,826 - INFO - led(1)
+2025-12-12 15:57:16,333 - INFO - speak()
+2025-12-12 16:59:23,141 - INFO - ============================================================
+2025-12-12 16:59:23,145 - INFO - PiTextReader - Working Version + AI Training
+2025-12-12 16:59:23,145 - INFO - ============================================================
+2025-12-12 16:59:23,145 - INFO - TRAINING_MODE: True
+2025-12-12 16:59:23,146 - INFO - FINE_TUNE_MODEL: False
+2025-12-12 16:59:23,146 - INFO - USE_AI_OCR: False
+2025-12-12 16:59:23,146 - INFO - ============================================================
+2025-12-12 16:59:23,148 - INFO - volume(90)
+2025-12-12 16:59:23,196 - INFO - speak()
+2025-12-12 16:59:24,858 - INFO - led(1)
+2025-12-12 17:00:19,482 - INFO - getData()
+2025-12-12 17:00:19,483 - INFO - led(0)
+2025-12-12 17:00:19,483 - INFO - sound()
+2025-12-12 17:00:20,767 - INFO - speak()
+2025-12-12 17:00:22,608 - INFO - Saved training sample: sample_1765587622
+2025-12-12 17:00:22,608 - INFO - speak()
+2025-12-12 17:00:23,281 - INFO - cleanText()
+2025-12-12 17:00:23,282 - INFO - Original text: 
+2025-12-12 17:00:23,282 - INFO - Cleaned text: 
+2025-12-12 17:00:23,283 - INFO - playTTS()
+2025-12-12 17:00:23,283 - INFO - speak()
+2025-12-12 17:00:23,931 - INFO - led(1)
+2025-12-12 17:00:24,432 - INFO - speak()
+2025-12-12 17:00:30,045 - INFO - getData()
+2025-12-12 17:00:30,046 - INFO - led(0)
+2025-12-12 17:00:30,046 - INFO - sound()
+2025-12-12 17:00:31,035 - INFO - speak()
+2025-12-12 17:00:33,013 - INFO - Saved training sample: sample_1765587633
+2025-12-12 17:00:33,013 - INFO - speak()
+2025-12-12 17:00:33,673 - INFO - cleanText()
+2025-12-12 17:00:33,674 - INFO - Original text: 
+2025-12-12 17:00:33,674 - INFO - Cleaned text: 
+2025-12-12 17:00:33,674 - INFO - playTTS()
+2025-12-12 17:00:33,674 - INFO - speak()
+2025-12-12 17:00:34,327 - INFO - led(1)
+2025-12-12 17:00:34,828 - INFO - speak()
+2025-12-13 10:36:22,504 - INFO - ============================================================
+2025-12-13 10:36:22,504 - INFO - PiTextReader - Working Version + AI Training
+2025-12-13 10:36:22,505 - INFO - ============================================================
+2025-12-13 10:36:22,505 - INFO - TRAINING_MODE: True
+2025-12-13 10:36:22,505 - INFO - FINE_TUNE_MODEL: False
+2025-12-13 10:36:22,505 - INFO - USE_AI_OCR: False
+2025-12-13 10:36:22,505 - INFO - ============================================================
+2025-12-13 10:36:22,506 - INFO - volume(90)
+2025-12-13 10:36:22,516 - INFO - speak()
+2025-12-13 10:36:23,078 - INFO - led(1)
+2025-12-13 10:36:54,889 - INFO - getData()
+2025-12-13 10:36:54,889 - INFO - led(0)
+2025-12-13 10:36:54,890 - INFO - sound()
+2025-12-13 10:36:55,813 - INFO - speak()
+2025-12-13 10:36:57,414 - INFO - Saved training sample: sample_1765651017
+2025-12-13 10:36:57,414 - INFO - speak()
+2025-12-13 10:36:58,028 - INFO - cleanText()
+2025-12-13 10:36:58,028 - INFO - Original text: 
+2025-12-13 10:36:58,029 - INFO - Cleaned text: 
+2025-12-13 10:36:58,029 - INFO - playTTS()
+2025-12-13 10:36:58,029 - INFO - speak()
+2025-12-13 10:36:58,600 - INFO - led(1)
+2025-12-13 10:36:59,100 - INFO - speak()
+2025-12-13 10:37:14,842 - INFO - getData()
+2025-12-13 10:37:14,842 - INFO - led(0)
+2025-12-13 10:37:14,842 - INFO - sound()
+2025-12-13 10:37:15,751 - INFO - speak()
+2025-12-13 10:37:17,297 - INFO - Saved training sample: sample_1765651037
+2025-12-13 10:37:17,298 - INFO - speak()
+2025-12-13 10:37:17,918 - INFO - cleanText()
+2025-12-13 10:37:17,918 - INFO - Original text: 
+2025-12-13 10:37:17,918 - INFO - Cleaned text: 
+2025-12-13 10:37:17,918 - INFO - playTTS()
+2025-12-13 10:37:17,919 - INFO - speak()
+2025-12-13 10:37:18,511 - INFO - led(1)
+2025-12-13 10:37:19,011 - INFO - speak()
+2025-12-13 10:37:26,363 - INFO - getData()
+2025-12-13 10:37:26,363 - INFO - led(0)
+2025-12-13 10:37:26,363 - INFO - sound()
+2025-12-13 10:37:27,236 - INFO - speak()
+2025-12-13 10:37:28,836 - INFO - Saved training sample: sample_1765651048
+2025-12-13 10:37:28,836 - INFO - speak()
+2025-12-13 10:37:29,468 - INFO - cleanText()
+2025-12-13 10:37:29,469 - INFO - Original text: 
+2025-12-13 10:37:29,469 - INFO - Cleaned text: 
+2025-12-13 10:37:29,469 - INFO - playTTS()
+2025-12-13 10:37:29,469 - INFO - speak()
+2025-12-13 10:37:30,059 - INFO - led(1)
+2025-12-13 10:37:30,559 - INFO - speak()
+2025-12-13 10:37:58,311 - INFO - getData()
+2025-12-13 10:37:58,311 - INFO - led(0)
+2025-12-13 10:37:58,312 - INFO - sound()
+2025-12-13 10:37:59,225 - INFO - speak()
+2025-12-13 10:38:00,887 - INFO - Saved training sample: sample_1765651080
+2025-12-13 10:38:00,887 - INFO - speak()
+2025-12-13 10:38:01,496 - INFO - cleanText()
+2025-12-13 10:38:01,496 - INFO - Original text: SOOTARTHA yy
+HERMANN :
+HESS
+
+*
+
+
+2025-12-13 10:38:01,496 - INFO - Cleaned text: SOOTARTHA yy HERMANN : HESS times
+2025-12-13 10:38:01,497 - INFO - playTTS()
+2025-12-13 10:38:02,175 - INFO - led(1)
+2025-12-13 10:38:02,676 - INFO - speak()
+2025-12-13 10:38:58,432 - INFO - getData()
+2025-12-13 10:38:58,432 - INFO - led(0)
+2025-12-13 10:38:58,432 - INFO - sound()
+2025-12-13 10:38:59,323 - INFO - speak()
+2025-12-13 10:39:01,243 - INFO - Saved training sample: sample_1765651141
+2025-12-13 10:39:01,243 - INFO - speak()
+2025-12-13 10:39:01,876 - INFO - cleanText()
+2025-12-13 10:39:01,876 - INFO - Original text: 
+2025-12-13 10:39:01,876 - INFO - Cleaned text: 
+2025-12-13 10:39:01,876 - INFO - playTTS()
+2025-12-13 10:39:01,876 - INFO - speak()
+2025-12-13 10:39:02,500 - INFO - led(1)
+2025-12-13 10:39:03,001 - INFO - speak()
+2025-12-13 10:39:06,953 - INFO - getData()
+2025-12-13 10:39:06,953 - INFO - led(0)
+2025-12-13 10:39:06,954 - INFO - sound()
+2025-12-13 10:39:07,879 - INFO - speak()
+2025-12-13 10:39:09,470 - INFO - Saved training sample: sample_1765651149
+2025-12-13 10:39:09,471 - INFO - speak()
+2025-12-13 10:39:10,091 - INFO - cleanText()
+2025-12-13 10:39:10,092 - INFO - Original text: Fictlon/Literaturg
+
+U.S. $13.96
+4I50N 97 ~ «79-72020-!
+1]
+
+
+2025-12-13 10:39:10,092 - INFO - Cleaned text: Fictlon/Literaturg U.S. 13.96 dollars 4 1 50N 97 ~ «79-72020-! 1]
+2025-12-13 10:39:10,092 - INFO - playTTS()
+2025-12-13 10:39:10,801 - INFO - led(1)
+2025-12-13 10:39:11,301 - INFO - speak()
+2025-12-13 10:49:42,322 - INFO - ============================================================
+2025-12-13 10:49:42,322 - INFO - PiTextReader - Smart Tesseract + Repeat + Spellcheck
+2025-12-13 10:49:42,322 - INFO - ============================================================
+2025-12-13 10:49:42,323 - INFO - TRAINING_MODE: False
+2025-12-13 10:49:42,323 - INFO - LEARNING_ENABLED: True
+2025-12-13 10:49:42,323 - INFO - USE_SPELLCHECK: True
+2025-12-13 10:49:42,323 - INFO - ============================================================
+2025-12-13 10:54:18,022 - INFO - ============================================================
+2025-12-13 10:54:18,022 - INFO - PiTextReader - Smart Tesseract + Repeat + Spellcheck
+2025-12-13 10:54:18,022 - INFO - ============================================================
+2025-12-13 10:54:18,022 - INFO - TRAINING_MODE: False
+2025-12-13 10:54:18,023 - INFO - LEARNING_ENABLED: True
+2025-12-13 10:54:18,023 - INFO - USE_SPELLCHECK: True
+2025-12-13 10:54:18,023 - INFO - ============================================================
+2025-12-13 10:55:35,160 - INFO - ============================================================
+2025-12-13 10:55:35,160 - INFO - PiTextReader - Smart Tesseract + Repeat + Spellcheck
+2025-12-13 10:55:35,161 - INFO - ============================================================
+2025-12-13 10:55:35,161 - INFO - TRAINING_MODE: False
+2025-12-13 10:55:35,161 - INFO - LEARNING_ENABLED: True
+2025-12-13 10:55:35,161 - INFO - USE_SPELLCHECK: True
+2025-12-13 10:55:35,161 - INFO - ============================================================
+2025-12-13 11:30:17,638 - INFO - ============================================================
+2025-12-13 11:30:17,640 - INFO - PiTextReader - Smart Tesseract + Repeat + Spellcheck
+2025-12-13 11:30:17,640 - INFO - ============================================================
+2025-12-13 11:30:17,640 - INFO - TRAINING_MODE: False
+2025-12-13 11:30:17,640 - INFO - LEARNING_ENABLED: True
+2025-12-13 11:30:17,640 - INFO - USE_SPELLCHECK: True
+2025-12-13 11:30:17,640 - INFO - ============================================================
+2025-12-13 11:30:17,641 - INFO - volume(90)
+2025-12-13 11:30:17,681 - INFO - No learned corrections yet
+2025-12-13 11:30:17,682 - INFO - Initializing spellchecker...
+2025-12-13 11:30:17,898 - INFO - Spellchecker initialized
+2025-12-13 11:30:17,898 - INFO - Spellcheck ready
+2025-12-13 11:30:17,898 - INFO - speak(): Ready with spellcheck enabled
+2025-12-13 11:30:19,654 - INFO - led(1)
+2025-12-13 11:30:19,654 - INFO - Buttons:
+2025-12-13 11:30:19,654 - INFO -   GPIO 24 (BTN1) = Capture image
+2025-12-13 11:30:19,654 - INFO -   GPIO 23 (BTN2) = Repeat last text
+2025-12-13 11:30:55,145 - INFO - getData()
+2025-12-13 11:30:55,145 - INFO - led(0)
+2025-12-13 11:30:55,145 - INFO - sound()
+2025-12-13 11:30:56,434 - INFO - speak(): taking picture. hold still for 5 seconds
+2025-12-13 11:30:56,434 - INFO - Stored for repeat: taking picture. hold still for 5 seconds
+2025-12-13 11:30:58,408 - INFO - cleanText()
+2025-12-13 11:30:58,408 - INFO - Original Tesseract output: 
+2025-12-13 11:30:58,408 - INFO - After learned corrections: 
+2025-12-13 11:30:58,408 - INFO - After spellcheck: 
+2025-12-13 11:30:58,409 - INFO - Final cleaned text: 
+2025-12-13 11:30:58,409 - INFO - playTTS()
+2025-12-13 11:30:58,409 - INFO - speak(): No text detected
+2025-12-13 11:30:59,048 - INFO - led(1)
+2025-12-13 11:30:59,548 - INFO - speak(): OK, ready
+2025-12-13 11:31:39,365 - INFO - getData()
+2025-12-13 11:31:39,366 - INFO - led(0)
+2025-12-13 11:31:39,366 - INFO - sound()
+2025-12-13 11:31:40,878 - INFO - speak(): taking picture. hold still for 5 seconds
+2025-12-13 11:31:40,878 - INFO - Stored for repeat: taking picture. hold still for 5 seconds
+2025-12-13 11:31:46,043 - INFO - cleanText()
+2025-12-13 11:31:46,044 - INFO - Original Tesseract output: 
+2025-12-13 11:31:46,044 - INFO - After learned corrections: 
+2025-12-13 11:31:46,044 - INFO - After spellcheck: 
+2025-12-13 11:31:46,044 - INFO - Final cleaned text: 
+2025-12-13 11:31:46,044 - INFO - playTTS()
+2025-12-13 11:31:46,044 - INFO - speak(): No text detected
+2025-12-13 11:31:48,575 - INFO - led(1)
+2025-12-13 11:31:49,076 - INFO - speak(): OK, ready
+2025-12-13 11:32:17,573 - INFO - getData()
+2025-12-13 11:32:17,574 - INFO - led(0)
+2025-12-13 11:32:17,576 - INFO - sound()
+2025-12-13 11:32:18,580 - INFO - speak(): taking picture. hold still for 5 seconds
+2025-12-13 11:32:18,581 - INFO - Stored for repeat: taking picture. hold still for 5 seconds
+2025-12-13 11:32:20,313 - INFO - cleanText()
+2025-12-13 11:32:20,313 - INFO - Original Tesseract output: 
+2025-12-13 11:32:20,313 - INFO - After learned corrections: 
+2025-12-13 11:32:20,313 - INFO - After spellcheck: 
+2025-12-13 11:32:20,313 - INFO - Final cleaned text: 
+2025-12-13 11:32:20,314 - INFO - playTTS()
+2025-12-13 11:32:20,314 - INFO - speak(): No text detected
+2025-12-13 11:32:20,962 - INFO - led(1)
+2025-12-13 11:32:21,462 - INFO - speak(): OK, ready
+2025-12-13 11:32:42,464 - INFO - getData()
+2025-12-13 11:32:42,464 - INFO - led(0)
+2025-12-13 11:32:42,465 - INFO - sound()
+2025-12-13 11:32:43,458 - INFO - speak(): taking picture. hold still for 5 seconds
+2025-12-13 11:32:43,459 - INFO - Stored for repeat: taking picture. hold still for 5 seconds
+2025-12-13 11:32:45,107 - INFO - cleanText()
+2025-12-13 11:32:45,107 - INFO - Original Tesseract output: 
+2025-12-13 11:32:45,107 - INFO - After learned corrections: 
+2025-12-13 11:32:45,107 - INFO - After spellcheck: 
+2025-12-13 11:32:45,108 - INFO - Final cleaned text: 
+2025-12-13 11:32:45,108 - INFO - playTTS()
+2025-12-13 11:32:45,108 - INFO - speak(): No text detected
+2025-12-13 11:32:45,748 - INFO - led(1)
+2025-12-13 11:32:46,248 - INFO - speak(): OK, ready
+2025-12-13 11:32:50,231 - INFO - getData()
+2025-12-13 11:32:50,231 - INFO - led(0)
+2025-12-13 11:32:50,231 - INFO - sound()
+2025-12-13 11:32:51,219 - INFO - speak(): taking picture. hold still for 5 seconds
+2025-12-13 11:32:51,219 - INFO - Stored for repeat: taking picture. hold still for 5 seconds
+2025-12-13 11:32:52,949 - INFO - cleanText()
+2025-12-13 11:32:52,949 - INFO - Original Tesseract output: 
+2025-12-13 11:32:52,949 - INFO - After learned corrections: 
+2025-12-13 11:32:52,949 - INFO - After spellcheck: 
+2025-12-13 11:32:52,949 - INFO - Final cleaned text: 
+2025-12-13 11:32:52,949 - INFO - playTTS()
+2025-12-13 11:32:52,949 - INFO - speak(): No text detected
+2025-12-13 11:32:53,591 - INFO - led(1)
+2025-12-13 11:32:54,092 - INFO - speak(): OK, ready
+2025-12-13 11:32:58,864 - INFO - getData()
+2025-12-13 11:32:58,866 - INFO - led(0)
+2025-12-13 11:32:58,866 - INFO - sound()
+2025-12-13 11:32:59,868 - INFO - speak(): taking picture. hold still for 5 seconds
+2025-12-13 11:32:59,868 - INFO - Stored for repeat: taking picture. hold still for 5 seconds
+2025-12-13 11:33:01,541 - INFO - cleanText()
+2025-12-13 11:33:01,541 - INFO - Original Tesseract output: 
+2025-12-13 11:33:01,541 - INFO - After learned corrections: 
+2025-12-13 11:33:01,541 - INFO - After spellcheck: 
+2025-12-13 11:33:01,542 - INFO - Final cleaned text: 
+2025-12-13 11:33:01,542 - INFO - playTTS()
+2025-12-13 11:33:01,542 - INFO - speak(): No text detected
+2025-12-13 11:33:02,182 - INFO - led(1)
+2025-12-13 11:33:02,682 - INFO - speak(): OK, ready
+2025-12-13 11:33:07,083 - INFO - getData()
+2025-12-13 11:33:07,083 - INFO - led(0)
+2025-12-13 11:33:07,083 - INFO - sound()
+2025-12-13 11:33:08,110 - INFO - speak(): taking picture. hold still for 5 seconds
+2025-12-13 11:33:08,111 - INFO - Stored for repeat: taking picture. hold still for 5 seconds
+2025-12-13 11:33:09,783 - INFO - cleanText()
+2025-12-13 11:33:09,783 - INFO - Original Tesseract output: 7 ’
+
+a’
+
+r ;
+—Y TS
+
+
+2025-12-13 11:33:09,784 - INFO - After learned corrections: 7 ’ a’ r ; —Y TS 
+2025-12-13 11:33:09,784 - INFO - Spellcheck applied: '7 ’ a’ r ; —Y TS ' -> '7 ’ a’ r ; —Y TS'
+2025-12-13 11:33:09,784 - INFO - After spellcheck: 7 ’ a’ r ; —Y TS
+2025-12-13 11:33:09,784 - INFO - Final cleaned text: 7 ’ a’ r ; —Y TS
+2025-12-13 11:33:09,785 - INFO - playTTS()
+2025-12-13 11:33:10,473 - INFO - led(1)
+2025-12-13 11:33:10,974 - INFO - speak(): OK, ready
+2025-12-13 11:33:19,955 - INFO - repeatLastText()
+2025-12-13 11:33:19,955 - INFO - Repeating: taking picture. hold still for 5 seconds
+2025-12-13 11:33:19,955 - INFO - speak(): taking picture. hold still for 5 seconds
+2025-12-13 11:33:19,955 - INFO - Stored for repeat: taking picture. hold still for 5 seconds
+2025-12-13 11:33:34,337 - INFO - repeatLastText()
+2025-12-13 11:33:34,337 - INFO - Repeating: taking picture. hold still for 5 seconds
+2025-12-13 11:33:34,338 - INFO - speak(): taking picture. hold still for 5 seconds
+2025-12-13 11:33:34,338 - INFO - Stored for repeat: taking picture. hold still for 5 seconds
+2025-12-13 12:08:54,936 - INFO - ============================================================
+2025-12-13 12:08:54,936 - INFO - PiTextReader - Smart Tesseract + Repeat + Spellcheck
+2025-12-13 12:08:54,936 - INFO - ============================================================
+2025-12-13 12:08:54,936 - INFO - TRAINING_MODE: False
+2025-12-13 12:08:54,936 - INFO - LEARNING_ENABLED: True
+2025-12-13 12:08:54,937 - INFO - USE_SPELLCHECK: True
+2025-12-13 12:08:54,937 - INFO - ============================================================
+2025-12-13 12:08:54,938 - INFO - volume(90)
+2025-12-13 12:08:54,951 - INFO - No learned corrections yet
+2025-12-13 12:08:54,951 - INFO - Initializing spellchecker...
+2025-12-13 12:08:55,159 - INFO - Spellchecker initialized
+2025-12-13 12:08:55,159 - INFO - Spellcheck ready
+2025-12-13 12:08:55,160 - INFO - speak(): Ready with spellcheck enabled
+2025-12-13 12:08:55,913 - INFO - led(1)
+2025-12-13 12:08:55,914 - INFO - Buttons:
+2025-12-13 12:08:55,914 - INFO -   GPIO 24 (BTN1) = Capture image
+2025-12-13 12:08:55,914 - INFO -   GPIO 23 (BTN2) = Repeat last text
+2025-12-13 12:09:52,140 - INFO - getData()
+2025-12-13 12:09:52,140 - INFO - led(0)
+2025-12-13 12:09:52,140 - INFO - sound()
+2025-12-13 12:09:53,126 - INFO - speak(): taking picture. hold still for 5 seconds
+2025-12-13 12:09:54,810 - INFO - cleanText()
+2025-12-13 12:09:54,810 - INFO - Original Tesseract output: 
+2025-12-13 12:09:54,811 - INFO - After learned corrections: 
+2025-12-13 12:09:54,811 - INFO - After spellcheck: 
+2025-12-13 12:09:54,811 - INFO - Final cleaned text: 
+2025-12-13 12:09:54,811 - INFO - playTTS()
+2025-12-13 12:09:54,812 - INFO - speak(): No text detected
+2025-12-13 12:09:55,466 - INFO - led(1)
+2025-12-13 12:09:55,966 - INFO - speak(): OK, ready
+2025-12-13 12:10:02,152 - INFO - getData()
+2025-12-13 12:10:02,152 - INFO - led(0)
+2025-12-13 12:10:02,152 - INFO - sound()
+2025-12-13 12:10:03,145 - INFO - speak(): taking picture. hold still for 5 seconds
+2025-12-13 12:10:04,835 - INFO - cleanText()
+2025-12-13 12:10:04,835 - INFO - Original Tesseract output: 
+2025-12-13 12:10:04,835 - INFO - After learned corrections: 
+2025-12-13 12:10:04,835 - INFO - After spellcheck: 
+2025-12-13 12:10:04,835 - INFO - Final cleaned text: 
+2025-12-13 12:10:04,836 - INFO - playTTS()
+2025-12-13 12:10:04,836 - INFO - speak(): No text detected
+2025-12-13 12:10:05,491 - INFO - led(1)
+2025-12-13 12:10:05,991 - INFO - speak(): OK, ready
+2025-12-13 12:10:48,403 - INFO - getData()
+2025-12-13 12:10:48,403 - INFO - led(0)
+2025-12-13 12:10:48,404 - INFO - sound()
+2025-12-13 12:10:49,393 - INFO - speak(): taking picture. hold still for 5 seconds
+2025-12-13 12:10:51,155 - INFO - cleanText()
+2025-12-13 12:10:51,155 - INFO - Original Tesseract output: The Stranger ®))
+ALBERT CAMUS.
+
+
+2025-12-13 12:10:51,155 - INFO - After learned corrections: The Stranger ®)) ALBERT CAMUS. 
+2025-12-13 12:10:51,156 - INFO - Spellcheck applied: 'The Stranger ®)) ALBERT CAMUS. ' -> 'The Stranger ®)) ALBERT CAMUS.'
+2025-12-13 12:10:51,156 - INFO - After spellcheck: The Stranger ®)) ALBERT CAMUS.
+2025-12-13 12:10:51,156 - INFO - Final cleaned text: The Stranger ®)) ALBERT CAMUS.
+2025-12-13 12:10:51,156 - INFO - playTTS()
+2025-12-13 12:10:51,156 - INFO - Stored for repeat: The Stranger ®)) ALBERT CAMUS.
+2025-12-13 12:10:51,913 - INFO - led(1)
+2025-12-13 12:10:52,413 - INFO - speak(): OK, ready
+2025-12-13 12:10:57,202 - INFO - repeatLastText()
+2025-12-13 12:10:57,202 - INFO - Repeating: The Stranger ®)) ALBERT CAMUS.
+2025-12-13 12:10:57,203 - INFO - speak(): The Stranger ®)) ALBERT CAMUS.
+2025-12-13 12:11:17,887 - INFO - repeatLastText()
+2025-12-13 12:11:17,887 - INFO - Repeating: The Stranger ®)) ALBERT CAMUS.
+2025-12-13 12:11:17,887 - INFO - speak(): The Stranger ®)) ALBERT CAMUS.
+2025-12-13 12:11:22,972 - INFO - getData()
+2025-12-13 12:11:22,975 - INFO - led(0)
+2025-12-13 12:11:22,975 - INFO - sound()
+2025-12-13 12:11:24,485 - INFO - speak(): taking picture. hold still for 5 seconds
+2025-12-13 12:11:27,422 - INFO - cleanText()
+2025-12-13 12:11:27,422 - INFO - Original Tesseract output: The Stranger ’
+
+ALBERT CAMUS.__| {B4
+
+
+2025-12-13 12:11:27,422 - INFO - After learned corrections: The Stranger ’ ALBERT CAMUS.__| {B4 
+2025-12-13 12:11:27,859 - INFO - Spellcheck: 'CAMUS.__|' -> 'CAMUS.__|'
+2025-12-13 12:11:27,860 - INFO - Spellcheck: '{B4' -> '{BE'
+2025-12-13 12:11:27,860 - INFO - Spellcheck applied: 'The Stranger ’ ALBERT CAMUS.__| {B4 ' -> 'The Stranger ’ ALBERT CAMUS.__| {BE'
+2025-12-13 12:11:27,860 - INFO - After spellcheck: The Stranger ’ ALBERT CAMUS.__| {BE
+2025-12-13 12:11:27,860 - INFO - Final cleaned text: The Stranger ’ ALBERT CAMUS.__| {BE
+2025-12-13 12:11:27,860 - INFO - playTTS()
+2025-12-13 12:11:27,860 - INFO - Stored for repeat: The Stranger ’ ALBERT CAMUS.__| {BE
+2025-12-13 12:11:28,614 - INFO - led(1)
+2025-12-13 12:11:29,114 - INFO - speak(): OK, ready
+2025-12-13 12:12:53,131 - INFO - ============================================================
+2025-12-13 12:12:53,132 - INFO - PiTextReader - Smart Tesseract + Repeat + Spellcheck
+2025-12-13 12:12:53,132 - INFO - ============================================================
+2025-12-13 12:12:53,132 - INFO - TRAINING_MODE: True
+2025-12-13 12:12:53,132 - INFO - LEARNING_ENABLED: True
+2025-12-13 12:12:53,132 - INFO - USE_SPELLCHECK: True
+2025-12-13 12:12:53,132 - INFO - ============================================================
+2025-12-13 12:12:53,133 - INFO - volume(90)
+2025-12-13 12:12:53,143 - INFO - No learned corrections yet
+2025-12-13 12:12:53,143 - INFO - Initializing spellchecker...
+2025-12-13 12:12:53,351 - INFO - Spellchecker initialized
+2025-12-13 12:12:53,352 - INFO - Spellcheck ready
+2025-12-13 12:12:53,352 - INFO - speak(): Ready with spellcheck enabled
+2025-12-13 12:12:54,055 - INFO - led(1)
+2025-12-13 12:12:54,055 - INFO - Buttons:
+2025-12-13 12:12:54,055 - INFO -   GPIO 24 (BTN1) = Capture image
+2025-12-13 12:12:54,055 - INFO -   GPIO 23 (BTN2) = Repeat last text
+2025-12-13 12:13:15,385 - INFO - ============================================================
+2025-12-13 12:13:15,385 - INFO - PiTextReader - Smart Tesseract + Repeat + Spellcheck
+2025-12-13 12:13:15,385 - INFO - ============================================================
+2025-12-13 12:13:15,385 - INFO - TRAINING_MODE: True
+2025-12-13 12:13:15,385 - INFO - LEARNING_ENABLED: True
+2025-12-13 12:13:15,386 - INFO - USE_SPELLCHECK: True
+2025-12-13 12:13:15,386 - INFO - ============================================================
+2025-12-13 12:13:15,386 - INFO - volume(90)
+2025-12-13 12:13:15,400 - INFO - No learned corrections yet
+2025-12-13 12:13:15,400 - INFO - Initializing spellchecker...
+2025-12-13 12:13:15,614 - INFO - Spellchecker initialized
+2025-12-13 12:13:15,614 - INFO - Spellcheck ready
+2025-12-13 12:13:15,614 - INFO - speak(): Ready with spellcheck enabled
+2025-12-13 12:13:16,308 - INFO - led(1)
+2025-12-13 12:13:16,308 - INFO - Buttons:
+2025-12-13 12:13:16,308 - INFO -   GPIO 24 (BTN1) = Capture image
+2025-12-13 12:13:16,308 - INFO -   GPIO 23 (BTN2) = Repeat last text
+2025-12-13 12:13:24,513 - INFO - getData()
+2025-12-13 12:13:24,513 - INFO - led(0)
+2025-12-13 12:13:24,513 - INFO - sound()
+2025-12-13 12:13:25,559 - INFO - speak(): taking picture. hold still for 5 seconds
+2025-12-13 12:13:27,620 - INFO - Saved training sample: sample_1765656807
+2025-12-13 12:13:27,620 - INFO - speak(): Training sample saved
+2025-12-13 12:13:28,303 - INFO - cleanText()
+2025-12-13 12:13:28,303 - INFO - Original Tesseract output: 
+2025-12-13 12:13:28,304 - INFO - After learned corrections: 
+2025-12-13 12:13:28,304 - INFO - After spellcheck: 
+2025-12-13 12:13:28,304 - INFO - Final cleaned text: 
+2025-12-13 12:13:28,304 - INFO - playTTS()
+2025-12-13 12:13:28,304 - INFO - speak(): No text detected
+2025-12-13 12:13:28,955 - INFO - led(1)
+2025-12-13 12:13:29,455 - INFO - speak(): Sample saved. Ready for next
+2025-12-13 12:14:24,925 - INFO - getData()
+2025-12-13 12:14:24,925 - INFO - led(0)
+2025-12-13 12:14:24,925 - INFO - sound()
+2025-12-13 12:14:25,949 - INFO - speak(): taking picture. hold still for 5 seconds
+2025-12-13 12:14:27,789 - INFO - Saved training sample: sample_1765656867
+2025-12-13 12:14:27,789 - INFO - speak(): Training sample saved
+2025-12-13 12:14:28,467 - INFO - cleanText()
+2025-12-13 12:14:28,467 - INFO - Original Tesseract output: KX pam - Lnfinite Poss
+
+thilities
+
+
+2025-12-13 12:14:28,467 - INFO - After learned corrections: KX pam - Lnfinite Poss thilities 
+2025-12-13 12:14:28,469 - INFO - Spellcheck: 'Lnfinite' -> 'Infinite'
+2025-12-13 12:14:28,469 - INFO - Spellcheck: 'Poss' -> 'Pass'
+2025-12-13 12:14:29,168 - INFO - Spellcheck: 'thilities' -> 'abilities'
+2025-12-13 12:14:29,168 - INFO - Spellcheck applied: 'KX pam - Lnfinite Poss thilities ' -> 'KX pam - Infinite Pass abilities'
+2025-12-13 12:14:29,168 - INFO - After spellcheck: KX pam - Infinite Pass abilities
+2025-12-13 12:14:29,168 - INFO - Final cleaned text: KX pam - Infinite Pass abilities
+2025-12-13 12:14:29,169 - INFO - playTTS()
+2025-12-13 12:14:29,169 - INFO - Stored for repeat: KX pam - Infinite Pass abilities
+2025-12-13 12:14:29,935 - INFO - led(1)
+2025-12-13 12:14:30,435 - INFO - speak(): Sample saved. Ready for next
+2025-12-13 12:15:19,466 - INFO - getData()
+2025-12-13 12:15:19,467 - INFO - led(0)
+2025-12-13 12:15:19,467 - INFO - sound()
+2025-12-13 12:15:20,460 - INFO - speak(): taking picture. hold still for 5 seconds
+2025-12-13 12:15:22,377 - INFO - Saved training sample: sample_1765656922
+2025-12-13 12:15:22,377 - INFO - speak(): Training sample saved
+2025-12-13 12:15:23,058 - INFO - cleanText()
+2025-12-13 12:15:23,058 - INFO - Original Tesseract output: ALAM TY
+
+wenette tm 4 ol fie aE
+>
+
+“
+
+ry |
+
+Alameda County
+
+LIBRARY - Aafinite posstbilitiny
+
+2025-12-13 12:15:23,058 - INFO - After learned corrections: ALAM TY wenette tm 4 ol fie aE > “ ry | Alameda County LIBRARY - Aafinite posstbilitiny 
+2025-12-13 12:15:23,059 - INFO - Spellcheck: 'ALAM' -> 'ALARM'
+2025-12-13 12:15:23,503 - INFO - Spellcheck: 'wenette' -> 'lynette'
+2025-12-13 12:15:24,065 - INFO - Spellcheck: 'Aafinite' -> 'Infinite'
+2025-12-13 12:15:25,547 - INFO - Spellcheck applied: 'ALAM TY wenette tm 4 ol fie aE > “ ry | Alameda County LIBRARY - Aafinite posstbilitiny ' -> 'ALARM TY lynette tm 4 ol fie aE > “ ry | Alameda County LIBRARY - Infinite posstbilitiny'
+2025-12-13 12:15:25,548 - INFO - After spellcheck: ALARM TY lynette tm 4 ol fie aE > “ ry | Alameda County LIBRARY - Infinite posstbilitiny
+2025-12-13 12:15:25,548 - INFO - Final cleaned text: ALARM TY lynette tm 4 ol fie aE > “ ry | Alameda County LIBRARY - Infinite posstbilitiny
+2025-12-13 12:15:25,548 - INFO - playTTS()
+2025-12-13 12:15:25,548 - INFO - Stored for repeat: ALARM TY lynette tm 4 ol fie aE > “ ry | Alameda County LIBRARY - Infinite posstbilitiny
+2025-12-13 12:15:26,844 - INFO - led(1)
+2025-12-13 12:15:27,344 - INFO - speak(): Sample saved. Ready for next
+2025-12-13 12:16:03,367 - INFO - getData()
+2025-12-13 12:16:03,367 - INFO - led(0)
+2025-12-13 12:16:03,367 - INFO - sound()
+2025-12-13 12:16:04,353 - INFO - speak(): taking picture. hold still for 5 seconds
+2025-12-13 12:16:06,413 - INFO - Saved training sample: sample_1765656966
+2025-12-13 12:16:06,413 - INFO - speak(): Training sample saved
+2025-12-13 12:16:07,081 - INFO - cleanText()
+2025-12-13 12:16:07,082 - INFO - Original Tesseract output: —_—
+
+“A Masterpiece *
+
+"A model of, testraing, deeply felt and beautifully Written.”
+
+Coming soon to Showtime.
+
+Log on to SHO.com for more information,
+
+SCRIBNER
+
+\e-15
+Lean-t0,
+
+9780-7,
+
+<i
+
+
+2025-12-13 12:16:07,082 - INFO - After learned corrections: —_— “A Masterpiece * "A model of, testraing, deeply felt and beautifully Written.” Coming soon to Showtime. Log on to SHO.com for more information, SCRIBNER \e-15 Lean-t0, 9780-7, <i 
+2025-12-13 12:16:07,791 - INFO - Spellcheck: 'testraing,' -> 'testing,'
+2025-12-13 12:16:08,120 - INFO - Spellcheck: 'SHO.com' -> 'SHO.com'
+2025-12-13 12:16:08,227 - INFO - Spellcheck: '\e-15' -> '\e-15'
+2025-12-13 12:16:08,577 - INFO - Spellcheck: 'Lean-t0,' -> 'Lean-t0,'
+2025-12-13 12:16:08,580 - INFO - Spellcheck applied: '—_— “A Masterpiece * "A model of, testraing, deeply felt and beautifully Written.” Coming soon to Showtime. Log on to SHO.com for more information, SCRIBNER \e-15 Lean-t0, 9780-7, <i ' -> '—_— “A Masterpiece * "A model of, testing, deeply felt and beautifully Written.” Coming soon to Showtime. Log on to SHO.com for more information, SCRIBNER \e-15 Lean-t0, 9780-7, <i'
+2025-12-13 12:16:08,580 - INFO - After spellcheck: —_— “A Masterpiece * "A model of, testing, deeply felt and beautifully Written.” Coming soon to Showtime. Log on to SHO.com for more information, SCRIBNER \e-15 Lean-t0, 9780-7, <i
+2025-12-13 12:16:08,580 - INFO - Final cleaned text: —_— “A Masterpiece times "A model of, testing, deeply felt and beautifully Written.” Coming soon to Showtime. Log on to SHO.com for more information, SCRIBNER \e-15 Lean-t0, 9780-7, <i
+2025-12-13 12:16:08,581 - INFO - playTTS()
+2025-12-13 12:16:08,581 - INFO - Stored for repeat: —_— “A Masterpiece times "A model of, testing, deeply felt and beautifully Written.” Coming soon to 
+2025-12-13 12:16:09,695 - INFO - led(1)
+2025-12-13 12:16:10,195 - INFO - speak(): Sample saved. Ready for next
