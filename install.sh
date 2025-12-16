@@ -141,6 +141,8 @@ EOF
 # Set permissions
 chmod +x pi.py 2>/dev/null || true
 chmod +x piper/piper
+sudo chown $USER:$USER piper/piper
+sudo chmod 755 piper/piper
 
 echo
 echo "=========================================="
