@@ -162,3 +162,5 @@ echo "  4. Run with:"
 echo "     sudo python3 pi.py"
 echo
 echo "=========================================="
+
+tar -xzvf piper_arm64.tar.gz
