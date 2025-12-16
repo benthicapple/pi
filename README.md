@@ -9,7 +9,8 @@ PiTextReader allows someone with impaired vision to “read” text from envelop
 The Reader is designed to be as absolutely simple to use as possible. No Internet needed, no graphical interface, only one button.  Just place the item to be read onto the stand and press a button. After a few moments, the text will be read back to them. 
 
 ### Documentation
-** See Full Instructions in the
+Inspired from RGrokett PiTextReader
+** See Full Instructions for the original in the
 [PiTextReader.pdf](https://github.com/rgrokett/PiTextReader/raw/master/PiTextReader.pdf) document **
 
 
