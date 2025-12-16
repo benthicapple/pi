@@ -129,12 +129,18 @@ else
     echo "Extracting Piper..."
     tar -xzf piper_arm64.tar.gz
     
-    if [ ! -f "piper_arm64/piper" ]; then
+    # Find the piper binary (location varies by release)
+    PIPER_BIN=$(find . -name "piper" -type f 2>/dev/null | head -1)
+    
+    if [ -z "$PIPER_BIN" ]; then
         echo "❌ Piper binary not found in archive"
+        echo "   Archive contents:"
+        tar -tzf piper_arm64.tar.gz | head -10
         exit 1
     fi
     
-    cp piper_arm64/piper ./
+    echo "Found Piper at: $PIPER_BIN"
+    cp "$PIPER_BIN" ./piper
     chmod +x piper
     
     # Clean up
