@@ -1,0 +1,18 @@
+{
+  "word_replacements": {
+    "|": "I",
+    "ms": "programs",
+    "\u201cHey,": "\"Hey,",
+    "place.\u201d": "place.\"",
+    "it\u2019s": "it's",
+    "In": "in",
+    "stu": "student",
+    "that\u2019s": "that's",
+    "Lego\u00ae": "Lego",
+    "\u201cMaker": "\"Maker",
+    "Spaces\u201d": "Spaces\"",
+    "clubs,": "clubsm"
+  },
+  "pattern_fixes": [],
+  "context_corrections": {}
+}
